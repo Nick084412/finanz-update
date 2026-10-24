@@ -1,0 +1,307 @@
+{
+ "typ": "tag",
+ "datum": "2026-10-21",
+ "top": [
+  {
+   "titel": "Frühstart-Rente beschlossen",
+   "kurz": "10 € pro Kind und Monat, Start mit Jahrgang 2020.",
+   "anker": "fruehstart"
+  },
+  {
+   "titel": "Trade Republic gründet eigenen Versicherer",
+   "kurz": "Fondspolicen für die neue geförderte Vorsorge in Sicht.",
+   "anker": "traderepublic"
+  },
+  {
+   "titel": "Elementar-Pflicht für Hausbesitzer wird konkreter",
+   "kurz": "Eckpunkte stehen, Gesetzentwurf für 2027 erwartet.",
+   "anker": "elementar"
+  }
+ ],
+ "kennzahlen": [
+  {
+   "name": "DAX",
+   "wert": "25.304",
+   "stand": "Schluss 20.10. · −0,06 %",
+   "quelle_name": "finanzen.net",
+   "quelle_url": "https://www.finanzen.net/index/dax"
+  },
+  {
+   "name": "EZB-Einlagensatz",
+   "wert": "2,50 %",
+   "stand": "seit Sept. 2026 · nächste Sitzung 29.10.",
+   "quelle_name": "capitalo",
+   "quelle_url": "https://www.capitalo.de/anbieter/capitalo/news/ezb-leitzins-september-2026"
+  },
+  {
+   "name": "Bauzins 10 J.",
+   "wert": "≈ 4,4–4,5 %",
+   "stand": "Stand 15.10.",
+   "quelle_name": "Interhyp",
+   "quelle_url": "https://www.interhyp.de/zinsen/"
+  },
+  {
+   "name": "Inflation DE",
+   "wert": "3,3 %",
+   "stand": "September 2026",
+   "quelle_name": "Destatis",
+   "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
+  },
+  {
+   "name": "Bund 10 J.",
+   "wert": "3,41 %",
+   "stand": "21.10.",
+   "quelle_name": "ariva/dpa-AFX",
+   "quelle_url": "https://www.ariva.de/news/deutsche-anleihen-sinken-franzoesischer-risikoaufschlag-auf-12176189"
+  }
+ ],
+ "rubriken": [
+  {
+   "titel": "Das Wichtigste heute",
+   "meldungen": [
+    {
+     "titel": "Bundestag beschließt die Frühstart-Rente",
+     "text": [
+      "Am 16. Oktober hat der Bundestag die Frühstart-Rente verabschiedet. Der Staat zahlt 10 € im Monat pro Kind von 6 bis 18 Jahren, los geht es mit dem Jahrgang 2020. Eltern können privat bis 6.840 € im Jahr dazulegen. Wer keinen eigenen Vertrag abschließt, landet ab 2028 in einem staatlichen Sammeltopf, der nur in breit gestreute Aktien investieren darf."
+     ],
+     "beratung": "Eltern mit Kindern der Jahrgänge 2020/2021 jetzt ansprechen: „Wollen Sie den Vertrag selbst wählen und vielleicht etwas dazusparen, statt den Staatstopf zu nehmen?“",
+     "quellen": [
+      {
+       "name": "Deutscher Bundestag",
+       "datum": "16.10.2026",
+       "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-fruehstartrente-1223624"
+      }
+     ],
+     "id": "fruehstart"
+    },
+    {
+     "titel": "Trade Republic gründet Versicherer in Liechtenstein",
+     "text": [
+      "Die Neobank hat die Justinian Versicherungs AG gegründet, die Lebensversicherungen und Fondspolicen anbieten darf. Die Branche vermutet einen Zusammenhang mit der neuen geförderten Altersvorsorge, die auch Produkte mit lebenslanger Rente zulässt. Die Gratis-Konditionen des Trade-Republic-Altersvorsorgedepots dürften für die Policen nicht gelten."
+     ],
+     "beratung": "Kunden, die „einfach alles bei Trade Republic“ machen wollen, den Unterschied erklären: Depot ohne Rentengarantie oder Police mit lebenslanger Rente, und was beides kostet.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "20.10.2026",
+       "url": "https://www.pfefferminzia.de/branche/trade-republic-will-auch-versicherungen-anbieten/"
+      }
+     ],
+     "id": "traderepublic"
+    },
+    {
+     "titel": "Elementarschutz soll Standard in der Wohngebäudeversicherung werden",
+     "text": [
+      "Laut Eckpunkten von Justizministerin Hubig und Finanzminister Klingbeil sollen neue Wohngebäudepolicen Überschwemmung und andere Naturgefahren automatisch einschließen, alte Verträge werden schrittweise umgestellt. Die Selbstbeteiligung soll auf höchstens 20.000 € begrenzt sein. Ein Gesetzentwurf wird für 2027 erwartet."
+     ],
+     "beratung": "Bei allen Eigentümern prüfen, ob Elementar schon drin ist. Wer jetzt ergänzt, ist vorbereitet und vermeidet Lücken bis zur Pflicht.",
+     "quellen": [
+      {
+       "name": "Versicherungswirtschaft heute",
+       "datum": "21.10.2026",
+       "url": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-10-21/pflichtversicherung-gegen-elementarschaeden-wird-konkreter/"
+      }
+     ],
+     "id": "elementar"
+    }
+   ]
+  },
+  {
+   "titel": "Altersvorsorge & Rente",
+   "meldungen": [
+    {
+     "titel": "Preiskampf ums Altersvorsorgedepot",
+     "text": [
+      "Noch vor dem Start am 1. Januar 2027 unterbieten sich die Anbieter. Trade Republic bietet das Depot komplett ohne Gebühren an, Scalable erstattet Fondskosten, Deka und DWS liegen beim Standarddepot um 0,1 % im Jahr. Gesetzlich erlaubt ist bis 1 %. Der Staat gibt bis 540 € Zulage im Jahr, plus bis 300 € pro Kind."
+     ],
+     "beratung": "Kunden werden nach dem Preis fragen. Gut vorbereitet sein: Was bekommt der Kunde zusätzlich durch Beratung, und welche Zulage steht ihm konkret zu?",
+     "quellen": [
+      {
+       "name": "test.de",
+       "datum": "13.10.2026",
+       "url": "https://www.test.de/Altersvorsorgedepot-Preiskampf-der-Anbieter-ING-Trade-Republic-Smartbroker-6335719-0/"
+      },
+      {
+       "name": "fundresearch/dpa",
+       "datum": "Okt. 2026",
+       "url": "https://www.fundresearch.de/nachrichten/bank/2026/10/trade-republic-verschaerft-preiskampf-um-altersvorsorgedepot-548632.php"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Versicherungen",
+   "meldungen": [
+    {
+     "titel": "Krankenkasse: Zusatzbeitrag 2027 bleibt bei 2,9 %",
+     "text": [
+      "Der Schätzerkreis rechnet für 2027 mit einem unveränderten durchschnittlichen Zusatzbeitrag von 2,9 %. Festgelegt wird der Wert bis 1. November vom Gesundheitsministerium. Jede Kasse setzt ihren Satz selbst fest, die Spanne reicht derzeit von 2,18 % bis 4,39 %."
+     ],
+     "beratung": "Beim Budget-Check die Kasse des Kunden ansehen. Bei einem Satz deutlich über dem Schnitt kann ein Kassenwechsel spürbar Geld sparen.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "15.10.2026",
+       "url": "https://www.pfefferminzia.de/gesundheit/durchschnittlicher-gkv-zusatzbeitrag-bleibt-bei-29-prozent/"
+      }
+     ]
+    },
+    {
+     "titel": "Pflegereform: Anträge noch 2026 stellen",
+     "text": [
+      "Das Kabinett hat die Pflegereform am 30. September beschlossen, sie soll 2027 gelten. Laut Entwurf wird es schwerer, Pflegegrad 1 bis 3 zu bekommen, und der Entlastungsbetrag in Pflegegrad 1 fällt weg. Stiftung Warentest rät, Erst- und Höherstufungsanträge bis 31. Dezember zu stellen, weil dann noch die alten Regeln gelten."
+     ],
+     "beratung": "Kunden mit pflegebedürftigen Eltern auf die Frist hinweisen. Guter Einstieg ins Thema private Pflegevorsorge.",
+     "quellen": [
+      {
+       "name": "Stiftung Warentest",
+       "datum": "01.10.2026",
+       "url": "https://www.test.de/presse/pressemitteilungen/Pflegereform-Hoehere-Huerden-und-mehr-Einschnitte-das-sollten-Betroffene-jetzt-tun-6341800-0/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Geldanlage & Märkte",
+   "meldungen": [
+    {
+     "titel": "DAX ohne klare Richtung, Ölpreis und Zinsen im Blick",
+     "text": [
+      "Der DAX schloss am Dienstag bei 25.304 Punkten fast unverändert. Am Mittwoch stieg die Rendite zehnjähriger Bundesanleihen auf 3,41 %, weil der Ölpreis wegen des Iran-Kriegs wieder anzog. Der Zinsabstand zu Frankreich ist so groß wie seit 15 Jahren nicht."
+     ],
+     "beratung": "Unruhige Nachrichten sind kein Grund, Sparpläne zu stoppen. Gerade jetzt zeigen, wie breite Streuung schwankende Märkte abfedert.",
+     "quellen": [
+      {
+       "name": "finanzen.net",
+       "datum": "20.10.2026",
+       "url": "https://www.finanzen.net/index/dax"
+      },
+      {
+       "name": "ariva/dpa-AFX",
+       "datum": "21.10.2026",
+       "url": "https://www.ariva.de/news/deutsche-anleihen-sinken-franzoesischer-risikoaufschlag-auf-12176189"
+      }
+     ]
+    },
+    {
+     "titel": "Inflation auf Jahreshoch: 3,3 %",
+     "text": [
+      "Die Preise lagen im September 3,3 % über dem Vorjahr, so hoch wie seit Ende 2023 nicht. Treiber ist Energie: Heizöl kostet fast 75 % mehr, Sprit gut 37 %. Strom und Gas sind dagegen günstiger geworden. Die EZB hat den Einlagensatz deshalb schon zweimal auf 2,50 % angehoben, die nächste Sitzung ist am 29. Oktober."
+     ],
+     "beratung": "Rechenbeispiel zeigen: Was sind 1.000 € Rente bei 3 % Teuerung in 25 Jahren noch wert? Das macht Vorsorgelücken greifbar.",
+     "quellen": [
+      {
+       "name": "Destatis",
+       "datum": "13.10.2026",
+       "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
+      },
+      {
+       "name": "capitalo",
+       "datum": "Sept. 2026",
+       "url": "https://www.capitalo.de/anbieter/capitalo/news/ezb-leitzins-september-2026"
+      }
+     ]
+    },
+    {
+     "titel": "Sparkassen starten Krypto-Handel in der App",
+     "text": [
+      "Seit 19. Oktober können Kunden erster Sparkassen Bitcoin, Ethereum und drei weitere Kryptowerte in der Sparkassen-App kaufen. Das Angebot kommt von der Deka und läuft ohne Beratung. Weitere Sparkassen sollen nach und nach folgen."
+     ],
+     "beratung": "Wenn Kunden danach fragen: Krypto höchstens als kleine Beimischung mit Geld, dessen Verlust man verkraftet, und nie statt der Altersvorsorge.",
+     "quellen": [
+      {
+       "name": "test.de",
+       "datum": "21.10.2026",
+       "url": "https://www.test.de/thema/aktuelle-finanzanalysen/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Baufinanzierung & Immobilien",
+   "meldungen": [
+    {
+     "titel": "Bauzinsen um 4,5 %, Banken erwarten Seitwärts",
+     "text": [
+      "Zehnjährige Darlehen kosten laut Interhyp rund 4,4 bis 4,5 %. 80 % der befragten Banken erwarten in den nächsten ein bis zwei Monaten keine Bewegung. Einen deutlichen Rückgang hält Interhyp nicht für wahrscheinlich, solange der Iran-Konflikt anhält."
+     ],
+     "beratung": "Wer kaufen will, sollte nicht auf fallende Zinsen warten. Lieber jetzt die monatliche Rate mit dem Budget abgleichen und Angebote einholen.",
+     "quellen": [
+      {
+       "name": "Interhyp, Stand 15.10.2026",
+       "url": "https://www.interhyp.de/zinsen/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Was deine Kunden gerade lesen",
+   "meldungen": [
+    {
+     "titel": "Finanztip: Tagesgeld bis 4,1 %",
+     "text": [
+      "Im Tagesgeld-Vergleich zahlen sichere Banken bis zu 4,1 % Zinsen, der Spitzenwert gilt aber nur drei Monate als Lockangebot. Festgeld bringt bis rund 3,1 %."
+     ],
+     "beratung": "Die Notreserve (drei Monatsausgaben) darf gern aufs Tagesgeld. Für das langfristige Ziel bleibt der Sparplan die bessere Wahl.",
+     "quellen": [
+      {
+       "name": "Finanztip",
+       "datum": "20.10.2026",
+       "url": "https://www.finanztip.de/tagesgeld/"
+      }
+     ]
+    },
+    {
+     "titel": "Finanztest: Offene Immobilienfonds „lieber raus“",
+     "text": [
+      "Die getesteten offenen Immobilienfonds bringen meist schwache, teils negative Renditen. Stiftung Warentest rät Anlegern zum Ausstieg."
+     ],
+     "beratung": "Bestandskunden mit Immobilienfonds im Depot aktiv ansprechen, bevor sie den Artikel lesen.",
+     "quellen": [
+      {
+       "name": "test.de",
+       "datum": "09.10.2026",
+       "url": "https://www.test.de/thema/aktuelle-finanzanalysen/"
+      }
+     ]
+    },
+    {
+     "titel": "Finanztest: Depot-Vergleich",
+     "text": [
+      "Ein Wechsel des Brokers kann mehrere hundert Euro an Depotkosten sparen. Auch das neue Sparkassen-Depot S-Neo ist nur mit dem passenden Girokonto günstig."
+     ],
+     "beratung": "Kosten offen ansprechen und zeigen, welche Leistung der Kunde dafür bekommt.",
+     "quellen": [
+      {
+       "name": "test.de",
+       "datum": "14.10.2026",
+       "url": "https://www.test.de/thema/aktuelle-finanzanalysen/"
+      }
+     ]
+    },
+    {
+     "titel": "Verbraucherzentrale: Online-Vortrag zur neuen Vorsorge",
+     "text": [
+      "Heute, am 21. Oktober, erklärt die Verbraucherzentrale online die Reform der privaten Altersvorsorge: Depotwahl und was mit bestehenden Riester-Verträgen passiert. Ein zweiter Termin folgt am 7. Dezember."
+     ],
+     "beratung": "Riester-Kunden kommen mit Fragen. Vorher klären: Wann lohnt sich ein Wechsel ins neue Depot, wann nicht?",
+     "quellen": [
+      {
+       "name": "verbraucherzentrale.de",
+       "url": "https://www.verbraucherzentrale.de/veranstaltungen/private-altersvorsorge-neue-chance-nach-der-reform-126562"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "aufhaenger": [
+  "„Ab Januar startet die neue geförderte Altersvorsorge, und für Kinder gibt es jetzt die Frühstart-Rente. Viele Anbieter werben gerade nur mit dem Preis. Lassen Sie uns einmal durchrechnen, wie viel Zulage Ihnen und Ihren Kindern zusteht und was das bei 3 % Inflation im Rentenalter wirklich bedeutet.“"
+ ],
+ "kennzahlen_hinweis": "MSCI World: kein belegter aktueller Stand gefunden, deshalb hier weggelassen.",
+ "fusszeile": "Zusammengestellt am 21.10.2026 aus öffentlichen Quellen. Keine Gewähr für Kurse und Zinsen; Werte vor Kundengesprächen kurz prüfen. Zu tecis / Swiss Life Deutschland gab es keine neuen öffentlichen Meldungen."
+}

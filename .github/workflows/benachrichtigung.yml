@@ -1,0 +1,61 @@
+# Schickt nach jeder neuen Ausgabe eine Push-Nachricht über ntfy.
+# Abonnieren: App „ntfy“ installieren, „+“ tippen, Kanal finanz-update-od6997pb eintragen.
+name: Push-Nachricht
+on:
+  push:
+    branches: [main]
+    paths: ['daten/**']
+  workflow_dispatch:
+
+env:
+  NTFY_TOPIC: finanz-update-od6997pb
+  SEITE: https://nick084412.github.io/finanz-update/
+
+jobs:
+  senden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Neue Ausgabe finden und Nachricht senden
+        env:
+          VORHER: ${{ github.event.before }}
+          JETZT: ${{ github.sha }}
+          ART: ${{ github.event_name }}
+        run: |
+          python3 - <<'PY'
+          import datetime as dt, json, os, subprocess, time, urllib.request
+          from pathlib import Path
+          seite = os.environ["SEITE"]
+          if os.environ["ART"] == "workflow_dispatch":
+              # Handstart = Test mit der neuesten Ausgabe
+              dateien = sorted(Path("daten").glob("*.json"), key=lambda p: json.loads(p.read_text(encoding="utf-8"))["datum"])[-1:]
+          else:
+              vorher = os.environ.get("VORHER", "")
+              if not vorher or set(vorher) == {"0"}:
+                  print("Erster Push – keine Nachricht."); raise SystemExit
+              neu = subprocess.run(["git", "diff", "--name-only", "--diff-filter=A", vorher, os.environ["JETZT"], "--", "daten/"],
+                                   capture_output=True, text=True).stdout.split()
+              dateien = [Path(n) for n in neu if n.endswith(".json")]
+          if not dateien:
+              print("Keine neue Ausgabe – keine Nachricht."); raise SystemExit
+          d = json.loads(dateien[-1].read_text(encoding="utf-8"))
+          monate = ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"]
+          tage = ["Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag", "Sonntag"]
+          t = dt.date.fromisoformat(d["datum"])
+          if d.get("typ") == "woche":
+              titel, klick = f"Finanz-Wochenüberblick · {d.get('kw', '')}", seite + "#woche"
+          else:
+              titel, klick = f"Finanz-Update · {tage[t.weekday()]}, {t.day}. {monate[t.month - 1]}", seite
+          zeilen = ["• " + x["titel"] for x in d.get("top", [])[:5]]
+          dax = next((k for k in d.get("kennzahlen", []) if k.get("name") == "DAX"), None)
+          if dax:
+              zeilen.append(f"DAX {dax['wert']}")
+          if os.environ["ART"] != "workflow_dispatch":
+              time.sleep(90)  # warten, bis GitHub Pages die neue Seite ausliefert
+          daten = json.dumps({"topic": os.environ["NTFY_TOPIC"], "title": titel, "message": "\n".join(zeilen),
+                              "click": klick, "tags": ["chart_with_upwards_trend"]}).encode()
+          r = urllib.request.urlopen(urllib.request.Request("https://ntfy.sh", data=daten, headers={"Content-Type": "application/json"}))
+          print("Gesendet:", r.status, titel)
+          PY

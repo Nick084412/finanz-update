@@ -1,0 +1,77 @@
+{
+  "typ": "tag",
+  "datum": "2026-10-22",
+  "top": [
+    {"titel": "PKV wird 2027 deutlich teurer", "kurz": "Gut jeder zweite Privatversicherte zahlt ab Januar im Schnitt 13,4 % mehr.", "anker": "pkv-beitraege"},
+    {"titel": "Junge Leute wollen Garantie", "kurz": "Nur 8 % der 18- bis 30-Jährigen würden geförderte Vorsorge ohne Garantie wählen.", "anker": "garantie-junge"},
+    {"titel": "Mütterrente III: Geld kommt erst 2028", "kurz": "Anspruch ab 2027, Auszahlung rückwirkend im Lauf von 2028.", "anker": "muetterrente"}
+  ],
+  "kennzahlen": [
+    {"name": "DAX", "wert": "25.645", "stand": "Schluss 21.10. · +1,35 %", "quelle_name": "ariva/dpa-AFX", "quelle_url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-auf-vierwochenhoch-12176917"},
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "seit Sept. 2026 · nächste Sitzung 29.10.", "quelle_name": "capitalo", "quelle_url": "https://www.capitalo.de/anbieter/capitalo/news/ezb-leitzins-september-2026"},
+    {"name": "Bauzins 10 J.", "wert": "≈ 4,4 %", "stand": "Stand 15.10.", "quelle_name": "AssCompact/Interhyp", "quelle_url": "https://www.asscompact.de/nachrichten/bauzinsen-hoch-wie-lange-nicht"},
+    {"name": "Inflation DE", "wert": "3,3 %", "stand": "September 2026", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"},
+    {"name": "Bund 10 J.", "wert": "3,38 %", "stand": "22.10. vormittags", "quelle_name": "ariva/dpa-AFX", "quelle_url": "https://www.ariva.de/news/deutsche-anleihen-legen-wieder-zu-franzoesische-titel-12177937"}
+  ],
+  "kennzahlen_hinweis": "MSCI World: kein belegter aktueller Stand gefunden, deshalb weggelassen. EZB-Satz und Bauzins unverändert zum Vortag.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "pkv-beitraege", "titel": "Private Krankenversicherung: 13,4 % mehr ab Januar",
+       "text": ["Laut PKV-Verband steigen zum 1. Januar 2027 die Beiträge für rund 53 % der Privatversicherten, im Schnitt um 13,4 %. Beihilfe-Berechtigte (meist Beamte) trifft es mit 11,4 % etwas weniger, alle anderen mit 15,3 %. Versicherer, die erst später im Jahr anpassen, sind darin noch nicht enthalten."],
+       "beratung": "PKV-Kunden jetzt anrufen, bevor der Brief kommt: Ein Tarifwechsel beim eigenen Versicherer oder eine höhere Selbstbeteiligung kann die Erhöhung oft abfedern.",
+       "quellen": [{"name": "AssCompact", "datum": "18.10.2026", "url": "https://www.asscompact.de/nachrichten/pkv-beitraege-sollen-2027-um-13-steigen"}]},
+      {"id": "garantie-junge", "titel": "Geförderte Vorsorge: Junge Leute wollen lieber Garantie",
+       "text": ["Ab 2027 darf geförderte Vorsorge auch ganz ohne Garantie angeboten werden. In einer YouGov-Umfrage für die Stuttgarter unter 18- bis 30-Jährigen würden aber nur 8 % ein Produkt ohne Garantie wählen, 69 % wollen mindestens 80 % der Beiträge gesichert. 68 % möchten das Geld später als lebenslange Rente. Frauen legen deutlich mehr Wert auf Sicherheit als Männer (53 % zu 33 %)."],
+       "beratung": "Bei jungen Kunden nicht nur über Kosten reden, sondern fragen: Wie wichtig ist Ihnen, dass Ihre Einzahlungen sicher sind? Dann Depot und Garantie-Lösung nebeneinander zeigen.",
+       "quellen": [{"name": "Cash. Online", "datum": "22.10.2026", "url": "https://www.cash-online.de/a/garantie-schlaegt-rendite-nur-acht-prozent-der-jungen-wollen-vorsorge-ohne-garantie-728265/"}]},
+      {"id": "muetterrente", "titel": "Mütterrente III: Mehr Rente erst 2028 auf dem Konto",
+       "text": ["Für Kinder, die vor 1992 geboren sind, gibt es ab 1. Januar 2027 drei statt zweieinhalb Rentenpunkte. Das sind laut Cash.-Rechnung rund 21 € brutto im Monat pro Kind, betroffen sind etwa zehn Millionen Rentner. Weil die Rentenversicherung Zeit für die Umstellung braucht, fließt das Geld voraussichtlich erst im Lauf von 2028, dann rückwirkend für 2027."],
+       "beratung": "Rentnerinnen mit älteren Kindern vorwarnen: Das Plus kommt sicher, aber erst 2028. Nicht schon 2027 fest damit im Budget planen.",
+       "quellen": [{"name": "Cash. Online", "datum": "Okt. 2026", "url": "https://www.cash-online.de/a/muetterrente-iii-warum-die-hoehere-rente-voraussichtlich-erst-2028-fliesst-728303/"}]}
+    ]},
+    {"titel": "Altersvorsorge & Rente", "meldungen": [
+      {"id": "provinzial-vkb", "titel": "Provinzial und Versicherungskammer bringen sechs Vorsorge-Produkte",
+       "text": ["Die beiden öffentlichen Versicherer haben gemeinsam ein Paket aus sechs Produkten für die neue geförderte Altersvorsorge entwickelt. Damit wollen sie sich gegen Neobroker wie Trade Republic behaupten. Kosten und Garantien sind noch nicht öffentlich bekannt."],
+       "beratung": "Kunden werden zum Start von vielen Seiten Angebote bekommen, auch von Sparkassen und Versicherern. Gut, wenn wir die Unterschiede einfach erklären können.",
+       "quellen": [{"name": "Versicherungswirtschaft heute", "datum": "22.10.2026", "url": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-22/schulterschluss-der-oeffentlichen-provinzial-und-versicherungskammer-kontern-neobroker-mit-sechs-vorsorge-produkten/"},
+                   {"name": "procontra", "datum": "Okt. 2026", "url": "https://www.procontra-online.de/altersvorsorge/artikel/provinzial-und-versicherungskammer-kooperieren-bei-altersvorsorgeprodukten"}]},
+      {"id": "langes-leben", "titel": "Umfrage: Deutsche fühlen sich schlecht auf ein langes Leben vorbereitet",
+       "text": ["In einer YouGov-Umfrage für Canada Life wünschen sich die Befragten im Schnitt ein Alter von 91 Jahren, schätzen ihre eigene Lebenserwartung aber nur auf 82. 70 % sehen Deutschland finanziell schlecht auf viele Hochbetagte vorbereitet. 64 % rechnen damit, für höhere Pflegekosten vorsorgen zu müssen."],
+       "beratung": "Guter Einstieg: „Planen Sie Ihr Geld bis 82 oder bis 95?“ Das zeigt schnell, warum eine lebenslange Rente und Pflegevorsorge zählen.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "20.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/deutsche-fuehlen-sich-auf-ein-langes-leben-schlecht-vorbereitet/"}]}
+    ]},
+    {"titel": "Versicherungen", "meldungen": [
+      {"id": "dkv-option", "titel": "DKV: Gesundheitszustand für die PKV bis zu 15 Jahre sichern",
+       "text": ["Mit dem neuen Optionstarif der DKV können gesetzlich Versicherte, etwa Studenten, Berufseinsteiger und angehende Selbstständige, ihren heutigen Gesundheitszustand festschreiben. Wechseln sie später in die private Vollversicherung der DKV, gibt es keine neue Gesundheitsprüfung. Die Option gilt bis zu 15 Jahre. Die Ergo bringt zudem drei Zusatztarife für Vorsorge und Brille ohne Gesundheitsfragen und Wartezeit."],
+       "beratung": "Für junge Kunden mit guten Gehaltsaussichten: Eine Option offenhalten, solange man gesund ist, kostet wenig und kann später viel wert sein.",
+       "quellen": [{"name": "Cash. Online", "datum": "22.10.2026", "url": "https://www.cash-online.de/a/ergo-und-dkv-starten-fuenf-neue-tarife-pkv-option-fuer-bis-zu-15-jahre-728254/"}]}
+    ]},
+    {"titel": "Geldanlage & Märkte", "meldungen": [
+      {"id": "dax-vierwochenhoch", "titel": "DAX auf höchstem Stand seit einem Monat",
+       "text": ["Nach schwachem Start legte der DAX am Mittwoch um 1,35 % auf 25.645 Punkte zu. Rückenwind kam von Technik-Werten und guten Quartalszahlen, unter anderem von Adidas und SpaceX. Infineon, Siemens und SAP gehörten zu den Gewinnern."],
+       "beratung": "Schöner Beleg für Kunden, die vor einer Woche nervös waren: Wer am Sparplan festgehalten hat, war bei der Erholung dabei.",
+       "quellen": [{"name": "ariva/dpa-AFX", "datum": "21.10.2026", "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-auf-vierwochenhoch-12176917"}]},
+      {"id": "bundrendite", "titel": "Bundesanleihen erholen sich, Frankreich bleibt unter Druck",
+       "text": ["Die Rendite zehnjähriger Bundesanleihen sank am Donnerstagvormittag auf 3,38 %. Frankreich muss dagegen 5,12 % zahlen, der Abstand zu Deutschland liegt bei gut 1,7 Prozentpunkten."],
+       "beratung": "Bei Kunden mit Anleihefonds kurz erklären: Breite Streuung über viele Länder schützt, wenn ein einzelnes Land wackelt.",
+       "quellen": [{"name": "ariva/dpa-AFX", "datum": "22.10.2026", "url": "https://www.ariva.de/news/deutsche-anleihen-legen-wieder-zu-franzoesische-titel-12177937"}]}
+    ]},
+    {"titel": "Baufinanzierung & Immobilien", "meldungen": [
+      {"id": "genz-wohntraum", "titel": "Gen Z will Eigentum, plant aber nüchtern",
+       "text": ["Laut Interhyp-Wohntraumstudie wollen 80 % der jungen Mieter mit Kaufinteresse eine eigene Immobilie, mehr als 2021. Bei hohen Zinsen würden 41 % länger oder mehr sparen und 33 % den Kauf verschieben. 65 % könnten sich vorstellen, außerhalb der Stadt oder auf dem Land zu wohnen."],
+       "beratung": "Junge Kunden mit Kaufwunsch: Jetzt mit dem Eigenkapital-Sparen starten und ein klares Zieldatum setzen. Das macht den Traum planbar.",
+       "quellen": [{"name": "AssCompact", "datum": "21.10.2026", "url": "https://www.asscompact.de/nachrichten/so-steht-die-gen-z-zum-immobilienkauf"}]}
+    ]},
+    {"titel": "Recht, Regulierung & Politik", "meldungen": [
+      {"id": "krebs-vergessen", "titel": "Bundesrat will „Recht auf Vergessen“ nach Krebs",
+       "text": ["Nach der SPD fordert auch der Bundesrat, dass Menschen eine überstandene Krebserkrankung nach medizinisch begründeten Fristen nicht mehr angeben müssen, etwa bei Versicherungen und Krediten. Der Beschluss ist nicht bindend, die Bundesregierung muss aber darauf antworten. Wie lang die Fristen sein sollen, ist offen."],
+       "beratung": "Noch gilt: Bei Anträgen für BU oder Risikoleben alle Vorerkrankungen vollständig angeben. Falsche Angaben können den Schutz kosten.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "20.10.2026", "url": "https://www.pfefferminzia.de/gesundheit/krebs-auch-bundesrat-verlangt-recht-auf-vergessen/"}]}
+    ]}
+  ],
+  "aufhaenger": [
+    "„Viele Privatversicherte bekommen gerade Post: Im Schnitt 13 % mehr Beitrag ab Januar. Bevor Sie einfach zahlen, schauen wir gemeinsam, ob ein anderer Tarif bei Ihrem Versicherer günstiger ist.“",
+    "„Ab Januar gibt es die neue geförderte Vorsorge, mit oder ohne Garantie. Was ist Ihnen wichtiger: möglichst viel Rendite oder die Sicherheit, dass Ihre Einzahlungen erhalten bleiben?“"
+  ],
+  "fusszeile": "Zusammengestellt am 22.10.2026 aus öffentlichen Quellen. Keine Gewähr für Kurse und Zinsen; Werte vor Kundengesprächen kurz prüfen. Zu tecis / Swiss Life Deutschland gab es keine neuen öffentlichen Meldungen."
+}

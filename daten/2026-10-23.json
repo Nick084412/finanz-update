@@ -1,0 +1,82 @@
+{
+  "typ": "tag",
+  "datum": "2026-10-23",
+  "top": [
+    {"titel": "Studie: Versicherer beim AV-Depot vorn", "kurz": "Metzler Ratings sieht rund 65 % der Förderberechtigten eher beim Versicherer als bei Bank oder Neobroker.", "anker": "metzler-av-depot"},
+    {"titel": "Allianz, R+V und WWK sind startklar", "kurz": "Immer mehr Anbieter stellen ihre AV-Depots für Januar vor, Kosten nennt noch keiner.", "anker": "av-depot-anbieter"},
+    {"titel": "DAX rutscht nach Meta-Zahlen ab", "kurz": "Teure KI-Ausgaben und ein Angriff auf ein Ölfeld drücken den DAX um gut 1 %.", "anker": "dax-meta"}
+  ],
+  "kennzahlen": [
+    {"name": "DAX", "wert": "25.372", "stand": "Schluss 22.10. · −1,07 %", "quelle_name": "ariva/dpa-AFX", "quelle_url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-us-tech-branche-versetzt-12178825"},
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "seit Sept. 2026 · nächste Sitzung 29.10.", "quelle_name": "capitalo", "quelle_url": "https://www.capitalo.de/anbieter/capitalo/news/ezb-leitzins-september-2026"},
+    {"name": "Bauzins 10 J.", "wert": "4,4–5,0 %", "stand": "Spanne laut Finanztip, Stand 22.10.", "quelle_name": "Finanztip", "quelle_url": "https://www.finanztip.de/baufinanzierung/hypothekenzinsen/"},
+    {"name": "Inflation DE", "wert": "3,3 %", "stand": "September 2026", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"},
+    {"name": "Bund 10 J.", "wert": "3,38 %", "stand": "22.10. vormittags", "quelle_name": "ariva/dpa-AFX", "quelle_url": "https://www.ariva.de/news/deutsche-anleihen-legen-wieder-zu-franzoesische-titel-12177937"}
+  ],
+  "kennzahlen_hinweis": "MSCI World: kein belegter aktueller Stand gefunden. Bund 10 J.: kein neuerer Wert als vom 22.10. vormittags gefunden. Bauzins jetzt als Spanne (Finanztip) statt Einzelwert.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "metzler-av-depot", "titel": "Studie: Beim neuen AV-Depot könnten Versicherer vorn liegen",
+       "text": ["Das Analysehaus Metzler Ratings schätzt, dass rund 65 % der Förderberechtigten eher zu einem Versicherer greifen, Banken und Neobroker kämen zusammen auf 25 bis 30 %. Es handelt sich um eine Schätzung, keine Umfrage.",
+                "Der Kostenunterschied ist real: Bei 100 € im Monat über 30 Jahre ergibt die Musterrechnung 68.181 € beim Versicherer (1,10 % Kosten) und 78.758 € beim Bankdepot (0,30 %). Dafür zahlt die Versicherung eine feste lebenslange Rente, während ein Auszahlplan in einem Börsencrash deutlich sinken kann. Bestehende Riester-Verträge mit hohem Rechnungszins (ab 2,25 %) sollte man laut Metzler nicht kündigen."],
+       "beratung": "Das Gespräch nicht auf die Kostenquote verkürzen lassen: Beide Zahlen offen zeigen und fragen, wie wichtig dem Kunden eine Rente ist, die bis zum Lebensende sicher gleich bleibt.",
+       "quellen": [{"name": "Cash. Online", "datum": "23.10.2026", "url": "https://www.cash-online.de/a/warum-versicherer-beim-neuen-altersvorsorgedepot-vorn-liegen-koennten-728390/"},
+                   {"name": "Pfefferminzia", "datum": "22.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/riester-2-0-versicherer-im-vorteil-trotz-kostennachteil/"}]},
+      {"id": "av-depot-anbieter", "titel": "Allianz, R+V und WWK zeigen ihre AV-Depots für Januar",
+       "text": ["Die Allianz will zum 1. Januar in allen drei Förderwegen starten: mit 80 % Beitragsgarantie, als freies Depot und als Standarddepot. Die R+V plant ebenfalls drei Varianten, darunter eine mit 80 % Garantie, und wirbt mit Schiedsrichter Deniz Aytekin. Die WWK bietet je nach Wahl 80 oder 100 % Garantie, ein freies Fondsdepot und eine Standardlösung an.",
+                "Konkrete Kosten nennt bisher keiner der Anbieter, unter anderem weil die Verordnung zu Kosten und Informationspflichten noch fehlt."],
+       "beratung": "Kunden, die jetzt Werbung sehen, sagen: Wir vergleichen, sobald die Kosten auf dem Tisch liegen. Bis dahin lohnt es sich, schon mal Sparbetrag und Garantiewunsch zu klären.",
+       "quellen": [{"name": "AssCompact (Allianz)", "datum": "22.10.2026", "url": "https://www.asscompact.de/nachrichten/allianz-zum-av-depot-%E2%80%9Ewir-sind-zum-1-januar-startklar%E2%80%9C"},
+                   {"name": "Pfefferminzia (R+V)", "datum": "23.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/deniz-aytekin-wirbt-fuers-altersvorsorgedepot-der-rv/"},
+                   {"name": "AssCompact (WWK)", "datum": "23.10.2026", "url": "https://www.asscompact.de/nachrichten/wwk-kuendigt-produktwelt-fuer-altersvorsorgedepot"}]},
+      {"id": "dax-meta", "titel": "DAX gibt Vortagesplus wieder ab",
+       "text": ["Nach dem Vierwochenhoch am Mittwoch fiel der DAX am Donnerstag um 1,07 % auf 25.372 Punkte. Enttäuschende Zahlen von Meta und Tesla belasteten Technik- und Chipwerte; Meta hatte wegen hoher KI-Investitionen erstmals mehr Geld ausgegeben als eingenommen. Siemens Energy und Infineon verloren deutlich, SAP stieg dagegen auf den höchsten Stand seit Januar.",
+                "Zusätzlich trieb ein Drohnenangriff auf ein saudisches Ölfeld den Ölpreis: Brent stieg zeitweise auf knapp 113 US-Dollar. In den USA verlor die Technikbörse Nasdaq 2,6 %."],
+       "beratung": "Gutes Beispiel für Kunden mit Einzelwerten oder reinen Technik-Fonds: Ein breit gestreutes Depot schwankt an solchen Tagen deutlich weniger.",
+       "quellen": [{"name": "ariva/dpa-AFX", "datum": "22.10.2026", "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-us-tech-branche-versetzt-12178825"},
+                   {"name": "Cash. Online", "datum": "23.10.2026", "url": "https://www.cash-online.de/a/meta-aktie-kurssturz-sorgt-fuer-ausverkauf-an-der-wall-street-728368/"}]}
+    ]},
+    {"titel": "Altersvorsorge & Rente", "meldungen": [
+      {"id": "fruehstart-kosten", "titel": "Frühstart-Rente: Auf eigene Einzahlungen dürfen Kosten anfallen",
+       "text": ["Im beschlossenen Gesetz zur Frühstart-Rente wurde das Verbot von Abschluss- und Vertriebskosten aufgeweicht. Es gilt nur noch für die 10 € Staatszuschuss im Monat und deren Erträge. Zahlen Eltern oder Großeltern etwas dazu (bis 6.840 € im Jahr), dürfen Anbieter darauf Kosten berechnen, gedeckelt bei 1 % Effektivkosten. Der Bundesrat muss noch zustimmen."],
+       "beratung": "Eltern und Großeltern, die fürs Kind sparen wollen, können die Frühstart-Rente künftig mit Beratung aufstocken. Gute Gelegenheit, die Familienvorsorge als Ganzes anzuschauen.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "19.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/fruehstartrente-vertriebskostenverbot-aufgeweicht/"}]}
+    ]},
+    {"titel": "Versicherungen", "meldungen": [
+      {"id": "pkv-gkv-langfrist", "titel": "PKV und GKV: Beiträge stiegen langfristig ähnlich stark",
+       "text": ["Nach einer Kurzanalyse des PKV-eigenen Instituts WIP stiegen die Beiträge von 2017 bis 2027 in der PKV um 63,7 % und in der GKV um 66,9 %, also jeweils gut 5 % pro Jahr. Über 20 Jahre lag die GKV mit 132 % sogar vor der PKV mit 106 %. Die Autoren räumen ein, dass beide Systeme nur eingeschränkt vergleichbar sind."],
+       "beratung": "Für PKV-Kunden, die wegen der Erhöhung 2027 zweifeln: Die Zahlen helfen, einen Sprung im einzelnen Jahr einzuordnen. Absender ist aber die PKV selbst, das offen sagen.",
+       "quellen": [{"name": "AssCompact", "datum": "23.10.2026", "url": "https://www.asscompact.de/nachrichten/pkv-und-gkv-beitraege-steigen-langfristig-aehnlich-stark"}]},
+      {"id": "bu-zuschlag-urteil", "titel": "Urteil: Unfallverursacher zahlt den BU-Risikozuschlag",
+       "text": ["Eine junge Radfahrerin hatte schon ein konkretes BU-Angebot, als sie bei einem Unfall verletzt wurde. Den Vertrag bekam sie danach nur mit Risikozuschlag. Das OLG Schleswig entschied, dass die Haftpflichtversicherung des Autofahrers diesen Zuschlag ersetzen muss, weil die Absicht zum Abschluss vor dem Unfall belegt war (Urteil vom 20.01.2026, Az. 7 U 57/25)."],
+       "beratung": "Angebote und Beratungsprotokolle immer sauber datieren und dem Kunden mitgeben. Und: Wer die BU aufschiebt, riskiert Zuschläge oder Ablehnung, weil Unfälle jederzeit passieren können.",
+       "quellen": [{"name": "AssCompact", "datum": "23.10.2026", "url": "https://www.asscompact.de/nachrichten/bu-risikozuschlag-nach-unfall-wann-der-versicherer-zahlen-muss"}]},
+      {"id": "generali-abbau", "titel": "Generali Deutschland baut 800 Stellen ab",
+       "text": ["Bis Ende 2030 sollen rund 800 Arbeitsplätze wegfallen, die Standorte Aachen, Nürnberg und Stuttgart werden geschlossen. Der Abbau soll über Vorruhestand, Altersteilzeit und natürliche Fluktuation laufen. Gleichzeitig will Generali dreistellige Millionenbeträge in IT und KI stecken."],
+       "beratung": "Fragen Generali-Kunden nach, ob ihr Vertrag sicher ist: Ja, Stellenabbau ändert nichts an bestehenden Verträgen. Bei Schäden lohnt aber ein Ansprechpartner, der den Weg kennt.",
+       "quellen": [{"name": "Versicherungswirtschaft heute", "datum": "23.10.2026", "url": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-23/generali-deutschland-streicht-800-stellen-und-schliesst-standorte-aachen-nuernberg-und-stuttgart/"},
+                   {"name": "AssCompact", "datum": "23.10.2026", "url": "https://www.asscompact.de/nachrichten/generali-deutschland-plant-mehrere-standortzusammenfuehrungen"}]}
+    ]},
+    {"titel": "Baufinanzierung & Immobilien", "meldungen": [
+      {"id": "bauzins-leicht-runter", "titel": "Bauzinsen geben erstmals seit Juli leicht nach",
+       "text": ["Laut Finanztip liegen die Zinsen für zehn Jahre Zinsbindung meist zwischen 4,4 und 5,0 % pro Jahr. Nach dem Anstieg seit Anfang Juli sind sie im Oktober erstmals wieder etwas gesunken."],
+       "beratung": "Kaufinteressenten nicht auf große Zinssenkungen warten lassen: Lieber jetzt Finanzierung durchrechnen und mit einem Zinsrahmen planen, der auch bei 5 % noch trägt.",
+       "quellen": [{"name": "Finanztip", "datum": "22.10.2026", "url": "https://www.finanztip.de/baufinanzierung/hypothekenzinsen/"}]}
+    ]},
+    {"titel": "Was deine Kunden gerade lesen", "meldungen": [
+      {"id": "finanztip-ab-50", "titel": "Finanztip: Finanzen ab 50, jetzt anfangen",
+       "text": ["Finanztip rät über 50-Jährigen zum Kassensturz: Einkommen, Ausgaben, Vorsorge, Vermögen und Schulden zusammen anschauen. Empfohlen werden eine Notreserve (im Ruhestand eher sechs Monatseinkommen), ein Blick aufs Rentenkonto auf fehlende Zeiten sowie Vorsorgevollmacht und Patientenverfügung. Die Faustregel „100 minus Alter“ für den Aktienanteil gilt dort als veraltet."],
+       "beratung": "Perfekter Aufhänger für Kunden ab 50: Genau diesen Gesamtblick liefert unser Finanzkonzept, inklusive Entnahmeplan für den Ruhestand.",
+       "quellen": [{"name": "Finanztip", "datum": "22.10.2026", "url": "https://www.finanztip.de/daily/finanzen-ab-50-warum-du-gerade-jetzt-anfangen-solltest/"}]},
+      {"id": "advanzia-tagesgeld", "titel": "Finanztip: 4,18 % Tagesgeld, aber nur drei Monate",
+       "text": ["Advanzia lockt Neukunden bis 31. Oktober mit 4,18 % Tagesgeld, allerdings nur für drei Monate und erst ab 5.000 € Guthaben. Danach gilt 1,51 %. Steuern führt die Bank nicht ab, die Zinsen müssen in die Steuererklärung."],
+       "beratung": "Kunden, die Lockzinsen hinterherlaufen: Notgroschen aufs Tagesgeld, ja. Alles darüber hinaus gehört in einen langfristigen Sparplan.",
+       "quellen": [{"name": "Finanztip", "datum": "23.10.2026", "url": "https://www.finanztip.de/daily/web/tagesgeld-mit-418-zinsen-lohnt-sich-das-angebot-der-advanzia/"}]}
+    ]}
+  ],
+  "aufhaenger": [
+    "„In den nächsten Wochen werden Sie viel Werbung fürs neue Vorsorgedepot sehen. Bevor Sie irgendwo unterschreiben: Was ist Ihnen wichtiger, die günstigste Lösung oder eine Rente, die sicher bis zum Lebensende gleich bleibt?“",
+    "„Gestern ist der DAX wegen einer einzigen US-Firma um ein Prozent gefallen. Genau deshalb setzen wir auf breite Streuung: Ein Ausreißer darf Ihren Plan nicht umwerfen.“"
+  ],
+  "fusszeile": "Zusammengestellt am 23.10.2026 aus öffentlichen Quellen. Keine Gewähr für Kurse und Zinsen; Werte vor Kundengesprächen kurz prüfen. Zu tecis / Swiss Life Deutschland gab es keine neuen öffentlichen Meldungen. Die Eckpunkte zum Elementarschutz wurden bereits am 21.10. gemeldet."
+}
