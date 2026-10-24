@@ -1,7 +1,7 @@
 # Nur Bauplan, Daten und Webseite gehören ins Projekt
 __pycache__/
-designsystem/
-archiv/
+/designsystem/
+/archiv/
 briefing.html
 artifact_url.txt
 .DS_Store
