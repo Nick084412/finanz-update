@@ -1,0 +1,50 @@
+{
+  "typ": "tag",
+  "datum": "2026-10-24",
+  "top": [
+    {"titel": "AV-Depot: Kostenschutz im Kleingedruckten", "kurz": "Was nicht im Produktinformationsblatt steht, schuldet der Sparer nicht; im Standarddepot gilt ein Deckel von 1 %.", "anker": "av-depot-kosten"},
+    {"titel": "DAX mit Wochenverlust von 1,7 %", "kurz": "Schwache Konjunkturdaten aus Frankreich, hohe Ölpreise und KI-Zweifel drücken den Index auf 25.182 Punkte.", "anker": "dax-woche"},
+    {"titel": "EZB entscheidet am Donnerstag", "kurz": "Markt erwartet nach der Erhöhung im September eine Pause bei 2,50 %.", "anker": "ezb-sitzung"}
+  ],
+  "kennzahlen": [
+    {"name": "DAX", "wert": "25.182", "stand": "Schluss 23.10. · −0,75 %", "quelle_name": "onvista/dpa-AFX", "quelle_url": "https://www.onvista.de/news/2026/10-23-aktien-frankfurt-dax-schwaechelt-weiter-wochenbilanz-negativ-0-10-26567643"},
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "seit 16.09.2026 · nächste Sitzung 29.10.", "quelle_name": "EZB", "quelle_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.de.html"},
+    {"name": "Bauzins 10 J.", "wert": "4,4–5,0 %", "stand": "Spanne laut Finanztip, Stand 22.10.", "quelle_name": "Finanztip", "quelle_url": "https://www.finanztip.de/baufinanzierung/hypothekenzinsen/"},
+    {"name": "Inflation DE", "wert": "3,3 %", "stand": "September 2026", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"}
+  ],
+  "kennzahlen_hinweis": "MSCI World und Bund 10 J.: kein belegter aktueller Stand gefunden. Bauzins und Inflation unverändert vom Vortag.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "av-depot-kosten", "titel": "Altersvorsorgedepot: Das gilt bei den Kosten",
+       "text": ["Wer ab 2027 einen Altersvorsorgevertrag abschließt, bekommt vorher ein Produktinformationsblatt mit den Kosten. Was dort nicht steht, schuldet er dem Anbieter nicht. Steigen die Kosten später, muss der Anbieter vier Monate vorher informieren, und ein Wechsel kostet dann keine Wechselgebühr.",
+                "Im Standarddepot dürfen die Effektivkosten höchstens 1,0 % betragen. Der Deckel gilt aber nur dort, nicht für Depots mit freier Fondswahl oder Garantie. Die Spanne bei den Anbietern ist groß: Trade Republic wirbt praktisch mit null Kosten, etablierte Anbieter reizen teils die 1 % aus."],
+       "beratung": "Kunden den Unterschied zwischen Standarddepot (gedeckelt) und freier Wahl (nicht gedeckelt) erklären und Angebote immer anhand des Produktinformationsblatts vergleichen.",
+       "quellen": [{"name": "finanzen.net", "datum": "22.10.2026", "url": "https://www.finanzen.net/ratgeber/news/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-22-10-2026-01/"},
+                   {"name": "AltvPIBV (gesetze-im-internet.de)", "datum": "2026", "url": "https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html"}]},
+      {"id": "dax-woche", "titel": "DAX schließt die Woche mit 1,7 % Minus",
+       "text": ["Der DAX verlor am Freitag 0,75 % auf 25.181,65 Punkte und rutschte unter die 21-Tage-Linie. Belastet haben schwache Einkaufsmanagerindizes aus Frankreich, der hohe Ölpreis und Zweifel an den hohen KI-Investitionen. MTU fiel um 4,8 %, die Deutsche Telekom um 3,2 %.",
+                "Als Nächstes stehen die Zinsentscheidungen der US-Notenbank und der EZB an."],
+       "beratung": "Kunden, die bei Rückgängen nervös werden, an den langfristigen Sparplan erinnern: Schwankungen gehören dazu, regelmäßiges Weitersparen kauft in solchen Phasen günstiger ein.",
+       "quellen": [{"name": "onvista/dpa-AFX", "datum": "23.10.2026", "url": "https://www.onvista.de/news/2026/10-23-aktien-frankfurt-dax-schwaechelt-weiter-wochenbilanz-negativ-0-10-26567643"},
+                   {"name": "finanzen.ch/AWP", "datum": "23.10.2026", "url": "https://www.finanzen.ch/nachrichten/aktien/aktien-frankfurt-schluss-frankreich-sorgen-lassen-dax-weiter-absacken-1036660308"}]},
+      {"id": "ezb-sitzung", "titel": "EZB-Sitzung am 29. Oktober: Pause erwartet",
+       "text": ["Die EZB hat im September die Leitzinsen um 0,25 Prozentpunkte angehoben, der Einlagensatz liegt seit dem 16.09. bei 2,50 %. Für die Sitzung am Donnerstag rechnen Marktteilnehmer laut einer Reuters-Umfrage mit unveränderten Zinsen und einer möglichen Anhebung erst im Dezember. Haupttreiber der Inflation ist der Energiepreisschock durch den Konflikt im Nahen Osten.",
+                "Das sind Erwartungen, keine Beschlüsse."],
+       "beratung": "Bauherren und Anschlussfinanzierer: Zinsen können von der EZB-Entscheidung beeinflusst werden. Wer bald abschließen will, sollte die Finanzierung vorher durchrechnen.",
+       "quellen": [{"name": "aktien.news", "datum": "2026-10", "url": "https://www.aktien.news/ezb-vor-zinsentscheidung-funf-fragen-zu-frankreich-iran-und-inflation"},
+                   {"name": "EZB", "datum": "10.09.2026", "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.de.html"}]}
+    ]},
+    {"titel": "Altersvorsorge & Rente", "meldungen": [
+      {"id": "riester-wechsel", "titel": "Riester oder Altersvorsorgedepot: Wechsel nicht pauschal",
+       "text": ["Ab dem 1. Januar 2027 gibt es keine neuen Riester-Verträge mehr. Ob sich der Wechsel aus einem bestehenden Vertrag lohnt, hängt laut Ratgebern von Beitrag, Einkommen, Kindern und Guthaben ab. Finanztip sieht den Wechsel vor allem bei einer Einzahlung von mindestens 300 € im Jahr als sinnvoll. Die Debeka betont, es gebe keine allgemeingültige Antwort."],
+       "beratung": "Riester-Kunden jetzt einzeln durchrechnen: Verzinsung des Altvertrags, Zulagen und Garantiewunsch gegenüberstellen, bevor etwas gekündigt wird.",
+       "quellen": [{"name": "finanzen.net", "datum": "22.10.2026", "url": "https://www.finanzen.net/ratgeber/news/altersvorsorgedepot-6-vorteile-und-5-nachteile-fuer-anleger-22-10-2026-01/"},
+                   {"name": "Finanztip", "datum": "2026", "url": "https://www.finanztip.de/altersvorsorge/altersvorsorgedepot-riester/"}]}
+    ]}
+  ],
+  "aufhaenger": [
+    "„Beim neuen Vorsorgedepot lohnt ein Blick ins Produktinformationsblatt: Was dort nicht als Kosten steht, müssen Sie nicht zahlen. Wollen wir uns die Angebote gemeinsam ansehen, sobald sie vorliegen?“",
+    "„Der DAX ist diese Woche knapp 2 % gefallen. Ihr Sparplan kauft dabei automatisch günstiger ein, genau dafür ist er da.“"
+  ],
+  "fusszeile": "Zusammengestellt am 24.10.2026 aus öffentlichen Quellen. Wochenende: wenige neue Fachmeldungen, deshalb kürzere Ausgabe. Keine Gewähr für Kurse und Zinsen; Werte vor Kundengesprächen kurz prüfen. Zu tecis / Swiss Life Deutschland gab es keine neuen öffentlichen Meldungen."
+}
