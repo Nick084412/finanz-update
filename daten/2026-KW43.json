@@ -1,0 +1,623 @@
+{
+ "typ": "woche",
+ "datum": "2026-10-25",
+ "kw": "KW 43",
+ "top": [
+  {
+   "titel": "AV-Depot: Kosten nur, was im Infoblatt steht",
+   "kurz": "Im Standarddepot gilt ab 2027 ein Kostendeckel von 1 %.",
+   "anker": "altersvorsorgedepot-das-gilt-bei-den-kos"
+  },
+  {
+   "titel": "DAX verliert 1,7 % in der Woche",
+   "kurz": "Schwache Daten aus Frankreich, hohe Ölpreise und KI-Zweifel: Schluss bei 25.182 Punkten.",
+   "anker": "dax-schliesst-die-woche-mit-1-7-minus"
+  },
+  {
+   "titel": "PKV wird 2027 deutlich teurer",
+   "kurz": "Gut jeder zweite Privatversicherte zahlt ab Januar im Schnitt 13,4 % mehr.",
+   "anker": "private-krankenversicherung-13-4-mehr-ab"
+  },
+  {
+   "titel": "Frühstart-Rente: Bundestag ja, Bundesrat offen",
+   "kurz": "10 € pro Monat für Kinder, Start 2027 geplant – die Zustimmung des Bundesrats fehlt noch.",
+   "anker": "bundestag-beschliesst-die-fruehstart-ren"
+  },
+  {
+   "titel": "Donnerstag entscheidet die EZB",
+   "kurz": "Nach der Erhöhung im September wird eine Pause bei 2,50 % erwartet.",
+   "anker": "ezb-zinsentscheid"
+  }
+ ],
+ "kennzahlen": [
+  {
+   "name": "DAX",
+   "wert": "25.182",
+   "vorher": "25.622",
+   "stand": "Schluss Fr 23.10. · −1,7 % zur Vorwoche",
+   "quelle_name": "onvista",
+   "quelle_url": "https://www.onvista.de/news/2026/10-23-aktien-frankfurt-dax-schwaechelt-weiter-wochenbilanz-negativ-0-10-26567643"
+  },
+  {
+   "name": "EZB-Einlagensatz",
+   "wert": "2,50 %",
+   "vorher": "2,50 %",
+   "stand": "seit 16.09.2026 · nächste Sitzung 29.10.",
+   "quelle_name": "EZB",
+   "quelle_url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.de.html"
+  },
+  {
+   "name": "Bauzins 10 J.",
+   "wert": "4,4–5,0 %",
+   "vorher": "≈ 4,4–4,5 %",
+   "stand": "Spanne laut Finanztip, Stand 22.10.",
+   "quelle_name": "Finanztip",
+   "quelle_url": "https://www.finanztip.de/baufinanzierung/hypothekenzinsen/"
+  },
+  {
+   "name": "Inflation DE",
+   "wert": "3,3 %",
+   "vorher": "",
+   "stand": "September 2026 (Jahreshoch)",
+   "quelle_name": "Destatis",
+   "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
+  },
+  {
+   "name": "Bund 10 J.",
+   "wert": "3,38 %",
+   "vorher": "3,41 %",
+   "stand": "Do 22.10. vormittags (vs. 21.10.)",
+   "quelle_name": "ariva.de",
+   "quelle_url": "https://www.ariva.de/news/deutsche-anleihen-legen-wieder-zu-franzoesische-titel-12177937"
+  }
+ ],
+ "kennzahlen_hinweis": "MSCI World: kein belegter Wochenschluss gefunden, daher nicht aufgeführt. Bund-Rendite: letzter belegter Wert vom Donnerstag, ohne Vorwochenwert. Bauzins je nach Anbieter unterschiedlich. Vorwochenwerte teils aus den Tagesausgaben.",
+ "rubriken": [
+  {
+   "titel": "Altersvorsorge & Rente",
+   "meldungen": [
+    {
+     "titel": "Bundestag beschließt die Frühstart-Rente",
+     "text": [
+      "Am 16. Oktober hat der Bundestag die Frühstart-Rente verabschiedet. Der Staat zahlt 10 € im Monat pro Kind von 6 bis 18 Jahren, los geht es mit dem Jahrgang 2020. Eltern können privat bis 6.840 € im Jahr dazulegen. Wer keinen eigenen Vertrag abschließt, landet ab 2028 in einem staatlichen Sammeltopf, der nur in breit gestreute Aktien investieren darf."
+     ],
+     "beratung": "Eltern mit Kindern der Jahrgänge 2020/2021 jetzt ansprechen: „Wollen Sie den Vertrag selbst wählen und vielleicht etwas dazusparen, statt den Staatstopf zu nehmen?“",
+     "quellen": [
+      {
+       "name": "Deutscher Bundestag",
+       "datum": "16.10.2026",
+       "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-fruehstartrente-1223624"
+      }
+     ],
+     "id": "bundestag-beschliesst-die-fruehstart-ren"
+    },
+    {
+     "id": "altersvorsorgedepot-das-gilt-bei-den-kos",
+     "titel": "Altersvorsorgedepot: Das gilt bei den Kosten",
+     "text": [
+      "Wer ab 2027 einen Altersvorsorgevertrag abschließt, bekommt vorher ein Produktinformationsblatt mit den Kosten. Was dort nicht steht, schuldet er dem Anbieter nicht. Steigen die Kosten später, muss der Anbieter vier Monate vorher informieren, und ein Wechsel kostet dann keine Wechselgebühr.",
+      "Im Standarddepot dürfen die Effektivkosten höchstens 1,0 % betragen. Der Deckel gilt aber nur dort, nicht für Depots mit freier Fondswahl oder Garantie. Die Spanne bei den Anbietern ist groß: Trade Republic wirbt praktisch mit null Kosten, etablierte Anbieter reizen teils die 1 % aus."
+     ],
+     "beratung": "Kunden den Unterschied zwischen Standarddepot (gedeckelt) und freier Wahl (nicht gedeckelt) erklären und Angebote immer anhand des Produktinformationsblatts vergleichen.",
+     "quellen": [
+      {
+       "name": "finanzen.net",
+       "datum": "22.10.2026",
+       "url": "https://www.finanzen.net/ratgeber/news/altersvorsorgedepot-nur-wieder-abzocke-oder-echte-alternative-zur-riester-rente-22-10-2026-01/"
+      },
+      {
+       "name": "AltvPIBV (gesetze-im-internet.de)",
+       "datum": "2026",
+       "url": "https://www.gesetze-im-internet.de/altvpibv/BJNR141300015.html"
+      }
+     ]
+    },
+    {
+     "titel": "Preiskampf ums Altersvorsorgedepot",
+     "text": [
+      "Noch vor dem Start am 1. Januar 2027 unterbieten sich die Anbieter. Trade Republic bietet das Depot komplett ohne Gebühren an, Scalable erstattet Fondskosten, Deka und DWS liegen beim Standarddepot um 0,1 % im Jahr. Gesetzlich erlaubt ist bis 1 %. Der Staat gibt bis 540 € Zulage im Jahr, plus bis 300 € pro Kind."
+     ],
+     "beratung": "Kunden werden nach dem Preis fragen. Gut vorbereitet sein: Was bekommt der Kunde zusätzlich durch Beratung, und welche Zulage steht ihm konkret zu?",
+     "quellen": [
+      {
+       "name": "test.de",
+       "datum": "13.10.2026",
+       "url": "https://www.test.de/Altersvorsorgedepot-Preiskampf-der-Anbieter-ING-Trade-Republic-Smartbroker-6335719-0/"
+      },
+      {
+       "name": "fundresearch/dpa",
+       "datum": "Okt. 2026",
+       "url": "https://www.fundresearch.de/nachrichten/bank/2026/10/trade-republic-verschaerft-preiskampf-um-altersvorsorgedepot-548632.php"
+      }
+     ],
+     "id": "preiskampf-ums-altersvorsorgedepot"
+    },
+    {
+     "id": "allianz-r-v-und-wwk-zeigen-ihre-av-depot",
+     "titel": "Allianz, R+V und WWK zeigen ihre AV-Depots für Januar",
+     "text": [
+      "Die Allianz will zum 1. Januar in allen drei Förderwegen starten: mit 80 % Beitragsgarantie, als freies Depot und als Standarddepot. Die R+V plant ebenfalls drei Varianten, darunter eine mit 80 % Garantie, und wirbt mit Schiedsrichter Deniz Aytekin. Die WWK bietet je nach Wahl 80 oder 100 % Garantie, ein freies Fondsdepot und eine Standardlösung an.",
+      "Konkrete Kosten nennt bisher keiner der Anbieter, unter anderem weil die Verordnung zu Kosten und Informationspflichten noch fehlt."
+     ],
+     "beratung": "Kunden, die jetzt Werbung sehen, sagen: Wir vergleichen, sobald die Kosten auf dem Tisch liegen. Bis dahin lohnt es sich, schon mal Sparbetrag und Garantiewunsch zu klären.",
+     "quellen": [
+      {
+       "name": "AssCompact (Allianz)",
+       "datum": "22.10.2026",
+       "url": "https://www.asscompact.de/nachrichten/allianz-zum-av-depot-%E2%80%9Ewir-sind-zum-1-januar-startklar%E2%80%9C"
+      },
+      {
+       "name": "Pfefferminzia (R+V)",
+       "datum": "23.10.2026",
+       "url": "https://www.pfefferminzia.de/vorsorge/deniz-aytekin-wirbt-fuers-altersvorsorgedepot-der-rv/"
+      },
+      {
+       "name": "AssCompact (WWK)",
+       "datum": "23.10.2026",
+       "url": "https://www.asscompact.de/nachrichten/wwk-kuendigt-produktwelt-fuer-altersvorsorgedepot"
+      }
+     ]
+    },
+    {
+     "id": "studie-beim-neuen-av-depot-koennten-vers",
+     "titel": "Studie: Beim neuen AV-Depot könnten Versicherer vorn liegen",
+     "text": [
+      "Das Analysehaus Metzler Ratings schätzt, dass rund 65 % der Förderberechtigten eher zu einem Versicherer greifen, Banken und Neobroker kämen zusammen auf 25 bis 30 %. Es handelt sich um eine Schätzung, keine Umfrage.",
+      "Der Kostenunterschied ist real: Bei 100 € im Monat über 30 Jahre ergibt die Musterrechnung 68.181 € beim Versicherer (1,10 % Kosten) und 78.758 € beim Bankdepot (0,30 %). Dafür zahlt die Versicherung eine feste lebenslange Rente, während ein Auszahlplan in einem Börsencrash deutlich sinken kann. Bestehende Riester-Verträge mit hohem Rechnungszins (ab 2,25 %) sollte man laut Metzler nicht kündigen."
+     ],
+     "beratung": "Das Gespräch nicht auf die Kostenquote verkürzen lassen: Beide Zahlen offen zeigen und fragen, wie wichtig dem Kunden eine Rente ist, die bis zum Lebensende sicher gleich bleibt.",
+     "quellen": [
+      {
+       "name": "Cash. Online",
+       "datum": "23.10.2026",
+       "url": "https://www.cash-online.de/a/warum-versicherer-beim-neuen-altersvorsorgedepot-vorn-liegen-koennten-728390/"
+      },
+      {
+       "name": "Pfefferminzia",
+       "datum": "22.10.2026",
+       "url": "https://www.pfefferminzia.de/vorsorge/riester-2-0-versicherer-im-vorteil-trotz-kostennachteil/"
+      }
+     ]
+    },
+    {
+     "id": "fruehstart-rente-auf-eigene-einzahlungen",
+     "titel": "Frühstart-Rente: Auf eigene Einzahlungen dürfen Kosten anfallen",
+     "text": [
+      "Im beschlossenen Gesetz zur Frühstart-Rente wurde das Verbot von Abschluss- und Vertriebskosten aufgeweicht. Es gilt nur noch für die 10 € Staatszuschuss im Monat und deren Erträge. Zahlen Eltern oder Großeltern etwas dazu (bis 6.840 € im Jahr), dürfen Anbieter darauf Kosten berechnen, gedeckelt bei 1 % Effektivkosten. Der Bundesrat muss noch zustimmen."
+     ],
+     "beratung": "Eltern und Großeltern, die fürs Kind sparen wollen, können die Frühstart-Rente künftig mit Beratung aufstocken. Gute Gelegenheit, die Familienvorsorge als Ganzes anzuschauen.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "19.10.2026",
+       "url": "https://www.pfefferminzia.de/vorsorge/fruehstartrente-vertriebskostenverbot-aufgeweicht/"
+      }
+     ]
+    },
+    {
+     "id": "muetterrente-iii-mehr-rente-erst-2028-au",
+     "titel": "Mütterrente III: Mehr Rente erst 2028 auf dem Konto",
+     "text": [
+      "Für Kinder, die vor 1992 geboren sind, gibt es ab 1. Januar 2027 drei statt zweieinhalb Rentenpunkte. Das sind laut Cash.-Rechnung rund 21 € brutto im Monat pro Kind, betroffen sind etwa zehn Millionen Rentner. Weil die Rentenversicherung Zeit für die Umstellung braucht, fließt das Geld voraussichtlich erst im Lauf von 2028, dann rückwirkend für 2027."
+     ],
+     "beratung": "Rentnerinnen mit älteren Kindern vorwarnen: Das Plus kommt sicher, aber erst 2028. Nicht schon 2027 fest damit im Budget planen.",
+     "quellen": [
+      {
+       "name": "Cash. Online",
+       "datum": "Okt. 2026",
+       "url": "https://www.cash-online.de/a/muetterrente-iii-warum-die-hoehere-rente-voraussichtlich-erst-2028-fliesst-728303/"
+      }
+     ]
+    },
+    {
+     "id": "riester-oder-altersvorsorgedepot-wechsel",
+     "titel": "Riester oder Altersvorsorgedepot: Wechsel nicht pauschal",
+     "text": [
+      "Ab dem 1. Januar 2027 gibt es keine neuen Riester-Verträge mehr. Ob sich der Wechsel aus einem bestehenden Vertrag lohnt, hängt laut Ratgebern von Beitrag, Einkommen, Kindern und Guthaben ab. Finanztip sieht den Wechsel vor allem bei einer Einzahlung von mindestens 300 € im Jahr als sinnvoll. Die Debeka betont, es gebe keine allgemeingültige Antwort."
+     ],
+     "beratung": "Riester-Kunden jetzt einzeln durchrechnen: Verzinsung des Altvertrags, Zulagen und Garantiewunsch gegenüberstellen, bevor etwas gekündigt wird.",
+     "quellen": [
+      {
+       "name": "finanzen.net",
+       "datum": "22.10.2026",
+       "url": "https://www.finanzen.net/ratgeber/news/altersvorsorgedepot-6-vorteile-und-5-nachteile-fuer-anleger-22-10-2026-01/"
+      },
+      {
+       "name": "Finanztip",
+       "datum": "2026",
+       "url": "https://www.finanztip.de/altersvorsorge/altersvorsorgedepot-riester/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Versicherungen",
+   "meldungen": [
+    {
+     "id": "private-krankenversicherung-13-4-mehr-ab",
+     "titel": "Private Krankenversicherung: 13,4 % mehr ab Januar",
+     "text": [
+      "Laut PKV-Verband steigen zum 1. Januar 2027 die Beiträge für rund 53 % der Privatversicherten, im Schnitt um 13,4 %. Beihilfe-Berechtigte (meist Beamte) trifft es mit 11,4 % etwas weniger, alle anderen mit 15,3 %. Versicherer, die erst später im Jahr anpassen, sind darin noch nicht enthalten."
+     ],
+     "beratung": "PKV-Kunden jetzt anrufen, bevor der Brief kommt: Ein Tarifwechsel beim eigenen Versicherer oder eine höhere Selbstbeteiligung kann die Erhöhung oft abfedern.",
+     "quellen": [
+      {
+       "name": "AssCompact",
+       "datum": "18.10.2026",
+       "url": "https://www.asscompact.de/nachrichten/pkv-beitraege-sollen-2027-um-13-steigen"
+      }
+     ]
+    },
+    {
+     "id": "dkv-gesundheitszustand-fuer-die-pkv-bis-",
+     "titel": "DKV: Gesundheitszustand für die PKV bis zu 15 Jahre sichern",
+     "text": [
+      "Mit dem neuen Optionstarif der DKV können gesetzlich Versicherte, etwa Studenten, Berufseinsteiger und angehende Selbstständige, ihren heutigen Gesundheitszustand festschreiben. Wechseln sie später in die private Vollversicherung der DKV, gibt es keine neue Gesundheitsprüfung. Die Option gilt bis zu 15 Jahre. Die Ergo bringt zudem drei Zusatztarife für Vorsorge und Brille ohne Gesundheitsfragen und Wartezeit."
+     ],
+     "beratung": "Für junge Kunden mit guten Gehaltsaussichten: Eine Option offenhalten, solange man gesund ist, kostet wenig und kann später viel wert sein.",
+     "quellen": [
+      {
+       "name": "Cash. Online",
+       "datum": "22.10.2026",
+       "url": "https://www.cash-online.de/a/ergo-und-dkv-starten-fuenf-neue-tarife-pkv-option-fuer-bis-zu-15-jahre-728254/"
+      }
+     ]
+    },
+    {
+     "titel": "Krankenkasse: Zusatzbeitrag 2027 bleibt bei 2,9 %",
+     "text": [
+      "Der Schätzerkreis rechnet für 2027 mit einem unveränderten durchschnittlichen Zusatzbeitrag von 2,9 %. Festgelegt wird der Wert bis 1. November vom Gesundheitsministerium. Jede Kasse setzt ihren Satz selbst fest, die Spanne reicht derzeit von 2,18 % bis 4,39 %."
+     ],
+     "beratung": "Beim Budget-Check die Kasse des Kunden ansehen. Bei einem Satz deutlich über dem Schnitt kann ein Kassenwechsel spürbar Geld sparen.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "15.10.2026",
+       "url": "https://www.pfefferminzia.de/gesundheit/durchschnittlicher-gkv-zusatzbeitrag-bleibt-bei-29-prozent/"
+      }
+     ],
+     "id": "krankenkasse-zusatzbeitrag-2027-bleibt-b"
+    },
+    {
+     "titel": "Pflegereform: Anträge noch 2026 stellen",
+     "text": [
+      "Das Kabinett hat die Pflegereform am 30. September beschlossen, sie soll 2027 gelten. Laut Entwurf wird es schwerer, Pflegegrad 1 bis 3 zu bekommen, und der Entlastungsbetrag in Pflegegrad 1 fällt weg. Stiftung Warentest rät, Erst- und Höherstufungsanträge bis 31. Dezember zu stellen, weil dann noch die alten Regeln gelten."
+     ],
+     "beratung": "Kunden mit pflegebedürftigen Eltern auf die Frist hinweisen. Guter Einstieg ins Thema private Pflegevorsorge.",
+     "quellen": [
+      {
+       "name": "Stiftung Warentest",
+       "datum": "01.10.2026",
+       "url": "https://www.test.de/presse/pressemitteilungen/Pflegereform-Hoehere-Huerden-und-mehr-Einschnitte-das-sollten-Betroffene-jetzt-tun-6341800-0/"
+      }
+     ],
+     "id": "pflegereform-antraege-noch-2026-stellen"
+    },
+    {
+     "titel": "Trade Republic gründet Versicherer in Liechtenstein",
+     "text": [
+      "Die Neobank hat die Justinian Versicherungs AG gegründet, die Lebensversicherungen und Fondspolicen anbieten darf. Die Branche vermutet einen Zusammenhang mit der neuen geförderten Altersvorsorge, die auch Produkte mit lebenslanger Rente zulässt. Die Gratis-Konditionen des Trade-Republic-Altersvorsorgedepots dürften für die Policen nicht gelten."
+     ],
+     "beratung": "Kunden, die „einfach alles bei Trade Republic“ machen wollen, den Unterschied erklären: Depot ohne Rentengarantie oder Police mit lebenslanger Rente, und was beides kostet.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "20.10.2026",
+       "url": "https://www.pfefferminzia.de/branche/trade-republic-will-auch-versicherungen-anbieten/"
+      }
+     ],
+     "id": "trade-republic-gruendet-versicherer-in-l"
+    },
+    {
+     "titel": "Elementarschutz soll Standard in der Wohngebäudeversicherung werden",
+     "text": [
+      "Laut Eckpunkten von Justizministerin Hubig und Finanzminister Klingbeil sollen neue Wohngebäudepolicen Überschwemmung und andere Naturgefahren automatisch einschließen, alte Verträge werden schrittweise umgestellt. Die Selbstbeteiligung soll auf höchstens 20.000 € begrenzt sein. Ein Gesetzentwurf wird für 2027 erwartet."
+     ],
+     "beratung": "Bei allen Eigentümern prüfen, ob Elementar schon drin ist. Wer jetzt ergänzt, ist vorbereitet und vermeidet Lücken bis zur Pflicht.",
+     "quellen": [
+      {
+       "name": "Versicherungswirtschaft heute",
+       "datum": "21.10.2026",
+       "url": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-10-21/pflichtversicherung-gegen-elementarschaeden-wird-konkreter/"
+      }
+     ],
+     "id": "elementarschutz-soll-standard-in-der-woh"
+    },
+    {
+     "id": "urteil-unfallverursacher-zahlt-den-bu-ri",
+     "titel": "Urteil: Unfallverursacher zahlt den BU-Risikozuschlag",
+     "text": [
+      "Eine junge Radfahrerin hatte schon ein konkretes BU-Angebot, als sie bei einem Unfall verletzt wurde. Den Vertrag bekam sie danach nur mit Risikozuschlag. Das OLG Schleswig entschied, dass die Haftpflichtversicherung des Autofahrers diesen Zuschlag ersetzen muss, weil die Absicht zum Abschluss vor dem Unfall belegt war (Urteil vom 20.01.2026, Az. 7 U 57/25)."
+     ],
+     "beratung": "Angebote und Beratungsprotokolle immer sauber datieren und dem Kunden mitgeben. Und: Wer die BU aufschiebt, riskiert Zuschläge oder Ablehnung, weil Unfälle jederzeit passieren können.",
+     "quellen": [
+      {
+       "name": "AssCompact",
+       "datum": "23.10.2026",
+       "url": "https://www.asscompact.de/nachrichten/bu-risikozuschlag-nach-unfall-wann-der-versicherer-zahlen-muss"
+      }
+     ]
+    },
+    {
+     "id": "generali-deutschland-baut-800-stellen-ab",
+     "titel": "Generali Deutschland baut 800 Stellen ab",
+     "text": [
+      "Bis Ende 2030 sollen rund 800 Arbeitsplätze wegfallen, die Standorte Aachen, Nürnberg und Stuttgart werden geschlossen. Der Abbau soll über Vorruhestand, Altersteilzeit und natürliche Fluktuation laufen. Gleichzeitig will Generali dreistellige Millionenbeträge in IT und KI stecken."
+     ],
+     "beratung": "Fragen Generali-Kunden nach, ob ihr Vertrag sicher ist: Ja, Stellenabbau ändert nichts an bestehenden Verträgen. Bei Schäden lohnt aber ein Ansprechpartner, der den Weg kennt.",
+     "quellen": [
+      {
+       "name": "Versicherungswirtschaft heute",
+       "datum": "23.10.2026",
+       "url": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-23/generali-deutschland-streicht-800-stellen-und-schliesst-standorte-aachen-nuernberg-und-stuttgart/"
+      },
+      {
+       "name": "AssCompact",
+       "datum": "23.10.2026",
+       "url": "https://www.asscompact.de/nachrichten/generali-deutschland-plant-mehrere-standortzusammenfuehrungen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Geldanlage & Märkte",
+   "meldungen": [
+    {
+     "id": "dax-schliesst-die-woche-mit-1-7-minus",
+     "titel": "DAX schließt die Woche mit 1,7 % Minus",
+     "text": [
+      "Der DAX verlor am Freitag 0,75 % auf 25.181,65 Punkte und rutschte unter die 21-Tage-Linie. Belastet haben schwache Einkaufsmanagerindizes aus Frankreich, der hohe Ölpreis und Zweifel an den hohen KI-Investitionen. MTU fiel um 4,8 %, die Deutsche Telekom um 3,2 %.",
+      "Als Nächstes stehen die Zinsentscheidungen der US-Notenbank und der EZB an."
+     ],
+     "beratung": "Kunden, die bei Rückgängen nervös werden, an den langfristigen Sparplan erinnern: Schwankungen gehören dazu, regelmäßiges Weitersparen kauft in solchen Phasen günstiger ein.",
+     "quellen": [
+      {
+       "name": "onvista/dpa-AFX",
+       "datum": "23.10.2026",
+       "url": "https://www.onvista.de/news/2026/10-23-aktien-frankfurt-dax-schwaechelt-weiter-wochenbilanz-negativ-0-10-26567643"
+      },
+      {
+       "name": "finanzen.ch/AWP",
+       "datum": "23.10.2026",
+       "url": "https://www.finanzen.ch/nachrichten/aktien/aktien-frankfurt-schluss-frankreich-sorgen-lassen-dax-weiter-absacken-1036660308"
+      }
+     ]
+    },
+    {
+     "titel": "Inflation auf Jahreshoch: 3,3 %",
+     "text": [
+      "Die Preise lagen im September 3,3 % über dem Vorjahr, so hoch wie seit Ende 2023 nicht. Treiber ist Energie: Heizöl kostet fast 75 % mehr, Sprit gut 37 %. Strom und Gas sind dagegen günstiger geworden. Die EZB hat den Einlagensatz deshalb schon zweimal auf 2,50 % angehoben, die nächste Sitzung ist am 29. Oktober."
+     ],
+     "beratung": "Rechenbeispiel zeigen: Was sind 1.000 € Rente bei 3 % Teuerung in 25 Jahren noch wert? Das macht Vorsorgelücken greifbar.",
+     "quellen": [
+      {
+       "name": "Destatis",
+       "datum": "13.10.2026",
+       "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"
+      },
+      {
+       "name": "capitalo",
+       "datum": "Sept. 2026",
+       "url": "https://www.capitalo.de/anbieter/capitalo/news/ezb-leitzins-september-2026"
+      }
+     ],
+     "id": "inflation-auf-jahreshoch-3-3"
+    },
+    {
+     "id": "bundesanleihen-erholen-sich-frankreich-b",
+     "titel": "Bundesanleihen erholen sich, Frankreich bleibt unter Druck",
+     "text": [
+      "Die Rendite zehnjähriger Bundesanleihen sank am Donnerstagvormittag auf 3,38 %. Frankreich muss dagegen 5,12 % zahlen, der Abstand zu Deutschland liegt bei gut 1,7 Prozentpunkten."
+     ],
+     "beratung": "Bei Kunden mit Anleihefonds kurz erklären: Breite Streuung über viele Länder schützt, wenn ein einzelnes Land wackelt.",
+     "quellen": [
+      {
+       "name": "ariva/dpa-AFX",
+       "datum": "22.10.2026",
+       "url": "https://www.ariva.de/news/deutsche-anleihen-legen-wieder-zu-franzoesische-titel-12177937"
+      }
+     ]
+    },
+    {
+     "titel": "Sparkassen starten Krypto-Handel in der App",
+     "text": [
+      "Seit 19. Oktober können Kunden erster Sparkassen Bitcoin, Ethereum und drei weitere Kryptowerte in der Sparkassen-App kaufen. Das Angebot kommt von der Deka und läuft ohne Beratung. Weitere Sparkassen sollen nach und nach folgen."
+     ],
+     "beratung": "Wenn Kunden danach fragen: Krypto höchstens als kleine Beimischung mit Geld, dessen Verlust man verkraftet, und nie statt der Altersvorsorge.",
+     "quellen": [
+      {
+       "name": "test.de",
+       "datum": "21.10.2026",
+       "url": "https://www.test.de/thema/aktuelle-finanzanalysen/"
+      }
+     ],
+     "id": "sparkassen-starten-krypto-handel-in-der-"
+    }
+   ]
+  },
+  {
+   "titel": "Baufinanzierung & Immobilien",
+   "meldungen": [
+    {
+     "id": "bauzinsen-geben-erstmals-seit-juli-leich",
+     "titel": "Bauzinsen geben erstmals seit Juli leicht nach",
+     "text": [
+      "Laut Finanztip liegen die Zinsen für zehn Jahre Zinsbindung meist zwischen 4,4 und 5,0 % pro Jahr. Nach dem Anstieg seit Anfang Juli sind sie im Oktober erstmals wieder etwas gesunken."
+     ],
+     "beratung": "Kaufinteressenten nicht auf große Zinssenkungen warten lassen: Lieber jetzt Finanzierung durchrechnen und mit einem Zinsrahmen planen, der auch bei 5 % noch trägt.",
+     "quellen": [
+      {
+       "name": "Finanztip",
+       "datum": "22.10.2026",
+       "url": "https://www.finanztip.de/baufinanzierung/hypothekenzinsen/"
+      }
+     ]
+    },
+    {
+     "id": "gen-z-will-eigentum-plant-aber-nuechtern",
+     "titel": "Gen Z will Eigentum, plant aber nüchtern",
+     "text": [
+      "Laut Interhyp-Wohntraumstudie wollen 80 % der jungen Mieter mit Kaufinteresse eine eigene Immobilie, mehr als 2021. Bei hohen Zinsen würden 41 % länger oder mehr sparen und 33 % den Kauf verschieben. 65 % könnten sich vorstellen, außerhalb der Stadt oder auf dem Land zu wohnen."
+     ],
+     "beratung": "Junge Kunden mit Kaufwunsch: Jetzt mit dem Eigenkapital-Sparen starten und ein klares Zieldatum setzen. Das macht den Traum planbar.",
+     "quellen": [
+      {
+       "name": "AssCompact",
+       "datum": "21.10.2026",
+       "url": "https://www.asscompact.de/nachrichten/so-steht-die-gen-z-zum-immobilienkauf"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Recht, Regulierung & Politik",
+   "meldungen": [
+    {
+     "id": "bundesrat-will-recht-auf-vergessen-nach-",
+     "titel": "Bundesrat will „Recht auf Vergessen“ nach Krebs",
+     "text": [
+      "Nach der SPD fordert auch der Bundesrat, dass Menschen eine überstandene Krebserkrankung nach medizinisch begründeten Fristen nicht mehr angeben müssen, etwa bei Versicherungen und Krediten. Der Beschluss ist nicht bindend, die Bundesregierung muss aber darauf antworten. Wie lang die Fristen sein sollen, ist offen."
+     ],
+     "beratung": "Noch gilt: Bei Anträgen für BU oder Risikoleben alle Vorerkrankungen vollständig angeben. Falsche Angaben können den Schutz kosten.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "20.10.2026",
+       "url": "https://www.pfefferminzia.de/gesundheit/krebs-auch-bundesrat-verlangt-recht-auf-vergessen/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Was deine Kunden gerade lesen",
+   "meldungen": [
+    {
+     "id": "finanztip-4-18-tagesgeld-aber-nur-drei-m",
+     "titel": "Finanztip: 4,18 % Tagesgeld, aber nur drei Monate",
+     "text": [
+      "Advanzia lockt Neukunden bis 31. Oktober mit 4,18 % Tagesgeld, allerdings nur für drei Monate und erst ab 5.000 € Guthaben. Danach gilt 1,51 %. Steuern führt die Bank nicht ab, die Zinsen müssen in die Steuererklärung."
+     ],
+     "beratung": "Kunden, die Lockzinsen hinterherlaufen: Notgroschen aufs Tagesgeld, ja. Alles darüber hinaus gehört in einen langfristigen Sparplan.",
+     "quellen": [
+      {
+       "name": "Finanztip",
+       "datum": "23.10.2026",
+       "url": "https://www.finanztip.de/daily/web/tagesgeld-mit-418-zinsen-lohnt-sich-das-angebot-der-advanzia/"
+      }
+     ]
+    },
+    {
+     "id": "finanztip-finanzen-ab-50-jetzt-anfangen",
+     "titel": "Finanztip: Finanzen ab 50, jetzt anfangen",
+     "text": [
+      "Finanztip rät über 50-Jährigen zum Kassensturz: Einkommen, Ausgaben, Vorsorge, Vermögen und Schulden zusammen anschauen. Empfohlen werden eine Notreserve (im Ruhestand eher sechs Monatseinkommen), ein Blick aufs Rentenkonto auf fehlende Zeiten sowie Vorsorgevollmacht und Patientenverfügung. Die Faustregel „100 minus Alter“ für den Aktienanteil gilt dort als veraltet."
+     ],
+     "beratung": "Perfekter Aufhänger für Kunden ab 50: Genau diesen Gesamtblick liefert unser Finanzkonzept, inklusive Entnahmeplan für den Ruhestand.",
+     "quellen": [
+      {
+       "name": "Finanztip",
+       "datum": "22.10.2026",
+       "url": "https://www.finanztip.de/daily/finanzen-ab-50-warum-du-gerade-jetzt-anfangen-solltest/"
+      }
+     ]
+    },
+    {
+     "titel": "Finanztest: Depot-Vergleich",
+     "text": [
+      "Ein Wechsel des Brokers kann mehrere hundert Euro an Depotkosten sparen. Auch das neue Sparkassen-Depot S-Neo ist nur mit dem passenden Girokonto günstig."
+     ],
+     "beratung": "Kosten offen ansprechen und zeigen, welche Leistung der Kunde dafür bekommt.",
+     "quellen": [
+      {
+       "name": "test.de",
+       "datum": "14.10.2026",
+       "url": "https://www.test.de/thema/aktuelle-finanzanalysen/"
+      }
+     ],
+     "id": "finanztest-depot-vergleich"
+    }
+   ]
+  },
+  {
+   "titel": "Ausblick auf die neue Woche",
+   "meldungen": [
+    {
+     "id": "mo-26-10-ifo-geschaeftsklima-fuer-oktobe",
+     "titel": "Mo 26.10.: Ifo-Geschäftsklima für Oktober",
+     "text": [
+      "Das Münchner Ifo-Institut veröffentlicht am Montag um 10 Uhr seine Geschäftsklima-Indizes für Oktober. Sie zeigen, wie die Unternehmen ihre Lage und Aussichten einschätzen."
+     ],
+     "beratung": "Gute Aufhänger, wenn Selbstständige und Unternehmer-Kunden nach der Konjunktur und ihrer Absicherung fragen.",
+     "quellen": [
+      {
+       "name": "it-boltwise.de (Wirtschaftskalender)",
+       "datum": "25.10.2026",
+       "url": "https://www.it-boltwise.de/wirtschaftskalender-26-oktober-bis-1-november-ezb-fed-und-unternehmenszahlen-im-fokus.html"
+      }
+     ]
+    },
+    {
+     "id": "ezb-zinsentscheid",
+     "titel": "Do 29.10.: EZB-Zinsentscheid – Pause bei 2,50 % erwartet",
+     "text": [
+      "Die EZB hat im September die Leitzinsen um 0,25 Prozentpunkte angehoben, der Einlagensatz liegt seit dem 16.09. bei 2,50 %. Für die Sitzung am Donnerstag rechnen Marktteilnehmer laut einer Reuters-Umfrage mit unveränderten Zinsen und einer möglichen Anhebung erst im Dezember. Haupttreiber der Inflation ist der Energiepreisschock durch den Konflikt im Nahen Osten.",
+      "Das sind Erwartungen, keine Beschlüsse."
+     ],
+     "beratung": "Bauherren und Anschlussfinanzierer: Zinsen können von der EZB-Entscheidung beeinflusst werden. Wer bald abschließen will, sollte die Finanzierung vorher durchrechnen.",
+     "quellen": [
+      {
+       "name": "aktien.news",
+       "datum": "2026-10",
+       "url": "https://www.aktien.news/ezb-vor-zinsentscheidung-funf-fragen-zu-frankreich-iran-und-inflation"
+      },
+      {
+       "name": "EZB",
+       "datum": "10.09.2026",
+       "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.de.html"
+      }
+     ]
+    },
+    {
+     "id": "fr-30-10-erste-bip-schaetzung-und-verbra",
+     "titel": "Fr 30.10.: Erste BIP-Schätzung und Verbraucherpreise",
+     "text": [
+      "Am Freitag stehen erste Schätzungen zum Wirtschaftswachstum in Deutschland und im Euroraum an, dazu Arbeitsmarkt- und Verbraucherpreisdaten."
+     ],
+     "beratung": "Die Inflationszahl ist für Kunden mit Sparplänen und Baufinanzierung der wichtigste Wert der Woche – vorher kurz einplanen.",
+     "quellen": [
+      {
+       "name": "finanzen.at (Wochenvorschau)",
+       "datum": "25.10.2026",
+       "url": "https://www.finanzen.at/nachrichten/aktien/wochenvorschau-termine-bis-30-oktober-2026-1036637045"
+      }
+     ]
+    },
+    {
+     "id": "offen-zustimmung-des-bundesrats-zur-frue",
+     "titel": "Offen: Zustimmung des Bundesrats zur Frühstart-Rente",
+     "text": [
+      "Der Bundestag hat das Gesetz am 16.10.2026 beschlossen, der Bundesrat muss noch zustimmen. Das Inkrafttreten ist für den 1.1.2027 geplant. Einen Sitzungstermin habe ich in den Quellen nicht gefunden."
+     ],
+     "beratung": "Eltern können schon jetzt erklären lassen, wie die 10 € pro Monat funktionieren – aber den Start nicht als sicher versprechen.",
+     "quellen": [
+      {
+       "name": "Deutsche Rentenversicherung",
+       "datum": "19.10.2026",
+       "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Ueber-uns-und-Presse/Presse/Meldungen/2026/261019_fruehstartrente_faq"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "aufhaenger": [
+  "„Das AV-Depot startet 2027 – wissen Sie, was es Sie am Ende wirklich kostet? Im Standarddepot sind höchstens 1 % erlaubt.“",
+  "„Ihr Beitrag in der privaten Krankenversicherung steigt 2027 womöglich um 13 % – wie sieht Ihre Planung für das Alter aus?“",
+  "„Der DAX hat diese Woche 1,7 % verloren – ein guter Anlass, kurz auf Ihre Streuung und Ihren Sparplan zu schauen.“"
+ ],
+ "fusszeile": "Zusammengestellt am 25.10.2026."
+}
