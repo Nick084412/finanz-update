@@ -5,3 +5,4 @@ __pycache__/
 briefing.html
 artifact_url.txt
 .DS_Store
+/site/
