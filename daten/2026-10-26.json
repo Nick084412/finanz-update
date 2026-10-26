@@ -1,0 +1,27 @@
+{
+  "typ": "tag",
+  "datum": "2026-10-26",
+  "top": [
+    {"titel": "Frühstart-Rente wartet auf den Bundesrat", "kurz": "Der Bundestag hat sie beschlossen, die Zustimmung der Länder steht noch aus.", "anker": "fruehstart-bundesrat"},
+    {"titel": "DAX verliert auf Wochensicht 1,7 %", "kurz": "Frankreich-Sorgen, hohe Ölpreise und KI-Zweifel drückten die Stimmung.", "anker": "dax-woche"},
+    {"titel": "EZB entscheidet am Donnerstag", "kurz": "Erwartet wird keine weitere Zinserhöhung nach dem Schritt im September.", "anker": "ezb-donnerstag"}
+  ],
+  "kennzahlen": [
+    {"name": "DAX", "wert": "25.182", "stand": "Schluss 23.10. · −0,75 %", "quelle_name": "ariva/dpa-AFX", "quelle_url": "https://www.ariva.de/news/aktien-frankfurt-schluss-frankreich-sorgen-lassen-dax-12180174"},
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "seit Sept. 2026 · nächste Sitzung 29.10.", "quelle_name": "Finanztip", "quelle_url": "https://www.finanztip.de/zinsentwicklung/"},
+    {"name": "Inflation DE", "wert": "3,3 %", "stand": "September 2026", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"}
+  ],
+  "kennzahlen_hinweis": "MSCI World, Bauzins und Bundesanleihe fehlen heute: Für das Wochenende bzw. den Stichtag fand sich kein belegter, aktueller Wert.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "fruehstart-bundesrat", "titel": "Frühstart-Rente: Bundesrat muss noch zustimmen", "text": ["Der Bundestag hat die Frühstart-Rente am 16. Oktober beschlossen. Weil es ein Zustimmungsgesetz ist, muss auch der Bundesrat ja sagen; das ist laut den gefundenen Quellen noch nicht passiert, die nächste Sitzung soll im November stattfinden.", "Geplant: Der Staat zahlt für Kinder vom 6. bis zum 18. Lebensjahr 10 Euro im Monat in ein Altersvorsorgedepot, Eltern können bis zu 6.840 Euro im Jahr zusätzlich einzahlen. Start ist der 1. Januar 2027, beginnend mit dem Geburtsjahrgang 2020. Zum genauen Startzeitpunkt nennen die Quellen leicht unterschiedliche Angaben."], "beratung": "Familien mit Kindern ab Jahrgang 2020 können jetzt schon besprechen, ob sie das Depot später aufstocken wollen – mit dem Hinweis, dass der Bundesrat noch zustimmen muss.",
+       "quellen": [{"name": "Deutscher Bundestag", "datum": "16.10.2026", "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-fruehstartrente-1223624"}, {"name": "renten.net", "datum": "Stand Oktober 2026", "url": "https://renten.net/news/fruehstart-rente-bundestag-beschlossen-auszahlung/"}]},
+      {"id": "dax-woche", "titel": "DAX schließt schwächer und verliert 1,7 % in der Woche", "text": ["Der DAX fiel am Freitag um 0,75 % auf 25.181,65 Punkte und rutschte unter die 21-Tage-Linie. Auf Wochensicht verlor er 1,7 %. Belastet haben laut dpa-AFX Konjunkturdaten aus Frankreich, hohe Ölpreise und Zweifel an der KI-Branche."], "beratung": "Gutes Thema für Depotkunden: Ein Wochenminus von unter 2 % ist normale Schwankung – ein Anlass, an den langfristigen Sparplan zu erinnern, statt zu reagieren.",
+       "quellen": [{"name": "ariva/dpa-AFX", "datum": "23.10.2026", "url": "https://www.ariva.de/news/aktien-frankfurt-schluss-frankreich-sorgen-lassen-dax-12180174"}]},
+      {"id": "ezb-donnerstag", "titel": "EZB-Sitzung am Donnerstag: keine weitere Erhöhung erwartet", "text": ["Am 29. Oktober gibt die EZB um 14:15 Uhr ihre Zinsentscheidung bekannt. Im September wurden die Leitzinsen um 0,25 Prozentpunkte angehoben, der Einlagensatz liegt seitdem bei 2,50 %. Finanztip und die LBBW erwarten, dass es diesmal bei diesem Stand bleibt."], "beratung": "Für Baufinanzierungs- und Sparer-Gespräche diese Woche nutzen: Ein stabiler Leitzins heißt nicht automatisch fallende Bauzinsen – Zinsbindung lieber früh klären.",
+       "quellen": [{"name": "Finanztip", "datum": "Stand 26.10.2026", "url": "https://www.finanztip.de/zinsentwicklung/"}, {"name": "LBBW", "datum": "Oktober 2026", "url": "https://www.lbbw.de/artikel/maerkte-verstehen/termine-oktober-2026_anjnmvdjip_d.html"}]}
+    ]}
+  ],
+  "aufhaenger": ["„Für Ihre Tochter, Jahrgang 2020, soll es ab 2027 vom Staat 10 Euro im Monat ins Depot geben – wollen wir schon mal planen, ob Sie etwas dazulegen?“"],
+  "fusszeile": "Zusammengestellt am 26.10.2026. Ruhiger Wochenstart: In der Fachpresse fanden sich seit Freitag keine belegbaren neuen Meldungen, daher heute eine kürzere Ausgabe. Keine neuen tecis-Meldungen."
+}
