@@ -1,0 +1,65 @@
+{
+  "typ": "tag",
+  "datum": "2026-10-27",
+  "top": [
+    {"titel": "Staatliches Standarddepot wackelt", "kurz": "Zum Start des Altersvorsorgedepots im Januar könnte das öffentliche Angebot fehlen.", "anker": "standarddepot-verzoegerung"},
+    {"titel": "Ifo auf höchstem Stand seit 2023", "kurz": "Die Stimmung der Firmen hellt sich auf, der DAX legt fast 1 % zu.", "anker": "ifo-dax"},
+    {"titel": "EZB entscheidet am Donnerstag", "kurz": "Fast alle Ökonomen erwarten eine Pause bei 2,50 %, im Dezember dann eher eine Erhöhung.", "anker": "ezb-donnerstag"}
+  ],
+  "kennzahlen": [
+    {"name": "DAX", "wert": "25.410", "stand": "Schluss 26.10. · +0,91 %", "quelle_name": "ariva/dpa-AFX", "quelle_url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-steigt-ifo-index-12182236"},
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "nächste Sitzung 29.10.", "quelle_name": "Cash.", "quelle_url": "https://cash-online.de/a/ezb-tagt-erneut-frankreichs-schuldenkrise-erhoeht-den-druck-728423"},
+    {"name": "Bauzins 10 J.", "wert": "≈ 4,4 %", "stand": "Angebote 19.–25.10.", "quelle_name": "Interhyp", "quelle_url": "https://www.interhyp.de/zinsen/"},
+    {"name": "Inflation DE", "wert": "3,3 %", "stand": "September 2026", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"},
+    {"name": "Inflation Euroraum", "wert": "3,8 %", "stand": "September 2026 (Vorabschätzung)", "quelle_name": "Cash.", "quelle_url": "https://cash-online.de/a/ezb-tagt-erneut-frankreichs-schuldenkrise-erhoeht-den-druck-728423"}
+  ],
+  "kennzahlen_hinweis": "MSCI World und Bundesanleihe: kein belegter aktueller Stand gefunden, deshalb weggelassen.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "standarddepot-verzoegerung", "titel": "Kommt das staatliche Standarddepot zu spät?",
+       "text": ["Laut einer Kurzstudie von Metzler Ratings fehlen für das öffentlich organisierte Standarddepot noch Träger, Starttermin und Verordnung. Eine Antwort des Finanzministeriums deutet auf Verzögerungen hin, im Gespräch sind etwa Bundesbank, KfW, Rentenversicherung und Kenfo.", "Wichtig: Betroffen ist nur das staatliche Angebot. Das Altersvorsorgedepot bei Banken, Fondsgesellschaften und Versicherern soll wie geplant am 1. Januar 2027 starten."],
+       "beratung": "Kunden, die auf das „Staatsdepot“ warten wollen, erklären: Die Förderung gibt es auch bei privaten Anbietern, und Warten kostet Zulagen und Zeit.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "26.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/kommt-das-staatliche-altersvorsorgedepot-ueberhaupt/"}]},
+      {"id": "ifo-dax", "titel": "Ifo-Index steigt zum sechsten Mal, DAX legt zu",
+       "text": ["Das Ifo-Geschäftsklima ist im Oktober den sechsten Monat in Folge gestiegen und steht so hoch wie seit Frühjahr 2023 nicht mehr. Die Firmen blicken vor allem optimistischer nach vorn. Der DAX schloss am Montag 0,91 % höher bei 25.410 Punkten, nach einer schwachen Vorwoche."],
+       "beratung": "Gutes Beispiel, warum man nach einer Minus-Woche nicht aussteigen sollte: Märkte drehen oft schneller, als man denkt.",
+       "quellen": [{"name": "ariva/dpa-AFX", "datum": "26.10.2026", "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-steigt-ifo-index-12182236"}]},
+      {"id": "ezb-donnerstag", "titel": "EZB-Sitzung am Donnerstag: Pause erwartet",
+       "text": ["Der EZB-Rat entscheidet am 29. Oktober. In einer Reuters-Umfrage erwarten 70 von 73 Ökonomen, dass der Einlagensatz bei 2,50 % bleibt. Für Dezember rechnet eine große Mehrheit mit einer Erhöhung auf 2,75 %. Die Inflation im Euroraum lag im September laut Vorabschätzung bei 3,8 %, getrieben von Energie."],
+       "beratung": "Für Sparer und Bauherren heißt das: Zinsen bleiben vorerst hoch. Wer finanzieren will, sollte Angebote nicht zu lange liegen lassen.",
+       "quellen": [{"name": "Cash.", "datum": "26.10.2026", "url": "https://cash-online.de/a/ezb-tagt-erneut-frankreichs-schuldenkrise-erhoeht-den-druck-728423"}]}
+    ]},
+    {"titel": "Altersvorsorge & Rente", "meldungen": [
+      {"id": "rentenreform-zeitplan", "titel": "Rentenreform: Kabinett im Dezember, Beschluss erst 2027",
+       "text": ["Die Bundesregierung will den Entwurf zur Rentenreform voraussichtlich im Dezember im Kabinett beschließen. Bundestag und Bundesrat sollen im ersten Quartal 2027 beraten, der Beschluss ist für das Frühjahr 2027 geplant. Offen sind noch Ausnahmen für langjährig Versicherte, etwa bei der Rente nach 45 Jahren, sowie Übergangsfristen."],
+       "beratung": "Kunden ab Jahrgang 1960, die mit 45 Beitragsjahren planen, auf die offene Lage hinweisen und den Ruhestandsplan nicht nur auf eine abschlagsfreie Rente bauen.",
+       "quellen": [{"name": "Stuttgarter Zeitung", "datum": "26.10.2026", "url": "https://www.stuttgarter-zeitung.de/wirtschaft/rentenreform-das-ist-der-zeitplan-von-merz-79610380.html"}]},
+      {"id": "alte-leipziger-avd", "titel": "Alte Leipziger zeigt drei Produkte fürs Altersvorsorgedepot",
+       "text": ["Unter dem Namen „ALfonds-Plus“ startet die Alte Leipziger zum 1. Januar 2027 mit einer Variante mit 80 % Beitragsgarantie, einer Variante ohne Garantie und dem vorgeschriebenen Standarddepot. Zur Wahl stehen rund 170 Fonds. Ausgezahlt wird als lebenslange Rente oder per Auszahlungsplan bis zu einem Endalter zwischen 85 und 100."],
+       "beratung": "Für sicherheitsorientierte Kunden ist die 80-%-Garantie ein Gesprächseinstieg. Kosten erst vergleichen, wenn sie veröffentlicht sind.",
+       "quellen": [{"name": "procontra", "datum": "Oktober 2026", "url": "https://www.procontra-online.de/altersvorsorge/artikel/avd-alte-leipziger-kommt-mit-3-neuen-produkten-auf-den-markt"}]}
+    ]},
+    {"titel": "Versicherungen", "meldungen": [
+      {"id": "kindervorsorge-reihenfolge", "titel": "Kindervorsorge: Erst absichern, dann sparen",
+       "text": ["Die meisten schweren Behinderungen bei Kindern entstehen durch Krankheit, nicht durch Unfall. Fachleute empfehlen deshalb als Fundament eine Kinderinvaliditätsversicherung, danach Unfallschutz und erst dann den Vermögensaufbau, etwa mit einem ETF-Depot. Früher Abschluss hilft, weil Gesundheitsfragen später zu Ausschlüssen führen können."],
+       "beratung": "Passt gut zur Frühstart-Rente: Eltern auf die Reihenfolge Absicherung vor Sparen ansprechen und die Beratung dokumentieren.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "26.10.2026", "url": "https://www.pfefferminzia.de/branche/kindervorsorge-produktreihenfolge-entscheidet-ueber-beratungsqualitaet/"}]},
+      {"id": "wildunfaelle", "titel": "Wildunfälle kosten 1,2 Milliarden Euro",
+       "text": ["Laut Versichererverband GDV kosteten Wildunfälle die Autoversicherer 2025 rund 1,2 Milliarden Euro, 7 % mehr als im Vorjahr. Ein Schaden kostet im Schnitt etwa 4.400 Euro. Besonders riskant sind Oktober und November in der Dämmerung. In der Teilkasko hat ein Wildschaden keinen Einfluss auf den Schadenfreiheitsrabatt."],
+       "beratung": "Jetzt nach der Zeitumstellung ein guter Anlass, bei Kfz-Kunden den Teilkaskoschutz zu prüfen.",
+       "quellen": [{"name": "procontra", "datum": "Oktober 2026", "url": "https://www.procontra-online.de/shuk/artikel/12-milliarden-euro-pkw-schaeden-durch-wildunfaelle"}]}
+    ]},
+    {"titel": "Was deine Kunden gerade lesen", "meldungen": [
+      {"id": "wohngebaeude-handwerker", "titel": "Wohngebäudeversicherung zahlt nicht für Handwerkerpfusch",
+       "text": ["Ein Urteil, über das Stiftung Warentest berichtet: Der Wohngebäudeversicherer muss versicherte Schäden ersetzen, nicht aber Folgeschäden durch eine fehlerhafte Reparatur des Handwerkers. Dafür haftet der Handwerker."],
+       "beratung": "Eigentümern raten: Reparaturen nach einem Schaden dokumentieren und nur Fachbetriebe beauftragen.",
+       "quellen": [{"name": "test.de", "datum": "27.10.2026", "url": "https://www.test.de/Urteil-zur-Wohngebaeudeversicherung-Versicherer-haftet-nicht-fuer-Handwerkerpfusch-6351838-0/"}]},
+      {"id": "kinder-geld", "titel": "Finanztest: Mit Kindern über Geld sprechen",
+       "text": ["Stiftung Warentest gibt sechs Grundsätze für einen gesunden Umgang mit Geld in der Familie und neue Empfehlungen zur Höhe des Taschengelds."],
+       "beratung": "Schöner Einstieg ins Familiengespräch, bevor es um Frühstart-Rente und Kindervorsorge geht.",
+       "quellen": [{"name": "test.de", "datum": "24.10.2026", "url": "https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/"}]}
+    ]}
+  ],
+  "aufhaenger": ["Ab Januar startet das Altersvorsorgedepot, und für Kinder kommt die Frühstart-Rente. Bevor wir übers Sparen reden: Ist Ihr Kind eigentlich abgesichert, wenn es krank wird? Lassen Sie uns kurz die richtige Reihenfolge anschauen."],
+  "fusszeile": "Zusammengestellt am 27.10.2026, ausnahmsweise am Mittag, weil die Cloud heute früh keine Artikel öffnen konnte. Keine neuen tecis-Meldungen."
+}
