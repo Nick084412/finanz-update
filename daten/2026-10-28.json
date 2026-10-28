@@ -1,0 +1,44 @@
+{
+  "typ": "tag",
+  "datum": "2026-10-28",
+  "top": [
+    {"titel": "Frühstartrente: Provisionsverbot bis 65", "kurz": "Für die 10 Euro vom Staat dürfen keine Abschlusskosten mehr fließen, bis die Auszahlung beginnt.", "anker": "fruehstart-provisionsverbot"},
+    {"titel": "Erste Anbieter melden AVD-Start", "kurz": "Interrisk setzt auf ein reines Kapitalmarkt-Depot ohne Garantie, Abschluss ab 23. November.", "anker": "interrisk-avd"},
+    {"titel": "Kfz-Beiträge 2027 steigen nur um 2 %", "kurz": "Nach drei Jahren starker Preissprünge beruhigt sich der Markt in der Wechselsaison.", "anker": "kfz-wechselsaison"}
+  ],
+  "kennzahlen": [
+    {"name": "DAX", "wert": "25.590", "stand": "Schluss 27.10. · +0,7 %", "quelle_name": "Handelsblatt", "quelle_url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-mercedes-aktien-enttaeuschten/100265163.html"},
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "nächste Sitzung 29.10.", "quelle_name": "Cash.", "quelle_url": "https://cash-online.de/a/ezb-tagt-erneut-frankreichs-schuldenkrise-erhoeht-den-druck-728423"},
+    {"name": "Bauzins 10 J.", "wert": "≈ 4,4 %", "stand": "Angebote 19.–25.10.", "quelle_name": "Interhyp", "quelle_url": "https://www.interhyp.de/zinsen/"},
+    {"name": "Inflation DE", "wert": "3,3 %", "stand": "September 2026", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"}
+  ],
+  "kennzahlen_hinweis": "MSCI World und Bund 10 J. fehlen, weil kein belegter aktueller Wert gefunden wurde. EZB-Wert und Bauzins unverändert zur Vorausgabe.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "fruehstart-provisionsverbot", "titel": "Frühstartrente: Keine Abschlusskosten auf die Staatsförderung", "text": ["Für den geförderten Teil der Frühstartrente (10 Euro im Monat vom Staat plus Erträge) sind Abschluss- und Vertriebskosten künftig bis zum Beginn der Auszahlung verboten, frühestens ab 65. Bisher sollte das nur bis zur Volljährigkeit gelten. Freiwillige Zuzahlungen bis 6.840 Euro im Jahr sind davon nicht betroffen.", "Zertifizierte Standarddepots dürfen effektiv höchstens 1 % pro Jahr kosten und sollen ohne Beratungspflicht komplett digital abschließbar sein. Der Bundestag hat das Gesetz am 16.10. beschlossen; der Bundesrat hat laut Cash. fünf Änderungen gefordert, der Start zum 1.1.2027 hängt noch von seiner Zustimmung ab."],
+       "beratung": "Eltern auf die Zuzahlungen ansprechen: Das Staatsgeld läuft kostengünstig, die Beratung lohnt sich beim privaten Aufbau darüber hinaus.",
+       "quellen": [{"name": "Cash.", "datum": "27.10.2026", "url": "https://www.cash-online.de/a/so-veraendert-die-fruehstartrente-das-geschaeft-der-vermittler-728639/"}, {"name": "Deutscher Bundestag", "datum": "16.10.2026", "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw42-de-fruehstartrente-1223624"}]},
+      {"id": "interrisk-avd", "titel": "Interrisk: Altersvorsorgedepot ohne Versicherungsmantel", "text": ["Die Interrisk startet ihr Altersvorsorgedepot zum 1. Januar 2027, Abschlüsse sind ab 23. November möglich. Es gibt keine Garantien. Für beratene Kunden gibt es drei gemanagte Portfolios (defensiv, ausgewogen, Wachstum), bei denen der Aktienanteil Richtung Rente sinkt.", "Dazu kommt ein separater „Zulagenretter“: eine Risikolebensversicherung über pauschal 10.000 Euro ohne Gesundheitsprüfung, damit Erben im Todesfall die Zulagen nicht zurückzahlen müssen. Makler bekommen laufende Vergütung statt Abschlussprovision."],
+       "beratung": "Bei jedem Anbieter fragen: Garantie ja/nein, Kosten offengelegt, und wie ist der Todesfall mit Zulagen geregelt?",
+       "quellen": [{"name": "Pfefferminzia", "datum": "27.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/interrisk-setzt-beim-altersvorsorgedepot-auf-kapitalmarkt-pur/"}]},
+      {"id": "kfz-wechselsaison", "titel": "Kfz-Versicherung 2027: Beiträge steigen nur leicht", "text": ["Laut Verivox-Index liegen die Kfz-Tarife für 2027 im Schnitt 2 % über dem Vorjahr, nach drei Jahren kräftiger Anstiege. Die Haftpflicht wird um 3 % teurer, Vollkasko um 2 %, Teilkasko stagniert. Günstige Tarife sind rund 2 % billiger als im Vorjahr.", "Auf lange Sicht kostet der Autoschutz im Schnitt trotzdem 51 % mehr als im Oktober 2022. Zwischen günstigem und mittlerem Segment liegen etwa 36 %."],
+       "beratung": "Kunden jetzt vor Ende der Wechselfrist (30.11.) auf einen Tarifcheck ansprechen: Das Sparpotenzial ist spürbar.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "27.10.2026", "url": "https://www.pfefferminzia.de/mobilitaet/wechselsaison-kfz-versicherer-liefern-sich-wieder-einen-preiskampf/"}]}
+    ]},
+    {"titel": "Altersvorsorge & Rente", "meldungen": [
+      {"id": "langes-leben", "titel": "Umfrage: Viele fühlen sich auf ein langes Leben schlecht vorbereitet", "text": ["Laut einer Yougov-Umfrage im Auftrag von Canada Life wollen die Deutschen im Schnitt 91,2 Jahre alt werden, schätzen ihre eigene Lebenserwartung aber nur auf 82 Jahre. 70 % halten Deutschland für schlecht vorbereitet, bei Pflege (71 %) und finanzieller Absicherung (70 %) ist die Sorge am größten.", "65 % rechnen mit längerem Arbeiten, 64 % mit höheren Pflegekosten, 47 % fürchten, im Ruhestand ohne Geld dazustehen."],
+       "beratung": "Gute Frage im Termin: „Wie alt möchten Sie werden – und bis wohin reicht Ihr Geld?“",
+       "quellen": [{"name": "Pfefferminzia", "datum": "20.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/deutsche-fuehlen-sich-auf-ein-langes-leben-schlecht-vorbereitet/"}]},
+      {"id": "trade-republic-versicherer", "titel": "Trade Republic gründet Versicherer in Liechtenstein", "text": ["Die Neobank hat die Justinian Versicherungs AG gegründet, die Lebensversicherungen und Fondspolicen anbieten darf. Der Markt vermutet einen Zusammenhang mit der Reform der geförderten Altersvorsorge, denn Produkte mit Garantie oder lebenslanger Rente brauchen Policen. Trade Republic hat sich dazu nicht geäußert."],
+       "beratung": "Kunden fragen künftig öfter nach Neobank-Angeboten: Unterschiede bei Garantie und Rentenphase klar erklären.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "20.10.2026", "url": "https://www.pfefferminzia.de/branche/trade-republic-will-auch-versicherungen-anbieten/"}]}
+    ]},
+    {"titel": "Recht, Regulierung & Politik", "meldungen": [
+      {"id": "recht-auf-vergessen", "titel": "Bundesrat: Recht auf Vergessen nach Krebs", "text": ["Der Bundesrat hat am 16.10. die Bundesregierung aufgefordert, ein Recht auf Vergessen einzuführen. Nach überstandenem Krebs und Ablauf medizinisch begründeter Fristen sollen Betroffene die Krankheit etwa bei Versicherungen und Krediten nicht mehr angeben müssen.", "Die Entschließung ist für die Regierung nicht bindend. Genannt wurden unter anderem Berufsunfähigkeits- und Lebensversicherungen."],
+       "beratung": "Für Kunden mit überstandener Erkrankung: Heute weiter ehrlich angeben, aber das Thema im Blick behalten.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "20.10.2026", "url": "https://www.pfefferminzia.de/gesundheit/krebs-auch-bundesrat-verlangt-recht-auf-vergessen/"}]}
+    ]}
+  ],
+  "aufhaenger": ["„Fürs Auto wird es 2027 kaum teurer – aber wer jetzt vergleicht, spart oft mehr als 30 Prozent. Wollen wir Ihre Verträge noch vor Ende November durchschauen?“"],
+  "fusszeile": "Zusammengestellt am 28.10.2026. Keine neuen tecis- oder Swiss-Life-Meldungen gefunden. Kein neuer belegter Wert für MSCI World und Bund 10 J."
+}
