@@ -1,0 +1,50 @@
+{
+  "typ": "tag",
+  "datum": "2026-10-29",
+  "top": [
+    {"titel": "Altersvorsorgedepot: Depot oder Versicherung?", "kurz": "Eine Studie rechnet vor, was Garantien kosten und wie stark Auszahlungen im Crash schwanken.", "anker": "metzler-avd-studie"},
+    {"titel": "Vermittlerverbände: Beratung beim Altersvorsorgedepot nötig", "kurz": "75 % der befragten Vermittler wollen das Depot anbieten, über die Vergütung wird noch gestritten.", "anker": "verbaende-avd"},
+    {"titel": "PKV für Beamte: Beiträge steigen 2027", "kurz": "Bei rund 53 % der Versicherten gibt es im Schnitt 13,4 % mehr, nur 2,7 % der Tarife erhalten die Bestnote.", "anker": "pkv-beamte-rating"}
+  ],
+  "kennzahlen": [
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "Sitzung heute, 29.10. · Pause erwartet", "quelle_name": "Cash.", "quelle_url": "https://www.cash-online.de/a/was-anleger-vom-ezb-zinsentscheid-erwarten-koennen-728961/"},
+    {"name": "Inflation DE", "wert": "3,3 %", "stand": "September 2026", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"}
+  ],
+  "kennzahlen_hinweis": "DAX, MSCI World, Bauzins und Bund 10 J. fehlen heute, weil kein belegter aktueller Wert mit Datum gefunden wurde. Die EZB-Entscheidung fällt erst heute; erwartet wird laut Cash. unveränderter Zins.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "metzler-avd-studie", "titel": "Studie: Altersvorsorgedepot – Versicherer vorn, Bankdepot billiger", "text": ["Metzler Ratings hat das neue Altersvorsorgedepot durchgerechnet. Bei 100 Euro im Monat über 30 Jahre bleiben in der Modellrechnung rund 78.800 Euro im Bankdepot (0,30 % Kosten) gegenüber rund 68.200 Euro bei einer Versicherung (1,10 % Kosten). Garantien kosten zusätzlich: Eine volle Beitragsgarantie senkt das Endkapital im Modell um rund 16 %.", "Dafür schwankt die Auszahlung beim Depot: Im Crash-Szenario sinkt die Monatsrente zeitweise deutlich, während eine garantierte Rente mit 196 bis 217 Euro konstant bleibt. Die Studie sieht Versicherer trotzdem im Vorteil bei der Kundengewinnung. Alle Werte sind Modellannahmen."],
+       "beratung": "Mit Kunden besprechen, was ihnen wichtiger ist: möglichst viel Rendite-Chance oder planbare Rente – und beides auch mischen.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "22.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/riester-2-0-versicherer-im-vorteil-trotz-kostennachteil/"}]},
+      {"id": "verbaende-avd", "titel": "Vermittlerverbände fordern Beratung und faire Vergütung", "text": ["Auf der DKM haben BVK und BDVM ihre Haltung zur neuen geförderten Altersvorsorge geschärft. Laut BVK-Umfrage unter 823 Vermittlern wollen 75 % das Altersvorsorgedepot anbieten. Der BVK kritisiert beratungsfreie Standardlösungen und hält einen höheren Honoraranteil für sinnvoll.", "Der BDVM wäre bereit, die Abschlusscourtage auf 25 Promille zu begrenzen, aber nur mit angemessener laufender Vergütung."],
+       "beratung": "Das Thema früh bei Bestandskunden mit Riester ansprechen: Der Beratungsbedarf wird mit dem Start 2027 deutlich steigen.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "27.10.2026", "url": "https://www.pfefferminzia.de/branche/altersvorsorgedepot-vermittlerverbaende-dringen-auf-beratung-und-faire-verguetung/"}]},
+      {"id": "pkv-beamte-rating", "titel": "PKV für Beamte: Nur wenige Tarife glänzen, Beiträge steigen", "text": ["Im Beamten-Rating von Franke und Bornberg erreichen nur 26 von 959 Tarifen (2,7 %) die Bestnote. Die Bewertung gewichtet Finanzstärke, Beitragsentwicklung, Service und Nachhaltigkeit nun stärker.", "Zum 1.1.2027 steigen die Beiträge bei rund 53 % der Privatversicherten im Schnitt um 13,4 %, bei Beihilfetarifen um 11,4 %."],
+       "beratung": "Beamte in der PKV auf einen Tarifcheck ansprechen, bevor die Erhöhung im Januar kommt.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "20.10.2026", "url": "https://www.pfefferminzia.de/gesundheit/pkv-fuer-beamte-nur-wenige-tarife-glaenzen/"}]}
+    ]},
+    {"titel": "Altersvorsorge & Rente", "meldungen": [
+      {"id": "versicherungskammer-2027", "titel": "Versicherungskammer: Depot, Garantie und Rentenoption ab 2027", "text": ["Der Konzern startet zum 1.1.2027 drei Modelle nach der Reform: Standarddepots für Selbstentscheider (ab etwa 0,5 % Kosten pro Jahr), Altersvorsorgedepots für beratene Kunden mit lebenslanger Rentenoption und Garantieprodukte mit 80 oder 100 % Beitragsgarantie.", "Zusätzlich kommt eine ungeförderte Vermögensverwaltung ohne feste Laufzeit."],
+       "beratung": "Als Vergleichsbeispiel nutzen: So unterschiedlich fallen Kosten und Garantien bei Anbietern aus.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "28.10.2026", "url": "https://www.pfefferminzia.de/branche/versicherungskammer-legt-bei-altersvorsorge-pkv-und-bkv-nach/"}]}
+    ]},
+    {"titel": "Versicherungen", "meldungen": [
+      {"id": "krebs-vergessen", "titel": "Bundesrat will „Recht auf Vergessen“ nach Krebs", "text": ["Nach der SPD fordert auch der Bundesrat, dass überstandene Krebserkrankungen nach medizinisch begründeten Fristen nicht mehr offengelegt werden müssen, etwa bei Versicherungen und Krediten. Die Länder haben eine Entschließung an die Bundesregierung gerichtet, die sie prüfen, aber nicht umsetzen muss."],
+       "beratung": "Für Kunden mit früherer Krebserkrankung gilt vorerst weiter die Gesundheitsprüfung; den Stand beobachten.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "20.10.2026", "url": "https://www.pfefferminzia.de/gesundheit/krebs-auch-bundesrat-verlangt-recht-auf-vergessen/"}]},
+      {"id": "schadenregulierung", "titel": "Schadenmeldung soll schneller gehen", "text": ["GDV, BDVM und BVK haben gemeinsame Mindestanforderungen für Schadenmeldungen vereinbart, um Rückfragen und manuelle Schritte zu verringern. Als Nächstes soll der Datenaustausch standardisiert werden."],
+       "beratung": "Kunden im Schadenfall helfen, direkt alle Angaben vollständig zu melden, das spart Zeit.",
+       "quellen": [{"name": "AssCompact", "datum": "28.10.2026", "url": "https://www.asscompact.de/nachrichten/gdv-bdvm-und-bvk-wollen-schadenregulierung-beschleunigen"}]},
+      {"id": "bkv-gesundheitsreform", "titel": "bKV: Höhere Zuzahlungen als Argument für Arbeitgeber", "text": ["Die Versicherungskammer sieht in der Gesundheitsreform, die ab 2027 höhere Zuzahlungen für gesetzlich Versicherte bringt, einen Anstoß für Arbeitgeber zur betrieblichen Krankenversicherung. Neue Mitarbeitende können laut Anbieter binnen sechs Monaten ohne Gesundheitsprüfung aufstocken."],
+       "beratung": "Bei Firmenkunden die bKV als Mitarbeiter-Benefit ins Gespräch bringen.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "28.10.2026", "url": "https://www.pfefferminzia.de/branche/versicherungskammer-legt-bei-altersvorsorge-pkv-und-bkv-nach/"}]}
+    ]},
+    {"titel": "Geldanlage & Märkte", "meldungen": [
+      {"id": "ezb-erwartung", "titel": "EZB heute: Zinspause erwartet, im Dezember könnte es wieder hoch gehen", "text": ["Heute entscheidet die EZB. Ein Anleihe-Experte von Neuberger erwartet eine Pause beim Leitzins. Im Dezember sei eine weitere Erhöhung wahrscheinlich, falls der Gaspreis über 77 Euro je Megawattstunde bleibt. Für 2027 rechnet er mit einer anhaltenden Pause."],
+       "beratung": "Kunden mit anstehender Anschlussfinanzierung erinnern: Zinsentscheidungen wirken auf Bauzinsen und Tagesgeld.",
+       "quellen": [{"name": "Cash.", "datum": "29.10.2026", "url": "https://www.cash-online.de/a/was-anleger-vom-ezb-zinsentscheid-erwarten-koennen-728961/"}]}
+    ]}
+  ],
+  "aufhaenger": ["„Wenn Sie sich später zwischen schwankender Auszahlung und garantierter Rente entscheiden müssten – was wäre Ihnen wichtiger?“"],
+  "fusszeile": "Zusammengestellt am 29.10.2026. Keine neuen tecis-Meldungen gefunden; Börsenwerte fehlen mangels belegter Quelle."
+}
