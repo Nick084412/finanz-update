@@ -1,0 +1,46 @@
+{
+  "typ": "tag",
+  "datum": "2026-10-30",
+  "top": [
+    {"titel": "EZB lässt Zins bei 2,5 % – Dezember bleibt offen", "kurz": "Trotz 3,8 % Inflation im Euroraum gab es keine Erhöhung, der DAX schloss über 26.000 Punkten.", "anker": "ezb-pause"},
+    {"titel": "Staatliches Standarddepot wackelt", "kurz": "Es gibt weder Träger noch Verordnung, das Finanzministerium schließt einen Wegfall nicht aus.", "anker": "standarddepot-unsicher"},
+    {"titel": "Interrisk startet Altersvorsorgedepot ab 23. November", "kurz": "Ohne Garantien, mit laufender Vergütung für Makler statt Abschlussprovision.", "anker": "interrisk-avd"}
+  ],
+  "kennzahlen": [
+    {"name": "DAX", "wert": "26.040", "stand": "Schluss 29.10. · +1,3 %", "quelle_name": "dpa-AFX via ad-hoc-news", "quelle_url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-29-oktober-2026-1-31-prozent-hoeher-bei-26-039-68-punkten/70429994"},
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "Entscheidung 29.10. · unverändert", "quelle_name": "Biallo", "quelle_url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"},
+    {"name": "Bauzins 10 J.", "wert": "4,34 %", "stand": "Biallo-Index, 28.10. (Durchschnitt)", "quelle_name": "Biallo", "quelle_url": "https://www.biallo.de/baufinanzierung/news/bauzinsen-prognose-jahresende/"},
+    {"name": "Inflation DE", "wert": "3,3 %", "stand": "September 2026", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html"}
+  ],
+  "kennzahlen_hinweis": "MSCI World und Bund 10 J. fehlen heute, weil kein belegter aktueller Wert mit Datum gefunden wurde. Beim DAX nennen andere Quellen 26.052,75 (Xetra); hier der dpa-AFX-Wert.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "ezb-pause", "titel": "EZB belässt den Einlagensatz bei 2,5 %", "text": ["Die EZB hat gestern wie erwartet nicht erhöht, nachdem sie im September angehoben hatte. Die Inflation im Euroraum lag im September bei 3,8 %, in Deutschland bei 3,3 %. Viele Beobachter rechnen ab Dezember mit weiteren Erhöhungen, auch wegen hoher Energiepreise.", "Der DAX schloss am Donnerstag laut dpa-AFX 1,3 % höher bei rund 26.040 Punkten."],
+       "beratung": "Kunden erinnern: Steigende Zinserwartungen stützen Festgeld und halten die Bauzinsen hoch – Anschlussfinanzierungen frühzeitig planen.",
+       "quellen": [{"name": "Biallo", "datum": "29.10.2026", "url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"}, {"name": "ad-hoc-news (dpa-AFX)", "datum": "29.10.2026", "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-29-oktober-2026-1-31-prozent-hoeher-bei-26-039-68-punkten/70429994"}]},
+      {"id": "standarddepot-unsicher", "titel": "Staatliches Standarddepot könnte ausfallen", "text": ["Laut Metzler Ratings ist für das staatlich organisierte Standarddepot weder ein Träger benannt noch ein Starttermin bekannt, die nötige Verordnung fehlt. Eine Antwort des Bundesfinanzministeriums legt nahe, dass das Angebot verzögert werden oder ganz entfallen könnte, genannt werden fehlende Verwaltungsstrukturen und europarechtliche Hürden.", "Laut Autor verzögert sich nur das staatliche Standarddepot, nicht der gesamte Start des Altersvorsorgedepots zum 1. Januar 2027."],
+       "beratung": "Kunden sagen: Private Anbieter starten voraussichtlich trotzdem, ein staatliches Angebot ist aber ungewiss.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "26.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/kommt-das-staatliche-altersvorsorgedepot-ueberhaupt/"}]},
+      {"id": "interrisk-avd", "titel": "Interrisk: Altersvorsorgedepot ohne Garantie ab 23. November", "text": ["Die Interrisk startet zum 1. Januar 2027 mit einem rein kapitalmarktorientierten Altersvorsorgedepot ohne Versicherungsmantel; Abschluss soll ab dem 23. November möglich sein. Das Beratungsprodukt mit drei gemanagten Portfolios läuft über Makler, die eine laufende Vergütung statt Abschlussprovision erhalten.", "Die Kosten will das Haus erst nach dem Start vollständig offenlegen. Optional gibt es einen „Zulagenretter“, eine separate Risikolebensversicherung über 10.000 Euro ohne Gesundheitsprüfung."],
+       "beratung": "Als Beispiel für ein kostengünstiges Depot-Modell nutzen und Kunden fragen, wie wichtig ihnen Garantien sind.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "27.10.2026", "url": "https://www.pfefferminzia.de/vorsorge/interrisk-setzt-beim-altersvorsorgedepot-auf-kapitalmarkt-pur/"}]}
+    ]},
+    {"titel": "Versicherungen", "meldungen": [
+      {"id": "elementar-sp", "titel": "S&P: Elementarschaden-Pflicht für Versicherer verkraftbar", "text": ["Laut Ratingagentur S&P stellt die geplante Mindestdeckung für Wohnhäuser gegen Elementarschäden die Schaden- und Unfallversicherer nicht vor unlösbare Probleme. Versicherer mit viel Gebäudegeschäft könnten bei einer extremen Katastrophe aber empfindlich getroffen werden. (Nur der Anreißer war frei lesbar.)"],
+       "beratung": "Hausbesitzer fragen, ob ihre Wohngebäudeversicherung Elementarschäden schon einschließt.",
+       "quellen": [{"name": "Versicherungsmonitor", "datum": "29.10.2026", "url": "https://versicherungsmonitor.de/2026/10/29/sp-elementar-plaene-der-regierung-fuer-branche-verkraftbar"}]}
+    ]},
+    {"titel": "Geldanlage & Märkte", "meldungen": [
+      {"id": "tages-festgeld", "titel": "Festgeld legt stärker zu als Tagesgeld", "text": ["Der Biallo-Index für Tagesgeld liegt bei 1,84 %, für Festgeld (12 Monate) bei 2,34 %. Spitzenwerte beim Tagesgeld sind meist befristete Neukundenzinsen, die nach drei Monaten deutlich sinken. Beim Festgeld liegen die höchsten Sätze bei etwa 3,75 %, Banken preisen laut Biallo eine Erhöhung im Dezember ein."],
+       "beratung": "Bei Kunden mit viel Tagesgeld nachfragen: Rücklage behalten, darüber hinaus Anlageziele und Laufzeiten prüfen.",
+       "quellen": [{"name": "Biallo", "datum": "29.10.2026", "url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"}]}
+    ]},
+    {"titel": "Baufinanzierung & Immobilien", "meldungen": [
+      {"id": "bauzinsen-jahresende", "titel": "Bauzinsen bleiben bis Jahresende hoch", "text": ["Zehnjährige Baudarlehen kosten laut Biallo-Index im Schnitt 4,34 %. Ein Zinsexperte von Dr. Klein hält 4 bis 4,5 % bis Jahresende für realistisch; Treiber sind hohe Energiepreise und Inflationserwartungen. Im Beispiel (300.000 Euro, 40 % Eigenkapital) lag das beste Angebot bei 3,74 %, rund 0,6 Punkte unter dem Schnitt."],
+       "beratung": "Kunden zum Konditionenvergleich ermutigen – schon kleine Zinsunterschiede machen über zehn Jahre viel aus.",
+       "quellen": [{"name": "Biallo", "datum": "28.10.2026", "url": "https://www.biallo.de/baufinanzierung/news/bauzinsen-prognose-jahresende/"}]}
+    ]}
+  ],
+  "aufhaenger": ["„Die Zinsen bleiben vorerst hoch – wann läuft bei Ihnen die Zinsbindung aus, und sollen wir den Anschluss schon jetzt vergleichen?“"],
+  "fusszeile": "Zusammengestellt am 30.10.2026. Keine neuen tecis-Meldungen gefunden; MSCI World und Bund fehlen mangels belegter Quelle."
+}
