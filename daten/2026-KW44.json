@@ -1,0 +1,320 @@
+{
+ "typ": "woche",
+ "datum": "2026-11-01",
+ "kw": "KW 44",
+ "top": [
+  {
+   "titel": "EZB lässt Zinsen unverändert",
+   "kurz": "Der Einlagensatz bleibt bei 2,5 %, Märkte rechnen aber ab Dezember mit Erhöhungen.",
+   "anker": "ezb-pause"
+  },
+  {
+   "titel": "Inflation sinkt auf 2,8 %",
+   "kurz": "Hauptgrund ist der Tankrabatt; Fachleute erwarten zum Jahreswechsel wieder über 3 %.",
+   "anker": "inflation-oktober"
+  },
+  {
+   "titel": "DAX legt in der Woche 2,5 % zu",
+   "kurz": "Nach einem starken Wochenverlauf schloss der Index am Freitag bei rund 25.818 Punkten.",
+   "anker": "dax-woche"
+  },
+  {
+   "titel": "Altersvorsorgedepot: Anbieter legen los",
+   "kurz": "Interrisk, Versicherungskammer & Co. stellen ihre Produkte für den Start 2027 vor.",
+   "anker": "avd-anbieter"
+  },
+  {
+   "titel": "Bauzinsen bleiben hoch",
+   "kurz": "Der Durchschnitt für 10 Jahre liegt bei 4,34 %; bis Jahresende werden 4 bis 4,5 % erwartet.",
+   "anker": "bauzinsen"
+  }
+ ],
+ "kennzahlen": [
+  {
+   "name": "DAX",
+   "wert": "25.818",
+   "vorher": "25.182",
+   "stand": "Schluss Fr 30.10. · +2,5 % zur Vorwoche",
+   "quelle_name": "onvista / dpa-AFX",
+   "quelle_url": "https://www.onvista.de/news/2026/10-30-roundup-aktien-frankfurt-schluss-schwaecheres-ende-einer-starken-boersenwoche-0-10-26570585"
+  },
+  {
+   "name": "EZB-Einlagensatz",
+   "wert": "2,50 %",
+   "vorher": "2,50 %",
+   "stand": "unverändert am Do 29.10. · nächste Sitzung im Dezember",
+   "quelle_name": "Biallo",
+   "quelle_url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"
+  },
+  {
+   "name": "Bauzins 10 J.",
+   "wert": "4,34 %",
+   "vorher": "",
+   "stand": "Durchschnitt laut Biallo-Index, Stand 28.10.",
+   "quelle_name": "Biallo",
+   "quelle_url": "https://www.biallo.de/baufinanzierung/news/bauzinsen-prognose-jahresende/"
+  },
+  {
+   "name": "Inflation DE",
+   "wert": "2,8 %",
+   "vorher": "3,3 %",
+   "stand": "Oktober 2026, vorläufig (Vormonat September)",
+   "quelle_name": "t-online / Destatis",
+   "quelle_url": "https://t-online.de/finanzen/aktuelles/wirtschaft/id_101505586/statistisches-bundesamt-inflation-sinkt-im-oktober-auf-2-8-prozent.html"
+  }
+ ],
+ "kennzahlen_hinweis": "MSCI World und Rendite 10-jähriger Bundesanleihen konnten für Freitag nicht belegt werden und fehlen daher.",
+ "rubriken": [
+  {
+   "titel": "Altersvorsorge & Rente",
+   "meldungen": [
+    {
+     "id": "avd-anbieter",
+     "titel": "Altersvorsorgedepot: Erste Anbieter nennen Details",
+     "text": [
+      "Interrisk bringt sein Altersvorsorgedepot ohne Garantie ab 23. November auf den Markt, die Versicherungskammer kündigt Depot, Garantie und Rentenoption ab 2027 an. Gesetzlich starten die reformierten Produkte am 1. Januar 2027."
+     ],
+     "beratung": "Kunden fragen jetzt nach dem Start: Zeitplan erklären und früh die Unterschiede zwischen Depot mit und ohne Garantie besprechen.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "30.10.2026",
+       "url": "https://www.pfefferminzia.de/vorsorge/interrisk-setzt-beim-altersvorsorgedepot-auf-kapitalmarkt-pur/"
+      },
+      {
+       "name": "Pfefferminzia",
+       "datum": "29.10.2026",
+       "url": "https://www.pfefferminzia.de/branche/versicherungskammer-legt-bei-altersvorsorge-pkv-und-bkv-nach/"
+      }
+     ]
+    },
+    {
+     "id": "avd-kosten",
+     "titel": "Studie: Versicherer vorn, Bankdepot billiger",
+     "text": [
+      "Eine Auswertung zum neuen Altersvorsorgedepot sieht Versicherungsprodukte bei den Leistungen im Vorteil, Bankdepots dagegen bei den Kosten."
+     ],
+     "beratung": "Kosten und Leistung gemeinsam betrachten, nicht nur den günstigsten Preis.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "29.10.2026",
+       "url": "https://www.pfefferminzia.de/vorsorge/riester-2-0-versicherer-im-vorteil-trotz-kostennachteil/"
+      }
+     ]
+    },
+    {
+     "id": "standarddepot",
+     "titel": "Staatliches Standarddepot könnte ausfallen",
+     "text": [
+      "Laut Bericht ist offen, ob das vom Staat vorgesehene Standarddepot überhaupt rechtzeitig kommt."
+     ],
+     "beratung": "Kunden sollten ihre Entscheidung nicht vom Standarddepot abhängig machen.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "30.10.2026",
+       "url": "https://www.pfefferminzia.de/vorsorge/kommt-das-staatliche-altersvorsorgedepot-ueberhaupt/"
+      }
+     ]
+    },
+    {
+     "id": "fruehstart",
+     "titel": "Frühstart-Rente: Bundesrat muss noch zustimmen",
+     "text": [
+      "Der Bundestag hat die Frühstart-Rente beschlossen, die Zustimmung des Bundesrats steht aus. Start soll der 1. Januar 2027 sein, für den Jahrgang 2020 rückwirkend. Ein Abstimmungstermin ist in den Quellen nicht genannt. Laut Bericht dürfen auf die Staatsförderung keine Abschlusskosten erhoben werden."
+     ],
+     "beratung": "Eltern von Kindern ab Jahrgang 2020 darauf ansprechen; Details bleiben bis zur Bundesrats-Zustimmung unter Vorbehalt.",
+     "quellen": [
+      {
+       "name": "cash-online",
+       "datum": "28.10.2026",
+       "url": "https://www.cash-online.de/a/so-veraendert-die-fruehstartrente-das-geschaeft-der-vermittler-728639/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Versicherungen",
+   "meldungen": [
+    {
+     "id": "kfz-2027",
+     "titel": "Kfz-Versicherung 2027: Beiträge steigen nur leicht",
+     "text": [
+      "Zur Wechselsaison liefern sich die Versicherer wieder einen Preiskampf, die Beiträge steigen nur leicht."
+     ],
+     "beratung": "Bis Ende November kündigen viele Kfz-Verträge – ein guter Anlass für einen Vergleich.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "28.10.2026",
+       "url": "https://www.pfefferminzia.de/mobilitaet/wechselsaison-kfz-versicherer-liefern-sich-wieder-einen-preiskampf/"
+      }
+     ]
+    },
+    {
+     "id": "krebs",
+     "titel": "Bundesrat will „Recht auf Vergessen“ nach Krebs",
+     "text": [
+      "Der Bundesrat verlangt, dass ehemalige Krebspatienten nach einer gewissen Zeit bei Versicherungsabschlüssen nicht mehr benachteiligt werden."
+     ],
+     "beratung": "Betroffene Kunden hoffen auf Verbesserungen bei Berufsunfähigkeits- und Kreditabsicherung; bisher nur Forderung.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "28.10.2026",
+       "url": "https://www.pfefferminzia.de/gesundheit/krebs-auch-bundesrat-verlangt-recht-auf-vergessen/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Geldanlage & Märkte",
+   "meldungen": [
+    {
+     "id": "ezb-pause",
+     "titel": "EZB belässt Einlagensatz bei 2,5 %",
+     "text": [
+      "Die EZB hat die Zinsen am Donnerstag nicht verändert. Märkte rechnen mehrheitlich mit einer Erhöhung im Dezember, Festgeld legt stärker zu als Tagesgeld."
+     ],
+     "beratung": "Kunden mit Tagesgeld: Zinsvorteile von Festgeld nennen, Liquiditätsreserve aber getrennt halten.",
+     "quellen": [
+      {
+       "name": "Biallo",
+       "datum": "30.10.2026",
+       "url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"
+      }
+     ]
+    },
+    {
+     "id": "dax-woche",
+     "titel": "DAX: starke Woche, schwacher Freitag",
+     "text": [
+      "Der DAX stieg in der Woche um 2,5 % und schloss am Freitag nach Verlusten von 0,85 % bei etwa 25.818 Punkten. Auslöser waren höhere Ölpreise und enttäuschende Zahlen von Amazon und Intel."
+     ],
+     "beratung": "Schwankungen gehören dazu: Bei Sparplänen ruhig bleiben.",
+     "quellen": [
+      {
+       "name": "onvista / dpa-AFX",
+       "datum": "30.10.2026",
+       "url": "https://www.onvista.de/news/2026/10-30-roundup-aktien-frankfurt-schluss-schwaecheres-ende-einer-starken-boersenwoche-0-10-26570585"
+      }
+     ]
+    },
+    {
+     "id": "inflation-oktober",
+     "titel": "Inflation sinkt im Oktober auf 2,8 %",
+     "text": [
+      "Die Teuerung fiel laut erster Schätzung von 3,3 % im September auf 2,8 %, vor allem wegen des bis Jahresende befristeten Tankrabatts. Energie ist weiter 12,2 % teurer als vor einem Jahr; ein Ökonom erwartet zum Jahreswechsel wieder über 3 %."
+     ],
+     "beratung": "Kaufkraftverlust bleibt Thema: Argument für Anlage statt Kontostand.",
+     "quellen": [
+      {
+       "name": "t-online",
+       "datum": "30.10.2026",
+       "url": "https://t-online.de/finanzen/aktuelles/wirtschaft/id_101505586/statistisches-bundesamt-inflation-sinkt-im-oktober-auf-2-8-prozent.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Baufinanzierung & Immobilien",
+   "meldungen": [
+    {
+     "id": "bauzinsen",
+     "titel": "Bauzinsen bleiben bis Jahresende hoch",
+     "text": [
+      "Der Durchschnitt für 10 Jahre Zinsbindung liegt laut Biallo bei 4,34 % (Stand 28.10.). Dr. Klein hält 4 bis 4,5 % bis Dezember für realistisch; die beste Offerte im Beispiel lag bei 3,74 %."
+     ],
+     "beratung": "Mit dem aktuellen Niveau kalkulieren und Angebote vergleichen – Vermittlung lohnt sich.",
+     "quellen": [
+      {
+       "name": "Biallo",
+       "datum": "28.10.2026",
+       "url": "https://www.biallo.de/baufinanzierung/news/bauzinsen-prognose-jahresende/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Recht, Regulierung & Politik",
+   "meldungen": [
+    {
+     "id": "wohngebaeude",
+     "titel": "Wohngebäudeversicherung zahlt nicht für Handwerkerpfusch",
+     "text": [
+      "Ein Urteil stellt klar, dass der Versicherer nicht für Schäden durch fehlerhafte Handwerkerarbeit einsteht."
+     ],
+     "beratung": "Hausbesitzer auf Leistungsgrenzen ihrer Police hinweisen.",
+     "quellen": [
+      {
+       "name": "test.de",
+       "datum": "27.10.2026",
+       "url": "https://www.test.de/Urteil-zur-Wohngebaeudeversicherung-Versicherer-haftet-nicht-fuer-Handwerkerpfusch-6351838-0/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Ausblick auf die neue Woche",
+   "meldungen": [
+    {
+     "id": "termin-0211",
+     "titel": "Mo 02.11.: Anhörung zur Erwerbsminderungsrente",
+     "text": [
+      "Der Bundestagsausschuss für Arbeit und Soziales hört um 16 Uhr Sachverständige zur Erwerbsminderungsrente an. Der Finanzausschuss berät am selben Tag unter anderem das Jahressteuergesetz 2026."
+     ],
+     "beratung": "Für Kunden zur Absicherung der Arbeitskraft ein guter Aufhänger.",
+     "quellen": [
+      {
+       "name": "Bundestag",
+       "datum": "27.10.2026",
+       "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261027-oea-kw45-1229788"
+      }
+     ]
+    },
+    {
+     "id": "termin-0311",
+     "titel": "Di 03.11.: US-Zwischenwahlen",
+     "text": [
+      "Die Märkte blicken laut Börsenbericht vor die US-Wahlen; Kursausschläge sind möglich."
+     ],
+     "beratung": "Kunden vor kurzfristigen Schwankungen beruhigen.",
+     "quellen": [
+      {
+       "name": "it-boltwise",
+       "datum": "Okt. 2026",
+       "url": "https://www.it-boltwise.de/dax-vor-us-wahlen-allzeithoch-naeher-ezb-zinsen-und-inflationsdaten-im-blick.html"
+      }
+     ]
+    },
+    {
+     "id": "termin-2011",
+     "titel": "Fr 20.11.: Bundesrat-Plenarsitzung",
+     "text": [
+      "Die nächste Plenarsitzung des Bundesrats ist am 20. November; ob dort die Frühstart-Rente behandelt wird, ist nicht belegt. Die Fachausschüsse tagen schon diese Woche."
+     ],
+     "beratung": "Frühstart-Rente weiter beobachten.",
+     "quellen": [
+      {
+       "name": "Bundesrat",
+       "datum": "2025",
+       "url": "https://www.bundesrat.de/SharedDocs/pm/2025/017_Termine_2026.html"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "aufhaenger": [
+  "Altersvorsorgedepot ab 2027: Mit oder ohne Garantie – was passt zu dir?",
+  "Die Inflation fiel auf 2,8 %, könnte aber wieder steigen – arbeitet dein Geld?",
+  "Kfz-Wechselsaison: Lohnt sich ein Vergleich vor Ende November?"
+ ],
+ "fusszeile": "Zusammengestellt am 01.11.2026."
+}
