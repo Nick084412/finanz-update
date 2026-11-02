@@ -1,0 +1,36 @@
+{
+  "typ": "tag",
+  "datum": "2026-11-02",
+  "top": [
+    {"titel": "Inflation fällt im Oktober auf 2,8 %", "kurz": "Nach 3,3 % im September sinkt die Teuerung stärker als erwartet, vor allem wegen des Tankrabatts.", "anker": "inflation-oktober"},
+    {"titel": "DAX gibt am Freitag nach, Woche bleibt im Plus", "kurz": "Ölpreis und Tech-Schwäche drücken, die Woche endet dennoch bei +2,5 %.", "anker": "dax-woche"},
+    {"titel": "DVAG und Generali werben für das Altersvorsorgedepot", "kurz": "Kampagne zum Start am 1. Januar 2027 – Produktkonditionen sind noch offen.", "anker": "dvag-generali-avd"}
+  ],
+  "kennzahlen": [
+    {"name": "DAX", "wert": "25.818", "stand": "Schluss 30.10. · −0,85 %", "quelle_name": "dpa-AFX via ARIVA", "quelle_url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-schwaecheres-ende-einer-12189224"},
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "Entscheidung 29.10. · unverändert", "quelle_name": "Biallo", "quelle_url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"},
+    {"name": "Bauzins 10 J.", "wert": "4,18 %", "stand": "Bestzins effektiv, Dr. Klein, 02.11.", "quelle_name": "Dr. Klein", "quelle_url": "https://www.drklein.de/aktuelle-bauzinsen.html"},
+    {"name": "Inflation DE", "wert": "2,8 %", "stand": "Oktober 2026 (vorläufig)", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"}
+  ],
+  "kennzahlen_hinweis": "MSCI World und Bund 10 J. fehlen heute, weil kein belegter aktueller Wert mit Datum gefunden wurde. Der Bauzins ist ein Bestzins eines Vermittlers, kein Marktdurchschnitt.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "inflation-oktober", "titel": "Inflation sinkt im Oktober auf 2,8 %", "text": ["Laut vorläufiger Zahl von Destatis lag die Teuerungsrate im Oktober bei 2,8 % nach 3,3 % im September. Erwartet worden waren rund 3,0 %. Die Kernrate ohne Energie und Nahrungsmittel sank auf etwa 2,1 %, Energie war aber weiterhin gut 12 % teurer als im Vorjahr.", "Die Commerzbank führt den Rückgang laut dpa-AFX vor allem auf den Tankrabatt zurück. Die endgültigen Zahlen kommen am 11. November."],
+       "beratung": "Kunden einordnen: Die Entlastung ist teils ein Sondereffekt, Kaufkraftverlust bleibt ein Thema für die langfristige Geldanlage.",
+       "quellen": [{"name": "Destatis", "datum": "30.10.2026", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"}, {"name": "ARIVA (dpa-AFX)", "datum": "30.10.2026", "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-schwaecheres-ende-einer-12189224"}]},
+      {"id": "dax-woche", "titel": "DAX: schwacher Freitag, starke Woche", "text": ["Der DAX schloss am Freitag laut dpa-AFX 0,85 % im Minus bei 25.818 Punkten. Belastet haben steigende Ölpreise wegen Sorgen vor einem möglichen US-Militärschlag gegen den Iran sowie enttäuschende Zahlen von Amazon und Intel. Für die Woche steht trotzdem ein Plus von 2,5 %, im Oktober ebenfalls.", "Wie es weitergeht, hängt laut dpa-Wochenausblick an den US-Zwischenwahlen am Dienstag und den US-Jobdaten."],
+       "beratung": "Bei nervösen Kunden: Schwankungen gehören dazu, der Oktober lief insgesamt gut – Sparplan beibehalten.",
+       "quellen": [{"name": "ARIVA (dpa-AFX)", "datum": "30.10.2026", "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-schwaecheres-ende-einer-12189224"}]},
+      {"id": "dvag-generali-avd", "titel": "DVAG und Generali starten Kampagne zum Altersvorsorgedepot", "text": ["Unter dem Motto „Deutschland macht Rente“ werben DVAG und Generali für das Altersvorsorgedepot, das am 1. Januar 2027 startet; Riester-Neuverträge sind dann nicht mehr möglich. Konkrete Produktkonditionen nennen sie bisher nicht, angekündigt sind fondsbasierte Depots mit flexiblen Garantien.", "Zum Vergleich nennt der Bericht für Standarddepots Kosten von 0,1 % (Deka) bzw. bis 0,15 % (Scalable Capital, Smartbroker+) ETF-Kosten pro Jahr. Verbraucherschützer weisen darauf hin, dass provisionierte Beratung nicht automatisch unabhängig ist."],
+       "beratung": "Kunden holen sich gerade Infos aus Werbung – Kosten, Garantien und Provision transparent gegenüberstellen schafft Vertrauen.",
+       "quellen": [{"name": "buerger-geld.org", "datum": "31.10.2026", "url": "https://www.buerger-geld.org/news/rente/deutschland-macht-rente-dvag-und-generali-haben-kampagne-zum-altersvorsorgedepot-2027-gestartet/"}]}
+    ]},
+    {"titel": "Baufinanzierung & Immobilien", "meldungen": [
+      {"id": "bauzinsen-nov", "titel": "Bauzinsen auf hohem Niveau, Prognose: stabil bis leicht steigend", "text": ["Laut Dr. Klein liegt der Bestzins für 10 Jahre Zinsbindung bei 4,08 % Sollzins bzw. 4,18 % effektiv (Stand 2. November). Seit Juli sind die Zinsen um etwa 0,8 Prozentpunkte gestiegen.", "Der Vermittler erwartet bis Jahresende stabile bis leicht steigende Zinsen im Korridor von 4,0 bis 4,5 %. Das ist die Einschätzung eines Anbieters, keine neutrale Analyse."],
+       "beratung": "Kunden mit Anschlussfinanzierung in den nächsten 12–24 Monaten auf ein Forward-Darlehen ansprechen.",
+       "quellen": [{"name": "Dr. Klein", "datum": "02.11.2026", "url": "https://www.drklein.de/aktuelle-bauzinsen.html"}]}
+    ]}
+  ],
+  "aufhaenger": ["„Die Inflation ist im Oktober auf 2,8 % gefallen – das ist gut, aber Ihr Geld auf dem Tagesgeld verliert trotzdem an Kaufkraft. Wollen wir uns Ihre Rücklage mal ansehen?“"],
+  "fusszeile": "Zusammengestellt am 02.11.2026. Montag: Wenige frische Fachpresse-Meldungen mit sichtbarem Datum gefunden, daher nur vier Meldungen. Keine neuen tecis-Meldungen der letzten Tage."
+}
