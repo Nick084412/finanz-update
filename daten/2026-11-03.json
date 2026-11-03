@@ -1,0 +1,36 @@
+{
+  "typ": "tag",
+  "datum": "2026-11-03",
+  "top": [
+    {"titel": "Nur 10 % wollen ein vorgegebenes Standarddepot", "kurz": "DIA-Umfrage: 49 % wollen sich zuerst beraten lassen und dann selbst entscheiden.", "anker": "dia-umfrage-avd"},
+    {"titel": "Pools sehen im Altersvorsorgedepot eine Chance", "kurz": "Vier Pool-Chefs erwarten auf der DKM ein starkes Vermittlerjahr 2027.", "anker": "pools-rekordjahr"},
+    {"titel": "DAX erholt sich auf 25.981 Punkte", "kurz": "Fallende Ölpreise helfen, die 26.000 bleibt knapp außer Reichweite.", "anker": "dax-montag"}
+  ],
+  "kennzahlen": [
+    {"name": "DAX", "wert": "25.981", "stand": "Schluss 02.11. · +0,63 %", "quelle_name": "onvista (dpa-AFX)", "quelle_url": "https://www.onvista.de/news/2026/11-02-roundup-aktien-frankfurt-schluss-dax-legt-zu-vor-apple-und-zwischenwahlen-0-10-26571361"},
+    {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "Entscheidung 29.10. · unverändert", "quelle_name": "Biallo", "quelle_url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"},
+    {"name": "Bauzins 10 J.", "wert": "4,18 %", "stand": "Bestzins effektiv, Dr. Klein, 02.11.", "quelle_name": "Dr. Klein", "quelle_url": "https://www.drklein.de/aktuelle-bauzinsen.html"},
+    {"name": "Inflation DE", "wert": "2,8 %", "stand": "Oktober 2026 (vorläufig)", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"}
+  ],
+  "kennzahlen_hinweis": "MSCI World und Bund 10 J. fehlen heute, weil kein belegter aktueller Wert mit Datum gefunden wurde. Der Bauzins ist ein Bestzins eines Vermittlers, kein Marktdurchschnitt.",
+  "rubriken": [
+    {"titel": "Das Wichtigste heute", "meldungen": [
+      {"id": "dia-umfrage-avd", "titel": "Umfrage: Kunden wollen beim Altersvorsorgedepot Beratung und Wahl", "text": ["Laut einer Umfrage des Deutschen Instituts für Altersvorsorge (DIA) wollen 49 % der Befragten sich beraten lassen und dann selbst entscheiden. 28 % wählen lieber ohne Beratung, nur 10 % wünschen sich eine vorgegebene Standardlösung, 13 % sind unentschlossen. Angaben zur Stichprobe nennt der Bericht nicht.", "Bei Haushalten mit 2.000 bis unter 3.000 Euro netto liegt der Beratungswunsch bei 58 %. Banken und Versicherer reagieren bereits: Die Deutsche Bank plant ein digitales Standarddepot, die Allianz Angebote in allen drei geförderten Produktkategorien."],
+       "beratung": "Als Gesprächseinstieg: „Viele wollen erst beraten werden und dann selbst entscheiden – genau dabei helfe ich Ihnen.“",
+       "quellen": [{"name": "extraETF", "datum": "02.11.2026", "url": "https://extraetf.com/de/news/altersvorsorgedepot-nur-jeder-zehnte-will-das-standarddepot"}]},
+      {"id": "pools-rekordjahr", "titel": "Pools erwarten starkes Vermittlerjahr 2027", "text": ["Die Chefs von vier Maklerpools und -verbünden sehen das Altersvorsorgedepot laut Pfefferminzia vor allem als Geschäftschance. Garantieprodukte bleiben ihrer Einschätzung nach für Kunden relevant, die sich gegen langes Leben absichern wollen; kapitalmarktorientierte Lösungen kommen ergänzend dazu.", "Neobroker sehen sie nicht als ernsthafte Gefahr, auch wegen der steuerlichen Komplexität. Für das Depot ist eine schlankere Vergütung vorgesehen; zusätzliches Volumen könne laut einem Pool-Chef wichtiger sein als die Provision pro Abschluss. Das sind Einschätzungen der Branche."],
+       "beratung": "Jetzt Kundenbestand durchgehen: Wer profitiert von Zulagen und sollte vor dem Start am 1. Januar 2027 angesprochen werden?",
+       "quellen": [{"name": "Pfefferminzia", "datum": "29.10.2026", "url": "https://pfefferminzia.de/vorsorge/pools-und-verbuende-rechnen-mit-rekordjahr-fuer-vermittler"}]},
+      {"id": "dax-montag", "titel": "DAX erholt sich, 26.000 Punkte bleiben knapp außer Reichweite", "text": ["Der DAX schloss am Montag laut dpa-AFX bei 25.981 Punkten, ein Plus von 0,63 %. Fallende Ölpreise und ein Bericht über diplomatische Bemühungen von US-Präsident Trump im Iran-Krieg stützten vor allem Reisewerte. Die 26.000er-Marke wurde nur zeitweise erreicht.", "Im Fokus stehen heute die US-Zwischenwahlen und die Apple-Zahlen vom Montagabend. HQ Trust verweist darauf, dass der S&P 500 seit 1928 in den zwölf Monaten nach Zwischenwahlen im Schnitt um 12,4 % zulegte – kein Versprechen für die Zukunft."],
+       "beratung": "Bei verunsicherten Kunden: Politische Ereignisse sorgen für Schwankungen, ein langfristiger Sparplan gleicht das aus.",
+       "quellen": [{"name": "onvista (dpa-AFX)", "datum": "02.11.2026", "url": "https://www.onvista.de/news/2026/11-02-roundup-aktien-frankfurt-schluss-dax-legt-zu-vor-apple-und-zwischenwahlen-0-10-26571361"}]}
+    ]},
+    {"titel": "Altersvorsorge & Rente", "meldungen": [
+      {"id": "interrisk-avd", "titel": "Interrisk: Altersvorsorgedepot ohne Garantie, Abschluss ab 23. November", "text": ["Interrisk will das Altersvorsorgedepot zum 1. Januar 2027 anbieten; Abschlüsse sollen schon ab dem 23. November 2026 möglich sein. Das Konzept ist rein kapitalmarktorientiert, ohne Garantien und ohne Versicherungsmantel.", "Die Kosten nennt der Versicherer noch nicht, sie sollen erst bei Livegang offengelegt werden. Auch der Preis des „Zulagenretters“, einer Risikolebensversicherung, ist offen."],
+       "beratung": "Kunden erklären: Ohne bekannte Kosten ist ein Vergleich noch nicht seriös möglich – erst Konditionen abwarten, dann entscheiden.",
+       "quellen": [{"name": "Pfefferminzia", "datum": "27.10.2026", "url": "https://pfefferminzia.de/vorsorge/interrisk-setzt-beim-altersvorsorgedepot-auf-kapitalmarkt-pur"}]}
+    ]}
+  ],
+  "aufhaenger": ["„Fast die Hälfte der Deutschen will sich beim neuen Altersvorsorgedepot erst beraten lassen und dann selbst entscheiden. Sollen wir Ihre Zulagen und Möglichkeiten einmal gemeinsam durchgehen?“"],
+  "fusszeile": "Zusammengestellt am 03.11.2026. Wenige Meldungen mit sichtbarem Datum gefunden, daher nur vier Meldungen. Keine neuen tecis-Meldungen der letzten Tage."
+}
