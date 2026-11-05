@@ -1,0 +1,43 @@
+# Ruft alle 2 Stunden die Preise der beobachteten Pokémon-Karten ab (Cardmarket über TCGdex, eBay über die Browse-API),
+# speichert den Verlauf unter docs/pokemon/ und schickt bei günstigen Angeboten eine Push-Nachricht über ntfy.
+# Abonnieren: App „ntfy“ installieren, „+“ tippen, Kanal pokemon-preise-k7m2xq9d eintragen.
+# eBay einrichten: Repository → Settings → Secrets and variables → Actions → EBAY_CLIENT_ID und EBAY_CLIENT_SECRET anlegen.
+name: Pokémon-Preise
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['pokemon/beobachten.json']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pokemon-preise
+  cancel-in-progress: false
+
+env:
+  NTFY_TOPIC: pokemon-preise-k7m2xq9d
+  SEITE: https://nick084412.github.io/finanz-update/pokemon/
+
+jobs:
+  abrufen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Preise abrufen
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: python3 pokemon/abrufen.py
+      - name: Ergebnis speichern
+        run: |
+          git config user.name "Pokémon-Preise"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/pokemon pokemon/gemeldet.json
+          if git diff --cached --quiet; then echo "Keine Änderung."; exit 0; fi
+          git commit -m "Pokémon-Preise $(date -u +%F\ %H:%M)"
+          for i in 1 2 3; do git pull --rebase origin main && git push && exit 0; sleep 5; done
+          exit 1

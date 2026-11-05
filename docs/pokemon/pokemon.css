@@ -1,0 +1,113 @@
+/* Pokémon-Kartenpreise – gleiche Farbwelt wie das Finanz-Update (Tiefblau + Gold) */
+:root {
+  --surface: #040a18; --raised: #0a1428; --sunken: #02060f;
+  --line: #16243f; --line-strong: #3a5078;
+  --ink: #f4efe4; --muted: #c4cddc; --subtle: #8f9cb3;
+  --akzent: #e6c477; --akzent-soft: #121a2c;
+  --gain: #5fd0b5; --gain-soft: #0b2a2c; --loss: #ff9d76; --loss-soft: #2e1a1e;
+  --ebay: #7fb2ff; --prognose: #c9a2ff;
+  --schatten: 0 18px 40px -14px #000000b3;
+  color-scheme: dark;
+}
+[data-theme="light"] {
+  --surface: #f7f5f0; --raised: #ffffff; --sunken: #ece8de;
+  --line: #e3ded2; --line-strong: #8c8471;
+  --ink: #0e1a2b; --muted: #4d5869; --subtle: #6a7383;
+  --akzent: #7a5a12; --akzent-soft: #f4ead3;
+  --gain: #0b6e5f; --gain-soft: #dcefe9; --loss: #b4400f; --loss-soft: #f8e3d8;
+  --ebay: #1f5fbf; --prognose: #7a3fc4;
+  --schatten: 0 1px 2px #0e1a2b0f, 0 12px 32px -12px #0e1a2b40;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--surface); color: var(--ink); font: 16px/1.55 "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+a { color: var(--akzent); text-underline-offset: 3px; }
+code { background: var(--sunken); padding: 1px 6px; border-radius: 4px; font-size: .9em; word-break: break-all; }
+h1, h2, h3 { font-family: Newsreader, Georgia, serif; font-weight: 600; line-height: 1.2; margin: 0; }
+.breit { max-width: 72rem; margin: 0 auto; padding-inline: 16px; }
+.num { font-variant-numeric: tabular-nums; }
+.hinweis { color: var(--subtle); }
+.klein { font-size: .85rem; color: var(--subtle); }
+[hidden] { display: none !important; }
+
+/* Kopf */
+.kopf { background: #040a18; color: #f7f2e7; border-bottom: 1px solid #16243f; padding: 28px 0 22px; }
+.kopf-innen { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+.kicker { margin: 0 0 4px; color: #e6c477; letter-spacing: .08em; text-transform: uppercase; font-size: .75rem; }
+.kopf h1 { font-size: clamp(1.8rem, 5vw, 2.6rem); }
+.thema { background: none; border: 1px solid #3a5078; color: #f7f2e7; border-radius: 999px; width: 38px; height: 38px; cursor: pointer; font-size: 1.1rem; }
+.suche { display: flex; gap: 8px; margin-top: 18px; }
+.suche input { flex: 1; min-width: 0; padding: 12px 14px; border-radius: 8px; border: 1px solid #3a5078; background: #0a1428; color: #f7f2e7; font: inherit; }
+.suche input:focus { outline: 2px solid #e6c477; outline-offset: 1px; }
+.suche button, .knopf { padding: 12px 18px; border-radius: 8px; border: 0; background: #e6c477; color: #040a18; font: inherit; font-weight: 600; cursor: pointer; }
+
+main { padding-block: 24px 48px; }
+section { margin-bottom: 36px; }
+.abschnitt-kopf { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 14px; }
+.abschnitt-kopf h2 { font-size: 1.5rem; }
+.stand { margin: 0; color: var(--subtle); font-size: .85rem; }
+.leise { background: none; border: 0; color: var(--muted); cursor: pointer; font: inherit; }
+
+/* Kartenraster */
+.raster { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 14px; }
+.karte { background: var(--raised); border: 1px solid var(--line); border-radius: 10px; padding: 10px; cursor: pointer; text-align: left; color: inherit; font: inherit; display: flex; flex-direction: column; gap: 8px; transition: transform .15s, border-color .15s; }
+.karte:hover, .karte:focus-visible { transform: translateY(-2px); border-color: var(--akzent); outline: none; }
+.karte img { width: 100%; aspect-ratio: 245 / 342; object-fit: contain; border-radius: 6px; background: var(--sunken); }
+.karte .titel { font-weight: 600; line-height: 1.25; }
+.karte .unter { color: var(--subtle); font-size: .8rem; }
+.preiszeile { display: flex; justify-content: space-between; gap: 6px; font-size: .85rem; }
+.preiszeile b { font-variant-numeric: tabular-nums; }
+.marke { display: inline-block; font-size: .72rem; padding: 2px 8px; border-radius: 999px; background: var(--gain-soft); color: var(--gain); font-weight: 600; }
+.marke.warn { background: var(--loss-soft); color: var(--loss); }
+.plus { color: var(--gain); } .minus { color: var(--loss); }
+
+/* Deals */
+.deals { display: grid; gap: 10px; margin-bottom: 18px; }
+.deal { display: flex; gap: 12px; align-items: center; padding: 12px 14px; background: var(--gain-soft); border: 1px solid color-mix(in srgb, var(--gain) 40%, transparent); border-radius: 10px; color: var(--ink); text-decoration: none; }
+.deal img { width: 44px; height: 60px; object-fit: cover; border-radius: 4px; }
+.deal .preis { margin-left: auto; font-size: 1.2rem; font-weight: 700; white-space: nowrap; }
+
+/* Info */
+.info { background: var(--raised); border: 1px solid var(--line); border-radius: 12px; padding: 20px; }
+.info h2 { font-size: 1.25rem; margin-bottom: 8px; }
+.info p { margin: 0 0 10px; color: var(--muted); }
+
+/* Detail-Dialog */
+dialog { border: 0; padding: 0; background: transparent; max-width: min(64rem, 100vw - 16px); width: 100%; max-height: calc(100dvh - 16px); color: var(--ink); }
+dialog::backdrop { background: #000a; }
+.detail { position: relative; background: var(--surface); border: 1px solid var(--line-strong); border-radius: 14px; padding: 20px; box-shadow: var(--schatten); }
+.schliessen { position: absolute; top: 10px; right: 10px; width: 36px; height: 36px; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--raised); color: var(--ink); cursor: pointer; z-index: 2; }
+.d-oben { display: grid; grid-template-columns: 220px 1fr; gap: 22px; }
+.d-oben img { width: 100%; border-radius: 10px; }
+.d-oben h2 { font-size: 1.8rem; padding-right: 40px; }
+.d-meta { color: var(--subtle); margin: 4px 0 14px; }
+.vergleich { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 14px; }
+.kachel { background: var(--raised); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.kachel .l { font-size: .75rem; color: var(--subtle); text-transform: uppercase; letter-spacing: .05em; }
+.kachel .w { font-size: 1.35rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+.kachel .z { font-size: .8rem; color: var(--muted); }
+.kachel.bester { border-color: var(--gain); }
+.links { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.links a { padding: 7px 12px; border: 1px solid var(--line-strong); border-radius: 999px; text-decoration: none; font-size: .85rem; color: var(--ink); }
+.links a:hover { border-color: var(--akzent); }
+.d-abschnitt { margin-top: 22px; }
+.d-abschnitt h3 { font-size: 1.2rem; margin-bottom: 8px; }
+.diagramm { position: relative; background: var(--raised); border: 1px solid var(--line); border-radius: 10px; padding: 8px; }
+.diagramm svg { display: block; width: 100%; height: auto; }
+.legende { display: flex; flex-wrap: wrap; gap: 14px; font-size: .8rem; color: var(--muted); margin: 8px 4px 0; }
+.legende i { display: inline-block; width: 14px; height: 3px; vertical-align: middle; margin-right: 5px; border-radius: 2px; }
+.tipp { position: absolute; pointer-events: none; background: var(--surface); border: 1px solid var(--line-strong); border-radius: 8px; padding: 6px 9px; font-size: .8rem; white-space: nowrap; box-shadow: var(--schatten); }
+.ausblick { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-top: 10px; }
+.tabelle { width: 100%; border-collapse: collapse; font-size: .9rem; }
+.tabelle td { padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.tabelle td.r { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.tabelle a { color: var(--ink); }
+pre.eintrag { background: var(--sunken); padding: 10px; border-radius: 8px; overflow-x: auto; font-size: .85rem; }
+
+@media (max-width: 640px) {
+  .d-oben { grid-template-columns: 1fr; }
+  .d-oben img { max-width: 220px; margin: 0 auto; display: block; }
+  .detail { padding: 14px; }
+  .raster { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .tabelle .ausblenden { display: none; }
+}
