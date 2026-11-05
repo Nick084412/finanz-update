@@ -1,0 +1,29 @@
+{
+ "id": "swsh7-215",
+ "punkte": [
+  {
+   "datum": "2026-10-21",
+   "trend": 1730.43,
+   "geschaetzt": true
+  },
+  {
+   "datum": "2026-11-01",
+   "trend": 1834.3,
+   "geschaetzt": true
+  },
+  {
+   "datum": "2026-11-04",
+   "trend": 500.0,
+   "geschaetzt": true
+  },
+  {
+   "datum": "2026-11-05",
+   "trend": 1924.02,
+   "ab": 250.0,
+   "avg1": 500.0
+  }
+ ],
+ "name": "Nachtara VMAX",
+ "set": "Drachenwandel",
+ "release": "2021-08-27"
+}
