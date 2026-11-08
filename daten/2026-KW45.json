@@ -1,0 +1,291 @@
+{
+ "typ": "woche",
+ "datum": "2026-11-08",
+ "kw": "KW 45",
+ "top": [
+  {
+   "titel": "Rentenreform wird aufgeteilt",
+   "kurz": "Merz will vor Weihnachten nur den Rentenrechts-Teil ins Kabinett bringen, die Kapitalrente folgt später.",
+   "anker": "rentenreform-aufgeteilt"
+  },
+  {
+   "titel": "DAX bricht am Freitag ein",
+   "kurz": "Minus 1,9 % auf 25.820 Punkte, nachdem er am Donnerstag ein Rekordhoch erreicht hatte.",
+   "anker": "dax-freitag"
+  },
+  {
+   "titel": "Altersvorsorgedepot: Nachfrage nach Beratung",
+   "kurz": "Nur 10 % wollen das Standarddepot ohne eigene Entscheidung, drei Viertel der Vermittler wollen es anbieten.",
+   "anker": "avd-beratung"
+  },
+  {
+   "titel": "Inflation sinkt auf 2,8 %",
+   "kurz": "Im Oktober fiel die Teuerung von 3,3 % im September, vor allem wegen des Tankrabatts.",
+   "anker": "inflation-oktober"
+  },
+  {
+   "titel": "PKV-Beiträge steigen 2027 für viele",
+   "kurz": "Für gut jeden Zweiten im Schnitt um 13,4 %, die Briefe kommen im November.",
+   "anker": "pkv-2027"
+  }
+ ],
+ "kennzahlen": [
+  {
+   "name": "DAX",
+   "wert": "25.820",
+   "vorher": "25.818",
+   "stand": "Schluss Fr 06.11. · −1,9 % zum Donnerstag, Woche praktisch unverändert",
+   "quelle_name": "ad-hoc-news (dpa-AFX)",
+   "quelle_url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-6-november-1-92-prozent-tiefer/70471611"
+  },
+  {
+   "name": "EZB-Einlagensatz",
+   "wert": "2,50 %",
+   "vorher": "2,50 %",
+   "stand": "unverändert seit Sitzung am 29.10. · nächste Sitzung im Dezember",
+   "quelle_name": "Biallo",
+   "quelle_url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"
+  },
+  {
+   "name": "Bauzins 10 J.",
+   "wert": "3,91 %",
+   "vorher": "",
+   "stand": "Topzins Dr. Klein, Stand 08.11. (nicht direkt mit dem Biallo-Durchschnitt von 4,34 % der Vorwoche vergleichbar)",
+   "quelle_name": "Dr. Klein",
+   "quelle_url": "https://www.drklein.de/aktuelle-bauzinsen.html"
+  },
+  {
+   "name": "Inflation DE",
+   "wert": "2,8 %",
+   "vorher": "3,3 %",
+   "stand": "Oktober 2026, vorläufig (Vormonat September)",
+   "quelle_name": "t-online / Destatis",
+   "quelle_url": "https://t-online.de/finanzen/aktuelles/wirtschaft/id_101505586/statistisches-bundesamt-inflation-sinkt-im-oktober-auf-2-8-prozent.html"
+  }
+ ],
+ "kennzahlen_hinweis": "MSCI World und Rendite der 10-jährigen Bundesanleihe fehlen: Die gefundenen Quellen widersprachen sich, ein belegter Freitagswert liegt nicht vor.",
+ "rubriken": [
+  {
+   "titel": "Altersvorsorge & Rente",
+   "meldungen": [
+    {
+     "id": "rentenreform-aufgeteilt",
+     "titel": "Rentenreform wird in zwei Teile geteilt",
+     "text": [
+      "Kanzler Merz teilt die Rentenreform auf: Vor Weihnachten soll nur der Teil zum Rentenrecht ins Kabinett, unter anderem mit dem Aus für die abschlagsfreie „Rente mit 63“. Die Kapitalrente nach schwedischem Vorbild ist bislang nur in Eckpunkten skizziert und soll als eigenes Gesetz 2027 kommen.",
+      "Geplant sind laut Bericht zusätzliche 2 % vom Bruttolohn, je zur Hälfte von Arbeitnehmer und Arbeitgeber, ab 2028. Offen sind noch, wer das Geld verwaltet und wie hoch der Aktienanteil sein soll. Das DIW kritisiert die Verzögerung."
+     ],
+     "beratung": "Kunden nicht mit Details verunsichern: Verlässlich ist bisher nur das Altersvorsorgedepot ab 1.1.2027, die Kapitalrente ist noch Eckpunkt-Stadium.",
+     "quellen": [
+      {
+       "name": "Cash.",
+       "datum": "06.11.2026",
+       "url": "https://www.cash-online.de/a/welche-folgen-die-aufgeteilte-rentenreform-fuer-vermittler-hat-729646/"
+      }
+     ]
+    },
+    {
+     "id": "avd-beratung",
+     "titel": "Altersvorsorgedepot: Kunden und Vermittler setzen auf Beratung",
+     "text": [
+      "Laut einer DIA-Umfrage wollen nur 10 % ein fest vorgegebenes Standarddepot, 49 % möchten sich zuerst beraten lassen und dann selbst entscheiden. In einer Blitzumfrage wollen rund drei Viertel der Vermittler das Altersvorsorgedepot aktiv anbieten; knapp zwei Drittel rechnen mit starkem Beratungsbedarf."
+     ],
+     "beratung": "Das Thema aktiv ansprechen: Beratung ist der Wunsch der Kunden. Riester-Verträge nicht vorschnell kündigen, weil Zulagen verloren gehen können.",
+     "quellen": [
+      {
+       "name": "extraETF",
+       "datum": "02.11.2026",
+       "url": "https://extraetf.com/de/news/altersvorsorgedepot-nur-jeder-zehnte-will-das-standarddepot"
+      },
+      {
+       "name": "Cash.",
+       "datum": "06.11.2026",
+       "url": "https://www.cash-online.de/a/729620-2-729620/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Versicherungen",
+   "meldungen": [
+    {
+     "id": "pkv-2027",
+     "titel": "PKV-Beiträge steigen 2027 für rund 53 % der Versicherten",
+     "text": [
+      "Für etwas mehr als die Hälfte der Privatversicherten steigen die Beiträge 2027, im Schnitt um 13,4 % bei den Betroffenen. Die Mitteilungen der Versicherer kommen im November."
+     ],
+     "beratung": "Betroffene Kunden jetzt auf Tarifwechsel, Selbstbehalt und Entlastungsmöglichkeiten im Alter ansprechen.",
+     "quellen": [
+      {
+       "name": "Deutsche Wirtschafts Nachrichten",
+       "datum": "02.11.2026",
+       "url": "https://deutsche-wirtschafts-nachrichten.de/723051/private-krankversicherung-pkv-beitraege-2027-steigen-fuer-mehr-als-die-haelfte-der-privatversicherten"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Geldanlage & Märkte",
+   "meldungen": [
+    {
+     "id": "dax-freitag",
+     "titel": "DAX fällt am Freitag um 1,9 %",
+     "text": [
+      "Der DAX schloss am Freitag bei 25.820 Punkten, 505 Punkte unter dem Vortag. Auslöser war ein weltweiter Ausverkauf bei Technologie- und Chipwerten: Anleger zweifeln, ob sich die hohen KI-Investitionen auszahlen, und fürchten strengere KI-Regeln nach dem Wahlsieg der Demokraten in den USA. Am Donnerstag hatte der Index noch ein Rekordhoch von 26.693 Punkten erreicht, die Woche endet damit etwa auf Vorwochenniveau."
+     ],
+     "beratung": "Gutes Beispiel für Schwankungen: Wer breit gestreut und langfristig anlegt, muss auf einzelne Tage nicht reagieren.",
+     "quellen": [
+      {
+       "name": "ad-hoc-news (dpa-AFX)",
+       "datum": "06.11.2026",
+       "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-schliesst-am-6-november-1-92-prozent-tiefer/70471611"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Baufinanzierung & Immobilien",
+   "meldungen": [
+    {
+     "id": "bauzins-nov",
+     "titel": "Bauzinsen bleiben hoch",
+     "text": [
+      "Der Topzins für 10-jährige Darlehen liegt laut Dr. Klein bei 3,91 % (effektiv 4,01 %). Seit Juli sind die Zinsen um etwa 0,8 Prozentpunkte gestiegen. Der Expertenrat erwartet bis Jahresende stabile bis leicht steigende Zinsen, mit einem Korridor von rund 4,0 bis 4,5 %."
+     ],
+     "beratung": "Bei Finanzierungsplänen Zinsbindung und Tilgung durchrechnen, Warten auf deutlich fallende Zinsen ist laut Prognose kein sicherer Plan.",
+     "quellen": [
+      {
+       "name": "Dr. Klein",
+       "datum": "08.11.2026",
+       "url": "https://www.drklein.de/aktuelle-bauzinsen.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Recht, Regulierung & Politik",
+   "meldungen": [
+    {
+     "id": "inflation-oktober",
+     "titel": "Inflation sinkt im Oktober auf 2,8 %",
+     "text": [
+      "Die Teuerung fiel von 3,3 % im September auf 2,8 %, vor allem wegen des Tankrabatts. Die endgültigen Zahlen folgen kommende Woche."
+     ],
+     "beratung": "Weniger Inflation entlastet das Budget, aber Kaufkraftverlust bleibt ein Argument für Geldanlage statt Tagesgeld.",
+     "quellen": [
+      {
+       "name": "Destatis",
+       "datum": "30.10.2026",
+       "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Ausblick auf die neue Woche",
+   "meldungen": [
+    {
+     "id": "termin-us-inflation",
+     "titel": "Di 10.11.: US-Verbraucherpreise Oktober",
+     "text": [
+      "Um 14:30 Uhr erscheinen die US-Inflationszahlen, wichtig für die Zinserwartungen und die Börsen."
+     ],
+     "beratung": "Bei Marktschwankungen nach der Zahl ruhig bleiben.",
+     "quellen": [
+      {
+       "name": "finanzen.net (dpa-AFX Wochenvorschau)",
+       "datum": "06.11.2026",
+       "url": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-13-november-2026-16027776"
+      }
+     ]
+    },
+    {
+     "id": "termin-inflation-de",
+     "titel": "Mi 11.11.: Deutsche Inflation endgültig",
+     "text": [
+      "Destatis bestätigt um 8:00 Uhr die endgültige Oktober-Inflation (vorläufig 2,8 %)."
+     ],
+     "beratung": "Zahl als Aufhänger für das Thema Kaufkraft nutzen.",
+     "quellen": [
+      {
+       "name": "finanzen.net (dpa-AFX Wochenvorschau)",
+       "datum": "06.11.2026",
+       "url": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-13-november-2026-16027776"
+      }
+     ]
+    },
+    {
+     "id": "termin-swisslife",
+     "titel": "Mi 11.11.: Swiss Life legt Q3-Zahlen vor",
+     "text": [
+      "Der Swiss-Life-Konzern veröffentlicht um 7:00 Uhr Quartalszahlen. Am Donnerstag 12.11. folgen Allianz, Munich Re, Zurich und Talanx."
+     ],
+     "beratung": "Die Branchenzahlen zeigen, wie sich der Markt entwickelt, nützlich für Gespräche mit Kollegen.",
+     "quellen": [
+      {
+       "name": "finanzen.net (dpa-AFX Wochenvorschau)",
+       "datum": "06.11.2026",
+       "url": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-13-november-2026-16027776"
+      }
+     ]
+    },
+    {
+     "id": "termin-bgh",
+     "titel": "Mi 11.11.: BGH verhandelt zu Rechtsschutz bei Impfschaden",
+     "text": [
+      "Der Bundesgerichtshof verhandelt um 10:00 Uhr über Rechtsschutzversicherung bei einer Impfschaden-Klage."
+     ],
+     "beratung": "Kann Hinweise liefern, was Rechtsschutzpolicen abdecken.",
+     "quellen": [
+      {
+       "name": "finanzen.net (dpa-AFX Wochenvorschau)",
+       "datum": "06.11.2026",
+       "url": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-13-november-2026-16027776"
+      }
+     ]
+    },
+    {
+     "id": "termin-bundesbank",
+     "titel": "Do 12.11.: Bundesbank-Finanzstabilitätsbericht",
+     "text": [
+      "Die Bundesbank stellt ihren Finanzstabilitätsbericht 2026 vor, mit Pressekonferenz in Frankfurt."
+     ],
+     "beratung": "Lage von Banken und Immobilienmarkt als Hintergrund für Baufinanzierungsgespräche.",
+     "quellen": [
+      {
+       "name": "finanzen.net (dpa-AFX Wochenvorschau)",
+       "datum": "06.11.2026",
+       "url": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-13-november-2026-16027776"
+      }
+     ]
+    },
+    {
+     "id": "termin-bip",
+     "titel": "Fr 13.11.: Euroraum-BIP und US-Erzeugerpreise",
+     "text": [
+      "Um 11:00 Uhr erscheint die zweite Schätzung zum Euroraum-Wachstum im dritten Quartal, um 14:30 Uhr die US-Erzeugerpreise."
+     ],
+     "beratung": "Konjunkturdaten sparen, wenn Kunden nach der Wirtschaftslage fragen.",
+     "quellen": [
+      {
+       "name": "finanzen.net (dpa-AFX Wochenvorschau)",
+       "datum": "06.11.2026",
+       "url": "https://www.finanzen.net/nachricht/aktien/wochenvorschau-termine-bis-13-november-2026-16027776"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "aufhaenger": [
+  "„Die Rentenreform wird geteilt: Das Altersvorsorgedepot kommt 2027, die Kapitalrente später. Was heißt das für Ihre Planung?“",
+  "„Der DAX hat an einem Tag fast 2 % verloren, aber die Woche steht auf Vorwochenniveau. Wie gelassen sind Sie bei Schwankungen?“",
+  "„Bekommen Sie Post von Ihrer privaten Krankenversicherung? Dann schauen wir gemeinsam auf Tarifwechsel und Selbstbehalt.“"
+ ],
+ "fusszeile": "Zusammengestellt am 08.11.2026."
+}
