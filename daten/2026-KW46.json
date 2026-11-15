@@ -1,0 +1,361 @@
+{
+ "typ": "woche",
+ "datum": "2026-11-15",
+ "kw": "KW 46",
+ "top": [
+  {
+   "titel": "Altersvorsorgedepot: Streit um Provisionen und Kosten",
+   "kurz": "Der Entwurf verbietet Bestandsprovisionen nicht, verlangt aber offene Kosten; Stellungnahmen sind bis 20.11. möglich.",
+   "anker": "avd-provisionen"
+  },
+  {
+   "titel": "Nur elf Versicherer bieten volle Garantie",
+   "kurz": "29 von 38 Lebensversicherern wollen zum Start am 1.1.2027 ein gefördertes Depot anbieten.",
+   "anker": "avd-garantie"
+  },
+  {
+   "titel": "DAX mit Rekordwoche",
+   "kurz": "Plus 3,6 % auf 26.750 Punkte, am Donnerstag erstmals kurz über 27.000.",
+   "anker": "dax-woche"
+  },
+  {
+   "titel": "EU-Parlament stoppt Kleinanlegerstrategie",
+   "kurz": "Für Vermittler gelten vorerst die bisherigen Regeln weiter.",
+   "anker": "eu-kleinanleger"
+  },
+  {
+   "titel": "Frühstart-Rente vor der Bundesrats-Entscheidung",
+   "kurz": "Am 20.11. soll der Bundesrat final entscheiden; 10 Euro im Monat für Kinder.",
+   "anker": "fruehstart"
+  }
+ ],
+ "kennzahlen": [
+  {
+   "name": "DAX",
+   "wert": "26.750",
+   "vorher": "25.820",
+   "stand": "Schluss Fr 13.11. · +3,6 % auf die Woche, Donnerstag kurz über 27.000",
+   "quelle_name": "ad-hoc-news (dpa-AFX)",
+   "quelle_url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-beendet-rekordwoche-mit-leichter-verschnaufpause/70506245"
+  },
+  {
+   "name": "EZB-Einlagensatz",
+   "wert": "2,50 %",
+   "vorher": "2,50 %",
+   "stand": "unverändert seit Sitzung am 29.10.",
+   "quelle_name": "Biallo",
+   "quelle_url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"
+  },
+  {
+   "name": "Bauzins 10 J.",
+   "wert": "4,03 %",
+   "vorher": "4,01 %",
+   "stand": "Topzins effektiv, Stand 15.11. (Vorwert 10.11.)",
+   "quelle_name": "Dr. Klein",
+   "quelle_url": "https://www.drklein.de/aktuelle-bauzinsen.html"
+  },
+  {
+   "name": "Inflation DE",
+   "wert": "2,8 %",
+   "vorher": "3,3 %",
+   "stand": "Oktober 2026 (vorläufig), Vormonat September",
+   "quelle_name": "Destatis",
+   "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"
+  }
+ ],
+ "kennzahlen_hinweis": "MSCI World und Rendite 10-jähriger Bundesanleihen fehlen, weil kein sicher datierter Freitagswert gefunden wurde. Bauzinsen unterscheiden sich je nach Anbieter deutlich.",
+ "rubriken": [
+  {
+   "titel": "Altersvorsorge & Rente",
+   "meldungen": [
+    {
+     "id": "avd-provisionen",
+     "titel": "Altersvorsorgedepot: Streit um Provisionen und Kosten",
+     "text": [
+      "Der Referentenentwurf zum Altersvorsorgedepot enthält kein pauschales Verbot von Bestandsprovisionen. Zu Provisionen und Riester-Übertragungen schweigt er. Verbände können bis zum 20.11.2026 Stellung nehmen.",
+      "Anbieter sollen Abschluss-, Vertriebs- und Verwaltungskosten offenlegen. Banken- und Fondsverbände streiten mit der Versicherungswirtschaft über Vertriebskosten; der Vermittlerverband BVK fordert klare Regeln für die NAV-Vergütung."
+     ],
+     "beratung": "Kunden klar sagen, was Beratung und Betreuung kosten und wofür – das schafft Vertrauen gegenüber Null-Kosten-Werbung.",
+     "quellen": [
+      {
+       "name": "AssCompact",
+       "datum": "12.11.2026",
+       "url": "https://www.asscompact.de/nachrichten/altersvorsorgedepot-klare-regeln-fuer-provisionen-und-nav-verguetung"
+      },
+      {
+       "name": "cash-online",
+       "datum": "11.2026",
+       "url": "https://www.cash-online.de/a/nav-verguetung-oder-provision-der-kampf-ums-altersvorsorgedepot-729825/"
+      }
+     ]
+    },
+    {
+     "id": "avd-garantie",
+     "titel": "Nur elf Versicherer bieten volle Garantie",
+     "text": [
+      "Laut Franke und Bornberg planen 29 von 38 Lebensversicherern zum Start am 1. Januar 2027 ein gefördertes Produkt. 17 wollen mindestens 80 % Beitragsgarantie bieten, nur 11 die volle."
+     ],
+     "beratung": "Fragen: Wie wichtig ist Sicherheit gegenüber Rendite? Davon hängt die Anbieterwahl ab.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "11.11.2026",
+       "url": "https://www.pfefferminzia.de/vorsorge/altersvorsorgedepot-volle-garantie-bieten-nur-elf-versicherer/"
+      }
+     ]
+    },
+    {
+     "id": "fruehstart",
+     "titel": "Frühstart-Rente: Bundesrat entscheidet am 20.11.",
+     "text": [
+      "Der Bundestag hat das Gesetz am 16.10.2026 beschlossen. Der Bundesrat soll am 20.11. final entscheiden, sein Finanzausschuss empfiehlt Zustimmung. Vorgesehen sind 10 Euro im Monat für Kinder ab Jahrgang 2020, die in ein Altersvorsorgedepot fließen; Start 1.1.2027."
+     ],
+     "beratung": "Eltern und Großeltern jetzt auf das Thema ansprechen – Kinderdepots werden gefragt sein.",
+     "quellen": [
+      {
+       "name": "Bundesrat (Drucksache 619/26)",
+       "datum": "11.2026",
+       "url": "https://www.bundesrat.de/SharedDocs/drucksachen/2026/0601-0700/619-26.pdf?__blob=publicationFile&v=1"
+      },
+      {
+       "name": "renten.net",
+       "datum": "11.2026",
+       "url": "https://renten.net/news/fruehstart-rente-bundestag-beschlossen-auszahlung/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Versicherungen",
+   "meldungen": [
+    {
+     "id": "gkv-zusatz",
+     "titel": "GKV-Reform: Zusatzversicherer erwarten mehr Nachfrage",
+     "text": [
+      "Zusatzversicherer rechnen mit mehr Nachfrage, wenn die gesetzliche Krankenversicherung Leistungen zurückfährt. Barmenia hat zugleich neue Tarife der betrieblichen Krankenversicherung gestartet."
+     ],
+     "beratung": "Zahnzusatz und bKV im Kundenbestand prüfen und beim Arbeitgebergespräch ansprechen.",
+     "quellen": [
+      {
+       "name": "Pfefferminzia",
+       "datum": "13.11.2026",
+       "url": "https://www.pfefferminzia.de/gesundheit/gkv-reform-zusatzversicherer-rechnen-mit-schub/"
+      },
+      {
+       "name": "AssCompact",
+       "datum": "13.11.2026",
+       "url": "https://www.asscompact.de/nachrichten/barmenia-krankenversicherung-mit-neuen-bkv-tarifen"
+      }
+     ]
+    },
+    {
+     "id": "pkv-2027",
+     "titel": "PKV-Beiträge 2027: Briefe kommen im November",
+     "text": [
+      "Für rund 53 % der Privatversicherten steigen die Beiträge 2027, im Schnitt um 13,4 %. Die Anpassungsschreiben gehen im November raus; viele Kunden haben ein Sonderkündigungsrecht."
+     ],
+     "beratung": "PKV-Kunden aktiv anrufen: Tarifoptimierung prüfen, bevor die Frist abläuft.",
+     "quellen": [
+      {
+       "name": "Deutsche Wirtschafts Nachrichten",
+       "datum": "11.2026",
+       "url": "https://deutsche-wirtschafts-nachrichten.de/723051/private-krankversicherung-pkv-beitraege-2027-steigen-fuer-mehr-als-die-haelfte-der-privatversicherten"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Geldanlage & Märkte",
+   "meldungen": [
+    {
+     "id": "dax-woche",
+     "titel": "DAX mit Rekordwoche: 26.750 Punkte",
+     "text": [
+      "Der DAX schloss am Freitag bei 26.749,95 Punkten (−0,08 %), auf die Woche aber +3,6 %. Am Donnerstag war er erstmals kurz über 27.000. Stützen waren fallende Ölpreise und gute Quartalszahlen; Chipwerte bremsten am Freitag."
+     ],
+     "beratung": "Bei Rekorden Kunden an Streuung und Sparplan-Disziplin erinnern, statt Höchstständen hinterherzulaufen.",
+     "quellen": [
+      {
+       "name": "ad-hoc-news (dpa-AFX)",
+       "datum": "13.11.2026",
+       "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/dax-beendet-rekordwoche-mit-leichter-verschnaufpause/70506245"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Baufinanzierung & Immobilien",
+   "meldungen": [
+    {
+     "id": "bauzins",
+     "titel": "Bauzinsen bleiben um 4 %",
+     "text": [
+      "Der Topzins für 10 Jahre liegt bei 4,03 % effektiv (Stand 15.11.). Dr. Klein erwartet bis Jahresende stabile bis leicht steigende Zinsen im Korridor 4,0–4,5 %."
+     ],
+     "beratung": "Kunden mit Anschlussfinanzierung in den nächsten 12–24 Monaten: Forward-Darlehen prüfen.",
+     "quellen": [
+      {
+       "name": "Dr. Klein",
+       "datum": "15.11.2026",
+       "url": "https://www.drklein.de/aktuelle-bauzinsen.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Recht, Regulierung & Politik",
+   "meldungen": [
+    {
+     "id": "eu-kleinanleger",
+     "titel": "EU-Parlament stoppt Kleinanlegerstrategie",
+     "text": [
+      "Das EU-Parlament hat die Kleinanlegerstrategie überraschend abgelehnt. Für Vermittler gelten vorerst die bisherigen Regeln weiter."
+     ],
+     "beratung": "Kein Handlungsdruck bei Provisions- oder Beratungsregeln, aber Entwicklung beobachten.",
+     "quellen": [
+      {
+       "name": "AssCompact",
+       "datum": "12.11.2026",
+       "url": "https://www.asscompact.de/nachrichten/eu-parlament-stoppt-ueberraschend-kleinanlegerstrategie"
+      }
+     ]
+    },
+    {
+     "id": "mlp",
+     "titel": "MLP: Wechsel an der Konzernspitze ab 2028",
+     "text": [
+      "MLP hat einen neuen Vorstandsvorsitzenden ab 2028 angekündigt."
+     ],
+     "beratung": "Als Branchennachricht für Kundengespräche über Beratermarkt-Stabilität kurz parat haben.",
+     "quellen": [
+      {
+       "name": "AssCompact",
+       "datum": "12.11.2026",
+       "url": "https://www.asscompact.de/nachrichten/neuer-vorstandsvorsitzender-bei-mlp"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Was deine Kunden gerade lesen",
+   "meldungen": [
+    {
+     "id": "kunden-avd",
+     "titel": "Altersvorsorgedepot: Neobroker und Banken drängen in den Markt",
+     "text": [
+      "N26 und Consorsbank kündigen geförderte Altersvorsorgedepots zum Start 1.1.2027 an, Consorsbank ohne Depotgebühren. Kunden vergleichen dadurch verstärkt Kosten."
+     ],
+     "beratung": "Gesamtleistung erklären: Kosten, Beratung, Garantie und Auszahlphase gehören zusammen.",
+     "quellen": [
+      {
+       "name": "Stadt Bremerhaven",
+       "datum": "11.2026",
+       "url": "https://stadt-bremerhaven.de/n26-startet-altersvorsorgedepot-zum-1-januar-2027/"
+      },
+      {
+       "name": "extraETF",
+       "datum": "14.11.2026",
+       "url": "https://extraetf.com/de/news/altersvorsorgedepot-eine-lebensversicherung-kann-mehr-als-ein-neobroker"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Ausblick auf die neue Woche",
+   "meldungen": [
+    {
+     "id": "t-1611",
+     "titel": "Mo 16.11.: Euro Finance Week startet in Frankfurt",
+     "text": [
+      "Die Euro Finance Week in Frankfurt beginnt am Montag um 9 Uhr."
+     ],
+     "beratung": "Für Branchenstimmen zu Zinsen und Regulierung nutzen.",
+     "quellen": [
+      {
+       "name": "onvista / dpa-AFX Wochenvorschau",
+       "datum": "09.11.2026",
+       "url": "https://www.onvista.de/news/2026/11-09-wochenvorschau-termine-bis-20-november-2026-0-10-26573949"
+      }
+     ]
+    },
+    {
+     "id": "t-1711",
+     "titel": "Di 17.11.: ZEW-Konjunkturerwartungen",
+     "text": [
+      "Um 11 Uhr erscheinen die ZEW-Erwartungen für November. Zurich lädt außerdem zu 'Zurich Insights 2026'."
+     ],
+     "beratung": "Stimmung der Konjunktur als Gesprächseinstieg zur Geldanlage nutzen.",
+     "quellen": [
+      {
+       "name": "onvista / dpa-AFX Wochenvorschau",
+       "datum": "09.11.2026",
+       "url": "https://www.onvista.de/news/2026/11-09-wochenvorschau-termine-bis-20-november-2026-0-10-26573949"
+      }
+     ]
+    },
+    {
+     "id": "t-1811",
+     "titel": "Mi 18.11.: Inflation Euroraum und EZB-Finanzstabilität",
+     "text": [
+      "Um 11 Uhr folgt die endgültige Inflation im Euroraum für Oktober, um 10 Uhr die EZB-Pressekonferenz zum Finanzstabilitätsbericht."
+     ],
+     "beratung": "Sinkende Inflation einordnen: Kaufkraft bleibt Thema für Sparer.",
+     "quellen": [
+      {
+       "name": "onvista / dpa-AFX Wochenvorschau",
+       "datum": "09.11.2026",
+       "url": "https://www.onvista.de/news/2026/11-09-wochenvorschau-termine-bis-20-november-2026-0-10-26573949"
+      }
+     ]
+    },
+    {
+     "id": "t-1911",
+     "titel": "Do 19.11.: BGH verhandelt zur Maklerprovision",
+     "text": [
+      "Der BGH verhandelt über die Maklerprovision bei Mietervorkaufsrecht und über Impfschäden (Amtshaftung)."
+     ],
+     "beratung": "Für Immobilienkunden relevant, Entscheidung abwarten.",
+     "quellen": [
+      {
+       "name": "onvista / dpa-AFX Wochenvorschau",
+       "datum": "09.11.2026",
+       "url": "https://www.onvista.de/news/2026/11-09-wochenvorschau-termine-bis-20-november-2026-0-10-26573949"
+      }
+     ]
+    },
+    {
+     "id": "t-2011",
+     "titel": "Fr 20.11.: Bundesrat, Frist und Lagarde",
+     "text": [
+      "Der Bundesrat soll über die Frühstart-Rente entscheiden. Frist für Stellungnahmen zum Entwurf des Altersvorsorgedepots. Lagarde spricht beim Banking Congress in Frankfurt (9 Uhr)."
+     ],
+     "beratung": "Kunden nach dem 20.11. über die Entscheidung informieren.",
+     "quellen": [
+      {
+       "name": "onvista / dpa-AFX Wochenvorschau",
+       "datum": "09.11.2026",
+       "url": "https://www.onvista.de/news/2026/11-09-wochenvorschau-termine-bis-20-november-2026-0-10-26573949"
+      },
+      {
+       "name": "Bundesrat",
+       "datum": "11.2026",
+       "url": "https://www.bundesrat.de/SharedDocs/drucksachen/2026/0601-0700/619-26.pdf?__blob=publicationFile&v=1"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "aufhaenger": [
+  "Das Altersvorsorgedepot startet am 1.1.2027 – wer will mit Ihnen Kosten, Garantie und Anbieter vergleichen?",
+  "Der DAX hat Rekorde erreicht: Passt die Aufteilung im Depot noch zum Risiko, das Sie eingehen wollen?",
+  "Die PKV-Briefe kommen: Haben Sie Ihre Beitragserhöhung geprüft und Alternativen angeschaut?"
+ ],
+ "fusszeile": "Zusammengestellt am 15.11.2026."
+}
