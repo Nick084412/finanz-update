@@ -1,0 +1,36 @@
+{
+ "typ": "tag",
+ "datum": "2026-11-16",
+ "top": [
+  {"titel": "DAX: Rekordwoche, jetzt Nvidia und Anthropic", "kurz": "Nach +3,6 % in der Vorwoche hängt der Markt an den Nvidia-Zahlen am Dienstag und dem erwarteten Anthropic-Börsengang am Donnerstag.", "anker": "dax-wochenstart"},
+  {"titel": "Zinserhöhungen im Dezember gelten als fast sicher", "kurz": "Laut Wochenausblick erwarten die Märkte, dass EZB und US-Notenbank im Dezember die Leitzinsen anheben.", "anker": "zinserhoehung-erwartet"},
+  {"titel": "Offene Immobilienfonds: Nicht reflexhaft verkaufen", "kurz": "Scope hält die Lage für einen ernsten Stresstest, aber nicht für ein Systemversagen.", "anker": "offene-immofonds"}
+ ],
+ "kennzahlen": [
+  {"name": "DAX", "wert": "26.750", "stand": "Schluss 13.11. · −0,08 %", "quelle_name": "Ariva (dpa-AFX)", "quelle_url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-trotzt-nasdaq-schwaeche-12207030"},
+  {"name": "EZB-Einlagensatz", "wert": "2,50 %", "stand": "Entscheidung 29.10. · unverändert", "quelle_name": "Biallo", "quelle_url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"},
+  {"name": "Bauzins 10 J.", "wert": "4,01 %", "stand": "Top-Zins effektiv, Stand 9.11.", "quelle_name": "Dr. Klein", "quelle_url": "https://www.drklein.de/aktuelle-bauzinsen.html"},
+  {"name": "Inflation DE", "wert": "2,8 %", "stand": "Oktober 2026 (vorläufig)", "quelle_name": "Destatis", "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"}
+ ],
+ "kennzahlen_hinweis": "MSCI World und Rendite 10-jähriger Bundesanleihen fehlen: keine verlässlich datierten Werte gefunden.",
+ "rubriken": [
+  {"titel": "Das Wichtigste heute", "meldungen": [
+   {"id": "dax-wochenstart", "titel": "DAX nach Rekordwoche: Nvidia und Anthropic bestimmen die Richtung",
+    "text": ["Der DAX schloss am Freitag bei 26.749,95 Punkten (−0,08 %) und liegt damit auf Wochensicht 3,6 % im Plus. Am Donnerstag hatte er erstmals die Marke von 27.000 überschritten. Am Freitag belasteten Gewinnmitnahmen bei US-Chipwerten, Infineon verlor 4,3 %.", "Für die neue Woche nennt der Wochenausblick Nvidias Quartalszahlen (Dienstag nach US-Börsenschluss) und den erwarteten Börsengang des KI-Unternehmens Anthropic am Donnerstag als Stimmungstest. Die Nachfrage verlagere sich zudem auf defensive Branchen wie Versicherungen und Versorger."],
+    "beratung": "Bei Kunden mit Rekordständen im Depot ist jetzt ein guter Moment, über Schwankungen, Streuung und den Sparplan statt über Timing zu sprechen.",
+    "quellen": [{"name": "Ariva (dpa-AFX)", "datum": "13.11.2026", "url": "https://www.ariva.de/news/roundup-aktien-frankfurt-schluss-dax-trotzt-nasdaq-schwaeche-12207030"}, {"name": "onvista (Wochenausblick)", "datum": "16.11.2026", "url": "https://www.onvista.de/news/2026/11-16-wochenausblick-anleger-warten-nach-dax-rekord-auf-nvidia-zahlen-und-anthropic-0-10-26576595"}]},
+   {"id": "zinserhoehung-erwartet", "titel": "Märkte rechnen mit höheren Leitzinsen im Dezember",
+    "text": ["Laut dem Wochenausblick gelten Zinsanhebungen von EZB und US-Notenbank im Dezember an den Finanzmärkten als so gut wie sicher. Zinsentwicklung und US-Geldpolitik nennen Analysten als große Risiken für die Börsen. Die EZB hatte ihren Einlagensatz Ende Oktober bei 2,50 % belassen."],
+    "beratung": "Für Baufinanzierungs-Kunden gilt: Wer in den nächsten Monaten kaufen oder anschlussfinanzieren will, sollte Zinsbindung und Forward-Darlehen jetzt durchrechnen, statt auf sinkende Zinsen zu warten.",
+    "quellen": [{"name": "onvista (Wochenausblick)", "datum": "16.11.2026", "url": "https://www.onvista.de/news/2026/11-16-wochenausblick-anleger-warten-nach-dax-rekord-auf-nvidia-zahlen-und-anthropic-0-10-26576595"}]}
+  ]},
+  {"titel": "Geldanlage & Märkte", "meldungen": [
+   {"id": "offene-immofonds", "titel": "Offene Immobilienfonds: Scope warnt vor Pauschalverkäufen",
+    "text": ["Nach der Rücknahmebeschränkung beim DWS Grundbesitz Europa sieht Scope die Lage als ernsten Stresstest, nicht als Systemversagen. Betroffen sind laut Analyse 6,1 % des Branchenvolumens von rund 108 Milliarden Euro. Die Liquiditätsquoten der Fonds unterscheiden sich stark, etwa UniImmo Deutschland 19,8 % gegenüber Grundbesitz Europa 7,5 %.", "Scope warnt davor, pauschal zu verkaufen: Das würde Verluste realisieren und Anleger zusätzlich unter Druck setzen. Im Schnitt lag die Branche über ein Jahr bei etwa −3 %. Für 2027 erwartet Scope keine weitere Beschränkung bei einem großen Fonds, schließt sie aber nicht aus."],
+    "beratung": "Kunden mit offenen Immobilienfonds brauchen jetzt ein ruhiges Gespräch: Liquiditätsquote und Anlagehorizont prüfen, nicht aus Angst verkaufen und nicht zu viel in einen Fonds legen.",
+    "quellen": [{"name": "DAS INVESTMENT", "datum": "13.11.2026 (aktualisiert)", "url": "https://dasinvestment.com/scope-offene-immobilienfonds-ernste-lage-aber-kein-systemversagen"}]}
+  ]}
+ ],
+ "aufhaenger": ["„Der DAX hat gerade ein Rekordhoch erreicht und rutscht schon wieder ein Stück zurück. Genau deshalb sparen wir regelmäßig und streuen breit, damit Sie nicht raten müssen, wann der richtige Moment ist.“"],
+ "fusszeile": "Zusammengestellt am 16.11.2026. Am Wochenende erschienen kaum neue datierte Fachmeldungen, deshalb ist diese Ausgabe kürzer. Keine neuen tecis- oder Swiss-Life-Meldungen gefunden. Frühstart-Rente: Bundesrat entscheidet am 20.11. (siehe Wochenüberblick KW 46)."
+}
