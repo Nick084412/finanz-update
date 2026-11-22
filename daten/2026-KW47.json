@@ -1,0 +1,247 @@
+{
+ "typ": "woche",
+ "datum": "2026-11-22",
+ "kw": "KW 47",
+ "top": [
+  {
+   "titel": "DAX bricht ein: 7 % Wochenverlust",
+   "kurz": "Der DAX fiel an allen fünf Handelstagen und schloss Freitag bei rund 24.800 Punkten, etwa 7 % unter dem Vorwochenwert.",
+   "anker": "dax-woche"
+  },
+  {
+   "titel": "Frühstart-Rente beschlossen",
+   "kurz": "Der Bundesrat hat am 20.11. zugestimmt: 10 Euro im Monat je Kind ab Jahrgang 2020, Start 1.1.2027.",
+   "anker": "fruehstart-beschlossen"
+  },
+  {
+   "titel": "Streit um Bestandsprovisionen",
+   "kurz": "Der GDV will laufende Vergütungen bei Riester-Umdeckungen verbieten – das sorgt im Verband selbst für Ärger.",
+   "anker": "gdv-bestandsprovisionen"
+  },
+  {
+   "titel": "Kfz: Wechselfrist endet am 30.11.",
+   "kurz": "Rekord-Schadenkosten treiben die Beiträge 2027; Kunden sollten jetzt Angebote vergleichen.",
+   "anker": "kfz-wechsel"
+  },
+  {
+   "titel": "Neue Woche: ifo, BIP und EZB-Protokoll",
+   "kurz": "Wichtige Termine sind ifo-Index (24.11.), BIP-Zahl (25.11.) und das EZB-Protokoll (26.11.).",
+   "anker": "ausblick-woche"
+  }
+ ],
+ "kennzahlen": [
+  {
+   "name": "DAX",
+   "wert": "24.803",
+   "vorher": "26.750",
+   "stand": "Schluss Fr 20.11. · −7,3 % auf die Woche",
+   "quelle_name": "aktiencheck.de",
+   "quelle_url": "https://aktiencheck.de/artikel/dax-faellt-um-rund-27-prozent-scout24-und-infineon-brechen-ein-fresenius-medical"
+  },
+  {
+   "name": "EZB-Einlagensatz",
+   "wert": "2,50 %",
+   "vorher": "2,50 %",
+   "stand": "unverändert seit Sitzung am 29.10.",
+   "quelle_name": "Biallo",
+   "quelle_url": "https://www.biallo.de/geldanlage/news/ezb-haelt-leitzins-konstant/"
+  },
+  {
+   "name": "Bauzins 10 J.",
+   "wert": "ca. 4,24 %",
+   "vorher": "4,03 %",
+   "stand": "Interhyp-Schnitt November; Vorwert Dr. Klein (Topzins) – nicht direkt vergleichbar",
+   "quelle_name": "Dr. Klein",
+   "quelle_url": "https://www.drklein.de/aktuelle-bauzinsen.html"
+  },
+  {
+   "name": "Inflation DE",
+   "wert": "2,8 %",
+   "vorher": "3,3 %",
+   "stand": "Oktober 2026 (vorläufig), Vormonat September",
+   "quelle_name": "Destatis",
+   "quelle_url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"
+  },
+  {
+   "name": "Bund 10 J.",
+   "wert": "ca. 3,30 %",
+   "vorher": "3,38 %",
+   "stand": "Fr 20.11. (dpa-AFX), Quellen schwanken zwischen 3,30 und 3,41 %",
+   "quelle_name": "aktiencheck.de",
+   "quelle_url": "https://aktiencheck.de/artikel/bundesanleihen-wochenbilanz-mit-330-prozent-rendite-sechs-basispunkte-unter-der"
+  }
+ ],
+ "kennzahlen_hinweis": "MSCI World fehlt, weil kein sicher datierter Freitagswert gefunden wurde. DAX-Schluss laut automatisch erstelltem Marktbericht; Bauzins-Werte stammen von verschiedenen Anbietern.",
+ "rubriken": [
+  {
+   "titel": "Altersvorsorge & Rente",
+   "meldungen": [
+    {
+     "id": "fruehstart-beschlossen",
+     "titel": "Frühstart-Rente: Bundesrat stimmt zu",
+     "text": [
+      "Der Bundesrat hat die Frühstart-Rente am 20.11.2026 gebilligt. Kinder ab Jahrgang 2020 bekommen vom 6. bis zum 18. Lebensjahr 10 Euro im Monat, zusammen 1.440 Euro. Einen Antrag müssen Eltern nicht stellen.",
+      "Eltern können bis zu 6.840 Euro im Jahr zusätzlich einzahlen. Das Geld ist bis 65 gebunden. Beim Standarddepot sind höchstens 1 % Kosten pro Jahr erlaubt, bis zur Volljährigkeit keine Abschluss- und Vertriebskosten. Verbraucherschützer finden 1 % zu hoch, der Fondsverband BVI sieht den Zugang zur Beratung eingeschränkt."
+     ],
+     "beratung": "Eltern und Großeltern können früh gezielt aufstocken – ein guter Anlass, über Kinder-Vorsorge zu sprechen.",
+     "quellen": [
+      {
+       "name": "cash-online.de",
+       "datum": "20.11.2026",
+       "url": "https://www.cash-online.de/a/fruehstartrente-beschlossen-altersvorsorgedepot-2027-startet-fuer-kinder-731128/"
+      }
+     ]
+    },
+    {
+     "id": "avd-verguetung",
+     "titel": "Altersvorsorgedepot: Streit um die Vergütung",
+     "text": [
+      "Banken- und Fondsverbände streiten mit der Versicherungswirtschaft über Bestandsprovisionen, vor allem bei Riester-Übertragungen. Der Vermittlerverband BVK fordert in seiner Stellungnahme eine verlässliche Vergütung für Berater.",
+      "Versicherungsmathematiker Axel Kleinlein warnt, die Provisionen könnten höher ausfallen als die Riester-Abschlusskosten. In einer BVK-Umfrage wollen 75,2 % der Vermittler das Produkt aktiv anbieten."
+     ],
+     "beratung": "Kosten offen und verständlich erklären – das wird beim Altersvorsorgedepot ein Vertrauensthema.",
+     "quellen": [
+      {
+       "name": "cash-online.de",
+       "datum": "2026-11",
+       "url": "https://www.cash-online.de/a/altersvorsorgedepot-2027-bvk-fordert-faire-verguetung-fuer-berater-731100/"
+      },
+      {
+       "name": "versicherungswirtschaft-heute.de",
+       "datum": "28.10.2026",
+       "url": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-10-28/axel-kleinlein-provisionen-im-altersvorsorgedepot-hoeher-als-abschlusskosten-bei-riester/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Versicherungen",
+   "meldungen": [
+    {
+     "id": "kfz-wechsel",
+     "titel": "Kfz-Versicherung: Wechselfrist endet am 30. November",
+     "text": [
+      "Der GDV rechnet für 2026 mit Schadenleistungen von rund 35 Milliarden Euro, gut 10 % mehr als im Vorjahr. Wer zum Jahreswechsel wechseln will, muss bis 30.11. kündigen."
+     ],
+     "beratung": "Kunden jetzt an den Vergleich erinnern – die Frist läuft in gut einer Woche ab.",
+     "quellen": [
+      {
+       "name": "netz-trends.de",
+       "datum": "2026-11",
+       "url": "https://www.netz-trends.de/kfz-versicherung-2027-gdv-meldet-rekord-schadenkosten-wechselfrist-30-november/"
+      }
+     ]
+    },
+    {
+     "id": "leitungswasser",
+     "titel": "Leitungswasserschäden: weniger Fälle, teurer je Fall",
+     "text": [
+      "Laut GDV sank die Zahl der Leitungswasserschäden 2025 um 5,5 %, die Kosten pro Schaden stiegen aber um 7,5 %."
+     ],
+     "beratung": "Ein guter Anlass, Wohngebäude- und Hausratschutz auf ausreichende Versicherungssumme zu prüfen.",
+     "quellen": [
+      {
+       "name": "versicherungswirtschaft-heute.de",
+       "datum": "20.11.2026",
+       "url": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-11-20/leitungswasserschaeden-aergern-versicherer-nicht-mehr-ganz-so-sehr/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Geldanlage & Märkte",
+   "meldungen": [
+    {
+     "id": "dax-woche",
+     "titel": "DAX: Wochenverlust von gut 7 %",
+     "text": [
+      "Der DAX fiel an allen fünf Handelstagen. Am Freitag verlor er rund 2,7 % und schloss laut Marktbericht bei etwa 24.800 Punkten, unter der 25.000er-Marke. 33 der 40 Werte gaben nach. Der Rekord lag am 12.11. bei 27.001,67 Punkten.",
+      "Als Belastung gelten Zinssorgen; der Markt rechnet mit einer EZB-Zinserhöhung im Dezember."
+     ],
+     "beratung": "Kunden daran erinnern: Schwankungen gehören dazu, Sparpläne laufen weiter und kaufen jetzt günstiger.",
+     "quellen": [
+      {
+       "name": "aktiencheck.de",
+       "datum": "20.11.2026",
+       "url": "https://aktiencheck.de/artikel/dax-faellt-um-rund-27-prozent-scout24-und-infineon-brechen-ein-fresenius-medical"
+      },
+      {
+       "name": "aktiencheck.de",
+       "datum": "20.11.2026",
+       "url": "https://aktiencheck.de/artikel/dax-wochenausblick-ifo-einkaufsmanager-bip-und-zwei-kapitalmarkttage-welche"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Baufinanzierung & Immobilien",
+   "meldungen": [
+    {
+     "id": "bund-rendite",
+     "titel": "Rendite von Bundesanleihen sinkt leicht",
+     "text": [
+      "Die zehnjährige Bundesanleihe rentierte am Freitag laut dpa-AFX bei rund 3,30 % nach 3,38 % in der Vorwoche. Sie dient als Richtwert für Bauzinsen. Der Markt preist für den 17.12. eine EZB-Zinserhöhung zu rund 91 % ein."
+     ],
+     "beratung": "Bauzinsen können wieder anziehen – Kunden mit Anschlussfinanzierung früh beraten.",
+     "quellen": [
+      {
+       "name": "aktiencheck.de",
+       "datum": "20.11.2026",
+       "url": "https://aktiencheck.de/artikel/bundesanleihen-zehnjaehrige-faellt-auf-334-prozent-schatz-bei-309"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Recht, Regulierung & Politik",
+   "meldungen": [
+    {
+     "id": "gdv-bestandsprovisionen",
+     "titel": "GDV für Verbot laufender Vergütungen bei Riester-Umdeckung",
+     "text": [
+      "Der GDV hat beim Bundesfinanzministerium Stellung genommen und befürwortet ein Verbot von Bestandsprovisionen bei der Umdeckung von Riester-Guthaben. Das sorgt laut Bericht im Verband selbst für Ärger."
+     ],
+     "beratung": "Vergütungsregeln beobachten – sie beeinflussen, wie Riester-Wechsel künftig beraten werden.",
+     "quellen": [
+      {
+       "name": "Versicherungsmonitor",
+       "datum": "20.11.2026",
+       "url": "https://versicherungsmonitor.de/2026/11/20/gdv-will-verbot-von-bestandsprovisionen/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Ausblick auf die neue Woche",
+   "meldungen": [
+    {
+     "id": "ausblick-woche",
+     "titel": "Termine: Mo 23.11. bis Fr 27.11.",
+     "text": [
+      "Mo 23.11.: Einkaufsmanagerindizes. Di 24.11.: ifo-Geschäftsklima (10 Uhr). Mi 25.11.: BIP Deutschland 3. Quartal (8 Uhr), Bundesanleihen-Auktion. Do 26.11.: EZB-Protokoll der Oktober-Sitzung (13:30 Uhr). Fr 27.11.: Arbeitsmarktdaten.",
+      "Dazu: Kapitalmarkttage von BASF (24.11.), Hannover Rück (25.11.) und Rheinmetall (26.–27.11.) sowie ein EU-Sondergipfel. Do 26.11. ist US-Feiertag."
+     ],
+     "beratung": "Nach dem Kursrutsch lohnt ein ruhiger Blick auf Ifo und EZB-Protokoll als Gesprächsstoff.",
+     "quellen": [
+      {
+       "name": "aktiencheck.de",
+       "datum": "20.11.2026",
+       "url": "https://aktiencheck.de/artikel/dax-wochenausblick-ifo-einkaufsmanager-bip-und-zwei-kapitalmarkttage-welche"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "aufhaenger": [
+  "Der DAX hat in einer Woche gut 7 % verloren – was bedeutet das für Ihren Sparplan?",
+  "Die Frühstart-Rente kommt: Wollen Sie für Ihre Kinder oder Enkel aufstocken?",
+  "Kfz-Versicherung: Bis 30.11. können Sie noch kündigen – sollen wir vergleichen?"
+ ],
+ "fusszeile": "Zusammengestellt am 22.11.2026."
+}
